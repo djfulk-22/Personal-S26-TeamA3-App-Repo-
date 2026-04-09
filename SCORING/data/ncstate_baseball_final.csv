@@ -1,0 +1,1609 @@
+season,game_number,date,start_time,opponent,tournament,venue,promotion,result,ncstate_score,opponent_score,attendance
+1999,1,Feb 9(Tue),7:00 PM,North Carolina A&T,,Doak Field,,"W, 6-2",6,2,652
+1999,2,Feb 12(Fri),7:00 PM,Virginia Commonwealth,,The Diamond,,"W, 2-1",2,1,572
+1999,3,Feb 13(Sat),7:00 PM,The Citadel,,Riley Park,,"W, 5-3",5,3,1536
+1999,4,Feb 14(Sun),7:00 PM,East Carolina,,Doak Field,,"L, 0-8",0,8,384
+1999,5,Feb 17(Wed),7:00 PM,William & Mary,,Doak Field,,"W, 6-4",6,4,347
+1999,6,Feb 19(Fri),1:00 PM,Villanova,,Doak Field,,"W, 21-8",21,8,117
+1999,7,Feb 20(Sat),1:00 PM,Villanova,,Doak Field,,"W, 5-3",5,3,424
+1999,8,Feb 21(Sun),1:00 PM,Villanova,,Doak Field,,"W, 20-0",20,0,322
+1999,9,Feb 24(Wed),7:00 PM,Appalachian State,,Doak Field,,"W, 18-3",18,3,228
+1999,10,Feb 26(Fri),7:00 PM,Charleston Southern,,Buccaneer Field,,"W, 11-6",11,6,125
+1999,11,Feb 27(Sat),7:00 PM,Charleston Southern,,Buccaneer Field,,"W, 16-11",16,11,205
+1999,12,Mar 2(Tue),7:00 PM,Elon,,Doak Field,,"W, 11-4",11,4,344
+1999,13,Mar 5(Fri),7:00 PM,Massachusetts,,Doak Field,,"W, 12-1",12,1,132
+1999,14,Mar 6(Sat),7:00 PM,Massachusetts,,Doak Field,,"W, 2-0",2,0,141
+1999,15,Mar 7(Sun),7:00 PM,Massachusetts,,Doak Field,,"W, 8-2",8,2,123
+1999,16,Mar 8(Mon),7:00 PM,Ball State,,Doak Field,,"W, 5-2",5,2,88
+1999,17,Mar 10(Wed),7:00 PM,Cleveland State,,Doak Field,,"W, 9-1",9,1,34
+1999,18,Mar 10(Wed),7:00 PM,Cleveland State,,Doak Field,,"W, 7-3",7,3,73
+1999,19,Mar 12(Fri),7:00 PM,Georgia Tech,,Mac Nease Park,,"L, 4-9",4,9,707
+1999,20,Mar 13(Sat),7:00 PM,Georgia Tech,,Mac Nease Park,,"L, 6-7",6,7,395
+1999,21,Mar 14(Sun),7:00 PM,Georgia Tech,,Mac Nease Park,,"W, 12-7",12,7,229
+1999,22,Mar 16(Tue),7:00 PM,Western Carolina,,Doak Field,,"W, 7-2",7,2,173
+1999,23,Mar 17(Wed),7:00 PM,Western Carolina,,Doak Field,,"W, 11-1",11,1,637
+1999,24,Mar 19(Fri),7:00 PM,Florida State,,Doak Field,,"L, 4-14",4,14,2243
+1999,25,Mar 20(Sat),7:00 PM,Florida State,,Doak Field,,"L, 1-2",1,2,2097
+1999,26,Mar 21(Sun),7:00 PM,Florida State,,Doak Field,,"L, 1-13",1,13,631
+1999,27,Mar 24(Wed),7:00 PM,The Citadel,,Doak Field,,"W, 16-5",16,5,349
+1999,28,Mar 26(Fri),7:00 PM,Virginia,,Disharoon Park,,"W, 2-1",2,1,143
+1999,29,Mar 27(Sat),7:00 PM,Virginia,,Disharoon Park,,"W, 8-3",8,3,147
+1999,30,Mar 28(Sun),7:00 PM,Virginia,,Disharoon Park,,"L, 6-9",6,9,203
+1999,31,Mar 30(Tue),7:00 PM,Old Dominion,,Doak Field,,"L, 4-8",4,8,230
+1999,32,Mar 31(Wed),7:00 PM,UNC Wilmington,,Brooks Field,,"L, 2-7",2,7,624
+1999,33,Apr 2(Fri),7:00 AM,North Carolina,,Doak Field,,"L, 12-13",12,13,2844
+1999,34,Apr 3(Sat),7:00 AM,North Carolina,,Doak Field,,"W, 8-7",8,7,2958
+1999,35,Apr 4(Sun),1:30 PM,North Carolina,,Doak Field,,"W, 3-1",3,1,2298
+1999,36,Apr 7(Wed),7:00 PM,UNC Wilmington,,Doak Field,,"W, 11-5",11,5,1144
+1999,37,Apr 9(Fri),7:00 PM,Miami,,Mark Light Field,,"L, 4-7",4,7,2447
+1999,38,Apr 10(Sat),7:00 PM,Miami,,Mark Light Field,,"W, 13-9",13,9,2471
+1999,39,Apr 11(Sun),7:00 PM,Miami,,Mark Light Field,,"L, 6-7",6,7,1441
+1999,40,Apr 13(Tue),7:00 PM,Virginia Commonwealth,,Doak Field,,"L, 4-5",4,5,272
+1999,41,Apr 14(Wed),7:00 PM,Old Dominion,,Bud Metheny Baseball Complex,,"L, 5-7",5,7,248
+1999,42,Apr 14(Wed),7:00 PM,Clemson,,Doak Field,,"W, 19-9",19,9,355
+1999,43,Apr 16(Fri),7:00 PM,Maryland,,Doak Field,,"W, 11-10",11,10,954
+1999,44,Apr 17(Sat),7:00 PM,Maryland,,Doak Field,,"W, 7-5",7,5,560
+1999,45,Apr 18(Sun),1:00 PM,Maryland,,Doak Field,,"L, 0-6",0,6,1374
+1999,46,Apr 20(Tue),7:00 PM,Oklahoma State,,Doak Field,,"W, 9-6",9,6,885
+1999,47,Apr 21(Wed),7:00 PM,Oklahoma State,,Doak Field,,"L, 1-4",1,4,403
+1999,48,Apr 23(Fri),7:00 PM,Wake Forest,,Gene Hooks Field,,"L, 9-13",9,13,1069
+1999,49,Apr 24(Sat),7:00 PM,Wake Forest,,Gene Hooks Field,,"L, 10-11",10,11,1745
+1999,50,Apr 25(Sun),7:00 PM,Wake Forest,,Gene Hooks Field,,"W, 13-7",13,7,1138
+1999,51,Apr 30(Fri),7:00 PM,Duke,,Jack Coombs Field,,"W, 11-5",11,5,154
+1999,52,May 1(Sat),7:00 PM,Duke,,Jack Coombs Field,,"L, 2-3",2,3,227
+1999,53,May 2(Sun),7:00 PM,Duke,,Jack Coombs Field,,"L, 4-8",4,8,
+1999,54,May 8(Sat),7:00 PM,East Carolina,,Fleming Stadium,,"W, 3-2",3,2,3867
+1999,55,May 15(Sat),7:00 PM,Clemson,,Doak Field,,"W, 7-4",7,4,1147
+1999,56,May 16(Sun),7:00 PM,Clemson,,Doak Field,,"L, 4-7",4,7,1660
+1999,57,May 19(Wed),7:00 PM,Clemson,ACC Tournament,Durham Bulls Athletic Park,,"L, 6-7",6,7,2643
+1999,58,May 20(Thu),7:00 PM,Virginia,ACC Tournament,Durham Bulls Athletic Park,,"W, 9-6",9,6,1419
+1999,59,May 21(Fri),7:00 PM,Georgia Tech,ACC Tournament,Durham Bulls Athletic Park,,"W, 9-6",9,6,
+1999,60,May 22(Sat),7:00 PM,Wake Forest,ACC Tournament,Durham Bulls Athletic Park,,"L, 6-11",6,11,
+1999,61,May 28(Fri),7:00 PM,Auburn,NCAA Auburn Regional,Plainsman Park,,"L, 7-9",7,9,3496
+1999,62,May 29(Sat),7:00 PM,Tulane,NCAA Auburn Regional,Plainsman Park,,"L, 5-11",5,11,2550
+2000,1,Feb 11(Fri),7:00 PM,East Carolina,,Riley Park,,"L, 2-10",2,10,412
+2000,2,Feb 12(Sat),7:00 PM,The Citadel,,Riley Park,,"L, 1-2",1,2,1571
+2000,3,Feb 13(Sun),7:00 PM,Old Dominion,,Riley Park,,"W, 11-2",11,2,1281
+2000,4,Feb 16(Wed),7:00 PM,Elon,,Doak Field,,"W, 4-3",4,3,244
+2000,5,Feb 18(Fri),7:00 PM,Rutgers,,Doak Field,,"W, 9-8",9,8,102
+2000,6,Feb 19(Sat),7:00 PM,Rutgers,,Doak Field,,"L, 3-7",3,7,347
+2000,7,Feb 20(Sun),7:00 PM,Rutgers,,Doak Field,,"W, 5-4",5,4,556
+2000,8,Feb 25(Fri),7:00 PM,Cleveland State,,Doak Field,,"W, 10-5",10,5,714
+2000,9,Feb 26(Sat),7:00 PM,Cleveland State,,Doak Field,,"W, 7-3",7,3,869
+2000,10,Feb 27(Sun),7:00 PM,Cleveland State,,Doak Field,,"W, 4-2",4,2,357
+2000,11,Mar 1(Wed),7:00 PM,Davidson,,Doak Field,,"L, 5-7",5,7,383
+2000,12,Mar 3(Fri),7:00 PM,George Mason,,Doak Field,,"W, 4-3",4,3,244
+2000,13,Mar 4(Sat),7:00 PM,George Mason,,Doak Field,,"L, 3-6",3,6,88
+2000,14,Mar 5(Sun),7:00 PM,George Mason,,Doak Field,,"W, 14-9",14,9,893
+2000,15,Mar 7(Tue),7:00 PM,Richmond,,Doak Field,,"L, 1-5",1,5,283
+2000,16,Mar 8(Wed),7:00 PM,Richmond,,Doak Field,,"W, 4-3",4,3,360
+2000,17,Mar 10(Fri),3:00 PM,Wake Forest,,Doak Field,,"L, 0-11",0,11,435
+2000,18,Mar 11(Sat),1:30 PM,Wake Forest,,Doak Field,,"W, 8-6",8,6,407
+2000,19,Mar 12(Sun),1:30 PM,Wake Forest,,Doak Field,,"W, 12-4",12,4,758
+2000,20,Mar 15(Wed),7:00 PM,Pace University,,Doak Field,,"W, 10-2",10,2,116
+2000,21,Mar 17(Fri),7:00 PM,Virginia,,Doak Field,,"W, 16-13",16,13,353
+2000,22,Mar 18(Sat),1:30 PM,Virginia,,Doak Field,,"W, 4-2",4,2,420
+2000,23,Mar 19(Sun),1:30 PM,Virginia,,Doak Field,,"L, 1-3",1,3,281
+2000,24,Mar 24(Fri),3:00 PM,North Carolina,,Boshamer Stadium,,"W, 14-11",14,11,2064
+2000,25,Mar 25(Sat),1:00 PM,North Carolina,,Boshamer Stadium,,"L, 2-5",2,5,2935
+2000,26,Mar 26(Sun),1:30 PM,North Carolina,,Boshamer Stadium,,"L, 1-4",1,4,1657
+2000,27,Mar 28(Tue),7:00 PM,The Citadel,,Doak Field,,"L, 4-5",4,5,114
+2000,28,Mar 29(Wed),7:00 PM,UNC Wilmington,,Brooks Field,,"W, 12-0",12,0,365
+2000,29,Mar 31(Fri),7:00 PM,Georgia Tech,,Doak Field,,"L, 1-13",1,13,833
+2000,30,Apr 1(Sat),7:00 PM,Georgia Tech,,Doak Field,,"L, 6-11",6,11,709
+2000,31,Apr 2(Sun),7:00 PM,Georgia Tech,,Doak Field,,"L, 3-4",3,4,542
+2000,32,Apr 4(Tue),7:00 PM,Charleston Southern,,Doak Field,,"W, 7-6",7,6,64
+2000,33,Apr 5(Wed),7:00 PM,Charleston Southern,,Doak Field,,"W, 6-2",6,2,116
+2000,34,Apr 7(Fri),7:15 PM,Clemson,,Doug Kingsmore Stadium,,"W, 5-1",5,1,3532
+2000,35,Apr 8(Sat),7:00 PM,Clemson,,Doug Kingsmore Stadium,,"L, 0-9",0,9,1543
+2000,36,Apr 9(Sun),2:00 PM,Clemson,,Doug Kingsmore Stadium,,"L, 4-8",4,8,2258
+2000,37,Apr 11(Tue),7:00 PM,High Point,,Doak Field,,"W, 12-3",12,3,235
+2000,38,Apr 12(Wed),7:00 PM,Old Dominion,,Doak Field,,"L, 8-9",8,9,164
+2000,39,Apr 15(Sat),7:00 PM,Duke,,Doak Field,,"W, 12-7",12,7,131
+2000,40,Apr 15(Sat),7:00 PM,Duke,,Doak Field,,"W, 8-4",8,4,138
+2000,41,Apr 16(Sun),7:00 PM,Duke,,Doak Field,,"L, 5-8",5,8,683
+2000,42,Apr 18(Tue),7:00 PM,UNC Greensboro,,Doak Field,,"W, 8-7",8,7,133
+2000,43,Apr 19(Wed),7:00 PM,Old Dominion,,Bud Metheny Baseball Complex,,"L, 2-12",2,12,219
+2000,44,Apr 21(Fri),7:00 PM,Miami,,Durham Bulls Athletic Park,,"L, 0-12",0,12,1502
+2000,45,Apr 22(Sat),1:00 PM,Miami,,Doak Field,,"L, 1-19",1,19,1628
+2000,46,Apr 23(Sun),1:00 PM,Miami,,Doak Field,,"W, 5-4",5,4,1442
+2000,47,Apr 25(Tue),6:59 PM,Coastal Carolina,,Doak Field,,"L, 3-4",3,4,77
+2000,48,Apr 26(Wed),7:00 PM,UNC Wilmington,,Doak Field,,"W, 10-2",10,2,544
+2000,49,Apr 28(Fri),7:00 PM,Florida State,,Dick Howser Stadium,,"W, 5-4",5,4,2035
+2000,50,Apr 29(Sat),7:00 PM,Florida State,,Dick Howser Stadium,,"L, 2-8",2,8,2918
+2000,51,Apr 30(Sun),1:00 PM,Florida State,,Dick Howser Stadium,,"L, 5-6",5,6,2409
+2000,52,May 5(Fri),7:00 PM,Maryland,,Shipley Field,,"L, 0-3",0,3,133
+2000,53,May 6(Sat),1:00 PM,Maryland,,Shipley Field,,"W, 5-4",5,4,156
+2000,54,May 7(Sun),1:00 PM,Maryland,,Shipley Field,,"L, 3-13",3,13,151
+2000,55,May 12(Fri),7:00 PM,Liberty,,Doak Field,,"W, 11-3",11,3,226
+2000,56,May 13(Sat),7:00 PM,Liberty,,Doak Field,,"W, 6-5",6,5,682
+2000,57,May 17(Wed),7:00 PM,Florida State,ACC Tournament,Knights Stadium,,"L, 6-8",6,8,4087
+2000,58,May 18(Thu),7:00 PM,Virginia,ACC Tournament,Knights Stadium,,"L, 5-9",5,9,1378
+2001,1,Feb 9(Fri),7:00 PM,Cincinnati,,Doak Field,,"W, 4-3",4,3,1424
+2001,2,Feb 10(Sat),7:00 PM,Cincinnati,,Doak Field,,"L, 9-11",9,11,1238
+2001,3,Feb 11(Sun),7:00 PM,Cincinnati,,Doak Field,,"L, 6-12",6,12,541
+2001,4,Feb 16(Fri),7:00 PM,West Virginia,,Riley Park,,"W, 2-1",2,1,285
+2001,5,Feb 17(Sat),7:00 PM,The Citadel,,Riley Park,,"W, 13-4",13,4,1588
+2001,6,Feb 18(Sun),7:00 PM,George Mason,,Riley Park,,"L, 4-9",4,9,504
+2001,7,Feb 23(Fri),7:00 PM,Rutgers,,Doak Field,,"L, 2-4",2,4,463
+2001,8,Feb 24(Sat),7:00 PM,Rutgers,,Doak Field,,"L, 2-8",2,8,851
+2001,9,Feb 25(Sun),7:00 PM,Rutgers,,Doak Field,,"L, 7-8",7,8,114
+2001,10,Feb 28(Wed),7:00 PM,Elon,,Doak Field,,"L, 3-9",3,9,232
+2001,11,Mar 2(Fri),3:00 PM,Richmond,,Doak Field,,"W, 7-4",7,4,357
+2001,12,Mar 2(Fri),3:00 PM,Richmond,,Doak Field,,"W, 10-3",10,3,72
+2001,13,Mar 5(Mon),7:00 PM,Ball State,,Doak Field,,"W, 4-3",4,3,106
+2001,14,Mar 6(Tue),7:00 PM,Ball State,,Doak Field,,"W, 11-4",11,4,57
+2001,15,Mar 9(Fri),7:00 PM,Georgia Tech,,Mac Nease Park,,"W, 9-7",9,7,502
+2001,16,Mar 10(Sat),7:00 PM,Georgia Tech,,Mac Nease Park,,"L, 1-5",1,5,1073
+2001,17,Mar 11(Sun),7:00 PM,Georgia Tech,,Mac Nease Park,,"W, 16-8",16,8,1565
+2001,18,Mar 13(Tue),7:00 PM,Winthrop,,Knights Stadium,,"L, 3-5",3,5,53
+2001,19,Mar 14(Wed),7:00 PM,Campbell,,Jim Perry Stadium,,"W, 10-1",10,1,622
+2001,20,Mar 16(Fri),7:00 PM,Florida State,,Doak Field,,"L, 7-8",7,8,631
+2001,21,Mar 17(Sat),1:00 PM,Florida State,,Doak Field,,"W, 4-2",4,2,1232
+2001,22,Mar 18(Sun),1:30 PM,Florida State,,Doak Field,,"L, 3-12",3,12,1637
+2001,23,Mar 23(Fri),3:00 PM,Virginia,,Disharoon Park,,"L, 7-8",7,8,178
+2001,24,Mar 24(Sat),2:00 PM,Virginia,,Disharoon Park,,"L, 2-10",2,10,303
+2001,25,Mar 25(Sun),1:00 PM,Virginia,,Disharoon Park,,"W, 10-3",10,3,288
+2001,26,Mar 28(Wed),7:00 PM,Campbell,,Doak Field,,"W, 5-4",5,4,259
+2001,27,Mar 30(Fri),7:00 PM,North Carolina,,Doak Field,,"W, 16-9",16,9,2507
+2001,28,Apr 2(Mon),7:00 PM,North Carolina,,Doak Field,,"L, 7-16",7,16,227
+2001,29,Apr 2(Mon),1:30 PM,North Carolina,,Doak Field,,"L, 7-8",7,8,156
+2001,30,Apr 3(Tue),7:00 PM,UNC Wilmington,,Doak Field,,"W, 4-3",4,3,186
+2001,31,Apr 4(Wed),7:03 PM,Charlotte,,Doak Field,,"W, 6-2",6,2,163
+2001,32,Apr 6(Fri),7:00 PM,UNC Greensboro,,Doak Field,,"W, 4-2",4,2,446
+2001,33,Apr 7(Sat),7:02 PM,UNC Greensboro,,UNCG Baseball Complex,,"W, 11-6",11,6,689
+2001,34,Apr 7(Sat),7:00 PM,High Point,,Williard Stadium,,"L, 6-9",6,9,219
+2001,35,Apr 10(Tue),7:00 PM,Virginia Commonwealth,,The Diamond,,"W, 7-4",7,4,150
+2001,36,Apr 11(Wed),7:00 PM,Old Dominion,,Bud Metheny Baseball Complex,,"L, 1-7",1,7,233
+2001,37,Apr 13(Fri),7:00 PM,Maryland,,Doak Field,,"W, 5-1",5,1,636
+2001,38,Apr 14(Sat),7:00 PM,Maryland,,Doak Field,,"L, 5-7",5,7,1072
+2001,39,Apr 15(Sun),1:30 PM,Maryland,,Doak Field,,"W, 15-7",15,7,538
+2001,40,Apr 17(Tue),7:00 PM,UNC Wilmington,,Brooks Field,,"W, 4-3",4,3,236
+2001,41,Apr 18(Wed),7:00 PM,Old Dominion,,Doak Field,,"W, 9-1",9,1,77
+2001,42,Apr 20(Fri),3:00 PM,Wake Forest,,Ernie Shore Field,,"L, 7-8",7,8,726
+2001,43,Apr 21(Sat),1:30 PM,Wake Forest,,Ernie Shore Field,,"L, 7-11",7,11,1008
+2001,44,Apr 22(Sun),1:30 PM,Wake Forest,,Gene Hooks Field,,"L, 2-12",2,12,831
+2001,45,Apr 24(Tue),7:00 PM,Davidson,,Doak Field,,"W, 10-2",10,2,212
+2001,46,Apr 25(Wed),7:04 PM,East Carolina,,Doak Field,,"L, 4-6",4,6,1879
+2001,47,Apr 27(Fri),7:00 PM,Duke,,Jack Coombs Field,,"W, 9-5",9,5,312
+2001,48,Apr 28(Sat),7:00 PM,Duke,,Jack Coombs Field,,"L, 10-11",10,11,
+2001,49,Apr 29(Sun),7:00 PM,Duke,,Jack Coombs Field,,"L, 6-10",6,10,525
+2001,50,May 2(Wed),7:01 PM,East Carolina,,Harrington Field,,"L, 3-9",3,9,3703
+2001,51,May 5(Sat),7:00 PM,Clemson,,Doak Field,,"L, 6-7",6,7,1177
+2001,52,May 5(Sat),7:00 PM,Clemson,,Doak Field,,"W, 4-3",4,3,1551
+2001,53,May 6(Sun),1:00 PM,Clemson,,Doak Field,,"L, 2-10",2,10,771
+2001,54,May 12(Sat),7:00 PM,Virginia Commonwealth,,Doak Field,,"W, 5-4",5,4,367
+2001,55,May 15(Tue),7:00 PM,Maryland,ACC Tournament,Knights Stadium,,"W, 11-5",11,5,1225
+2001,56,May 16(Wed),7:00 PM,Florida State,ACC Tournament,Knights Stadium,,"L, 5-11",5,11,1575
+2001,57,May 17(Thu),7:00 PM,Duke,ACC Tournament,Knights Stadium,,"W, 5-3",5,3,5171
+2001,58,May 18(Fri),7:00 PM,Virginia,ACC Tournament,Knights Stadium,,"W, 6-2",6,2,3826
+2001,59,May 19(Sat),7:00 PM,Georgia Tech,ACC Tournament,Knights Stadium,,"W, 6-4",6,4,3263
+2001,60,May 19(Sat),10:00 PM,Florida State,ACC Tournament,Knights Stadium,,"W, 8-4",8,4,3136
+2001,61,May 20(Sun),1:00 PM,Wake Forest,ACC Championship,Knights Stadium,,"L, 4-17",4,17,2160
+2002,1,Feb 3(Sun),12:30 PM,Delaware State,,Doak Field,,"W, 17-8",17,8,422
+2002,2,Feb 12(Tue),3:00 PM,Gardner-Webb,,Doak Field,,"W, 23-5",23,5,367
+2002,3,Feb 15(Fri),5:00 PM,The Citadel,,Riley Park,,"L, 2-3",2,3,1051
+2002,4,Feb 16(Sat),10:00 AM,Richmond,,Riley Park,,"L, 3-4",3,4,570
+2002,5,Feb 16(Sat),1:30 PM,James Madison,,Riley Park,,"L, 2-5",2,5,522
+2002,6,Feb 17(Sun),1:30 PM,The Citadel,,Riley Park,,"W, 14-8",14,8,1631
+2002,7,Feb 19(Tue),3:00 PM,Elon,,Doak Field,,"W, 14-13",14,13,463
+2002,8,Feb 22(Fri),3:00 PM,Coppin State,,Doak Field,,"W, 23-2",23,2,324
+2002,9,Feb 23(Sat),1:30 PM,Coppin State,,Doak Field,,"W, 11-0",11,0,277
+2002,10,Feb 24(Sun),1:30 PM,Coppin State,,Doak Field,,"W, 27-5",27,5,347
+2002,11,Feb 27(Wed),3:00 PM,Appalachian State,,Doak Field,,"W, 15-6",15,6,131
+2002,12,Mar 1(Fri),3:00 PM,George Mason,,Doak Field,,"W, 9-0",9,0,188
+2002,13,Mar 1(Fri),1:30 PM,George Mason,,Doak Field,,"W, 8-3",8,3,188
+2002,14,Mar 3(Sun),1:30 PM,George Mason,,Doak Field,,"W, 16-8",16,8,55
+2002,15,Mar 5(Tue),3:00 PM,William & Mary,,Doak Field,,"W, 13-5",13,5,92
+2002,16,Mar 8(Fri),3:00 PM,Richmond,,Doak Field,,"W, 11-4",11,4,171
+2002,17,Mar 9(Sat),1:30 PM,Richmond,,Doak Field,,"L, 7-9",7,9,195
+2002,18,Mar 10(Sun),1:30 PM,Richmond,,Doak Field,,"L, 2-4",2,4,166
+2002,19,Mar 15(Fri),3:00 PM,Saint Joseph's,,Doak Field,,"W, 15-4",15,4,127
+2002,20,Mar 16(Sat),1:30 PM,Saint Joseph's,,Doak Field,,"W, 14-12",14,12,233
+2002,21,Mar 17(Sun),12:30 PM,Saint Joseph's,,Doak Field,,"W, 15-13",15,13,100
+2002,22,Mar 19(Tue),7:00 PM,Davidson,,Doak Field,,"W, 8-2",8,2,140
+2002,23,Mar 22(Fri),3:00 PM,Wake Forest,,Doak Field,,"W, 5-4",5,4,232
+2002,24,Mar 23(Sat),2:00 PM,Wake Forest,,Doak Field,,"L, 6-8",6,8,642
+2002,25,Mar 24(Sun),1:30 PM,Wake Forest,,Doak Field,,"L, 7-13",7,13,1476
+2002,26,Mar 26(Tue),6:00 PM,UNC Greensboro,,UNCG Baseball Complex,,"W, 13-5",13,5,316
+2002,27,Mar 27(Wed),7:00 PM,Old Dominion,,Bud Metheny Baseball Complex,,"L, 4-5",4,5,148
+2002,28,Mar 29(Fri),7:00 PM,Georgia Tech,,Doak Field,,"L, 4-6",4,6,1583
+2002,29,Mar 30(Sat),12:00 PM,Georgia Tech,,Doak Field,,"L, 12-20",12,20,611
+2002,30,Mar 30(Sat),4:04 PM,Georgia Tech,,Doak Field,,"L, 0-3",0,3,333
+2002,31,Apr 2(Tue),7:00 PM,North Carolina A&T,,Doak Field,,"W, 8-1",8,1,266
+2002,32,Apr 5(Fri),7:15 PM,Clemson,,Doug Kingsmore Stadium,,"L, 4-6",4,6,4841
+2002,33,Apr 6(Sat),4:00 PM,Clemson,,Doug Kingsmore Stadium,,"W, 3-0",3,0,5226
+2002,34,Apr 7(Sun),1:00 PM,Clemson,,Doug Kingsmore Stadium,,"L, 2-10",2,10,2868
+2002,35,Apr 9(Tue),6:00 PM,Winthrop,,Doak Field,,"W, 13-7",13,7,141
+2002,36,Apr 12(Fri),7:00 PM,Duke,,Doak Field,,"W, 9-3",9,3,742
+2002,37,Apr 13(Sat),1:00 PM,Duke,,Doak Field,,"W, 7-3",7,3,883
+2002,38,Apr 14(Sun),1:30 PM,Duke,,Doak Field,,"L, 2-4",2,4,1104
+2002,39,Apr 16(Tue),7:00 AM,UNC Wilmington,,Doak Field,,"W, 8-2",8,2,677
+2002,40,Apr 19(Fri),7:00 PM,North Carolina,,Boshamer Stadium,,"L, 2-10",2,10,1885
+2002,41,Apr 20(Sat),2:00 PM,North Carolina,,Boshamer Stadium,,"L, 5-12",5,12,2125
+2002,42,Apr 21(Sun),2:00 PM,North Carolina,,Boshamer Stadium,,"L, 4-12",4,12,1757
+2002,43,Apr 24(Wed),7:00 PM,Old Dominion,,Doak Field,,"W, 6-4",6,4,176
+2002,44,Apr 26(Fri),7:00 PM,Florida State,,Dick Howser Stadium,,"L, 3-9",3,9,2658
+2002,45,Apr 27(Sat),7:00 PM,Florida State,,Dick Howser Stadium,,"L, 4-10",4,10,3295
+2002,46,Apr 28(Sun),1:00 PM,Florida State,,Dick Howser Stadium,,"L, 11-12",11,12,2260
+2002,47,Apr 30(Tue),7:00 PM,UNC Wilmington,,Brooks Field,,"L, 1-17",1,17,332
+2002,48,May 2(Thu),7:00 PM,Maryland,,Shipley Field,,"L, 12-16",12,16,161
+2002,49,May 3(Fri),7:00 PM,Maryland,,Shipley Field,,"L, 6-7",6,7,229
+2002,50,May 4(Sat),1:00 PM,Maryland,,Shipley Field,,"L, 0-7",0,7,331
+2002,51,May 10(Fri),4:00 PM,The Citadel,,Doak Field,,"W, 7-6",7,6,161
+2002,52,May 11(Sat),7:30 PM,The Citadel,,Doak Field,,"W, 8-2",8,2,532
+2002,53,May 14(Tue),6:00 PM,Charlotte,,Hayes Stadium,,"W, 16-6",16,6,317
+2002,54,May 17(Fri),7:00 PM,Virginia,,Doak Field,,"W, 10-2",10,2,613
+2002,55,May 18(Sat),7:00 PM,Virginia,,Doak Field,,"W, 10-8",10,8,353
+2002,56,May 18(Sat),3:00 PM,Virginia,,Doak Field,,"W, 12-7",12,7,677
+2002,57,May 22(Wed),5:00 PM,Wake Forest,ACC Tournament,Florida Power Park,,"L, 4-12",4,12,1261
+2002,58,May 23(Thu),1:30 PM,Virginia,ACC Tournament,Florida Power Park,,"W, 6-5",6,5,802
+2002,59,May 24(Fri),12:00 PM,Clemson,ACC Tournament,Florida Power Park,,"L, 3-5",3,5,1383
+2003,2,Feb 8(Sat),1:00 PM,Elon,,Latham Park,,"W, 8-2",8,2,421
+2003,3,Feb 9(Sun),1:00 PM,Elon,,Latham Park,,"W, 12-5",12,5,278
+2003,4,Feb 14(Fri),8:00 PM,UCLA,,Jackie Robinson Stadium,,"L, 6-8",6,8,248
+2003,5,Feb 15(Sat),4:00 PM,UCLA,,Jackie Robinson Stadium,,"L, 5-12",5,12,364
+2003,6,Feb 16(Sun),4:00 PM,UCLA,,Jackie Robinson Stadium,,"W, 9-6",9,6,388
+2003,7,Feb 19(Wed),5:00 PM,East Carolina,,Harrington Field,,"W, 5-4",5,4,2786
+2003,8,Feb 21(Fri),10:00 AM,Boston College,,Riley Park,,"W, 4-3",4,3,467
+2003,10,Feb 23(Sun),5:00 PM,The Citadel,,Riley Park,,"L, 2-15",2,15,1652
+2003,11,Feb 25(Tue),3:00 PM,Furman,,Five County Stadium,,"L, 1-14",1,14,107
+2003,12,Feb 28(Fri),3:00 PM,Hofstra,,Brooks Field,,"W, 5-2",5,2,
+2003,13,Mar 1(Sat),4:00 PM,Villanova,,Brooks Field,,"W, 12-0",12,0,
+2003,15,Mar 4(Tue),6:00 PM,Villanova,,Fleming Stadium,,"W, 4-2",4,2,243
+2003,16,Mar 5(Wed),6:00 PM,UNC Wilmington,,Brooks Field,,"W, 8-4",8,4,512
+2003,17,Mar 8(Sat),8:33 PM,Marshall,,Clayton High School Field,,"W, 18-10",18,10,122
+2003,18,Mar 8(Sat),5:00 PM,Marshall,,Clayton High School Field,,"W, 9-4",9,4,211
+2003,19,Mar 9(Sun),2:00 PM,Marshall,,Fleming Stadium,,"W, 9-1",9,1,310
+2003,20,Mar 11(Tue),2:00 PM,The Citadel,,Fleming Stadium,,"W, 4-3",4,3,134
+2003,21,Mar 12(Wed),2:00 PM,VMI,,Fleming Stadium,,"W, 9-4",9,4,177
+2003,22,Mar 14(Fri),3:00 PM,Oklahoma State,,Durham Bulls Athletic Park,,"W, 4-3",4,3,232
+2003,23,Mar 15(Sat),4:30 PM,UNC Wilmington,,Five County Stadium,,"W, 6-2",6,2,226
+2003,24,Mar 15(Sat),1:00 PM,Old Dominion,,Five County Stadium,,"W, 3-1",3,1,187
+2003,25,Mar 16(Sun),4:30 PM,Princeton,,Five County Stadium,,"W, 8-2",8,2,117
+2003,26,Mar 17(Mon),3:00 PM,Princeton,,Jim Perry Stadium,,"W, 13-5",13,5,155
+2003,29,Mar 22(Sat),7:30 PM,Florida State,,Grainger Stadium,,"W, 5-2",5,2,1172
+2003,30,Mar 22(Sat),4:00 PM,Florida State,,Grainger Stadium,,"W, 4-2",4,2,1172
+2003,31,Mar 23(Sun),12:00 PM,Florida State,,Grainger Stadium,,"L, 1-3",1,3,837
+2003,32,Mar 26(Wed),7:00 PM,Winthrop,,Grainger Stadium,,"L, 5-8",5,8,107
+2003,33,Mar 28(Fri),7:00 PM,Clemson,,Grainger Stadium,,"W, 3-2",3,2,1059
+2003,34,Mar 29(Sat),4:53 PM,Clemson,,Grainger Stadium,,"L, 10-12",10,12,1474
+2003,35,Mar 29(Sat),1:30 PM,Clemson,,Grainger Stadium,,"W, 12-2",12,2,1474
+2003,36,Apr 2(Wed),7:00 PM,UNC Greensboro,,Doak Field,,"W, 3-2",3,2,978
+2003,37,Apr 4(Fri),7:00 PM,Duke,,Jack Coombs Field,,"W, 9-6",9,6,683
+2003,38,Apr 5(Sat),5:00 PM,Duke,,Jack Coombs Field,,"W, 16-3",16,3,619
+2003,39,Apr 6(Sun),1:30 PM,Duke,,Jack Coombs Field,,"W, 11-4",11,4,469
+2003,40,Apr 9(Wed),7:00 PM,North Carolina A&T,,Doak Field,,"W, 9-7",9,7,133
+2003,41,Apr 12(Sat),12:00 PM,Wake Forest,,Gene Hooks Field,,"L, 9-11",9,11,2477
+2003,42,Apr 12(Sat),3:00 PM,Wake Forest,,Gene Hooks Field,,"W, 11-2",11,2,2477
+2003,43,Apr 13(Sun),1:30 PM,Wake Forest,,Gene Hooks Field,,"W, 13-6",13,6,2374
+2003,44,Apr 16(Wed),7:00 PM,Old Dominion,,Bud Metheny Baseball Complex,,"W, 9-5",9,5,253
+2003,46,Apr 19(Sat),4:00 PM,Virginia,,Disharoon Park,,"W, 3-2",3,2,196
+2003,47,Apr 19(Sat),1:00 PM,Virginia,,Disharoon Park,,"W, 7-1",7,1,674
+2003,48,Apr 20(Sun),1:00 PM,Virginia,,Disharoon Park,,"L, 3-8",3,8,644
+2003,49,Apr 22(Tue),7:00 PM,UNC Wilmington,,Doak Field,,"W, 5-4",5,4,987
+2003,50,Apr 25(Fri),7:00 PM,North Carolina,,Doak Field,,"W, 3-2",3,2,1016
+2003,51,Apr 26(Sat),1:30 PM,North Carolina,,Doak Field,,"W, 8-6",8,6,1221
+2003,52,Apr 27(Sun),1:30 PM,North Carolina,,Doak Field,,"L, 6-12",6,12,1262
+2003,53,Apr 30(Wed),7:00 PM,East Carolina,,Doak Field,,"W, 6-5",6,5,1244
+2003,54,May 2(Fri),7:00 PM,Maryland,,Doak Field,,"L, 2-5",2,5,851
+2003,55,May 3(Sat),1:30 PM,Maryland,,Doak Field,,"L, 7-8",7,8,912
+2003,56,May 4(Sun),1:30 PM,Maryland,,Doak Field,,"W, 7-4",7,4,769
+2003,57,May 15(Thu),7:00 PM,Georgia Tech,,Mac Nease Park,,"L, 3-8",3,8,1699
+2003,58,May 16(Fri),7:00 PM,Georgia Tech,,Mac Nease Park,,"L, 6-9",6,9,2193
+2003,59,May 17(Sat),1:30 PM,Georgia Tech,,Mac Nease Park,,"W, 7-2",7,2,3009
+2003,60,May 22(Thu),7:30 PM,Virginia,ACC Tournament,Salem Memorial Stadium,,"W, 10-6",10,6,1834
+2003,61,May 23(Fri),7:30 PM,Georgia Tech,ACC Tournament,Salem Memorial Stadium,,"W, 6-0",6,0,2524
+2003,62,May 24(Sat),5:00 PM,North Carolina,ACC Tournament,Salem Memorial Stadium,,"W, 7-6",7,6,3063
+2003,63,May 24(Sat),8:30 PM,Florida State,ACC Tournament,Salem Memorial Stadium,,"L, 6-17",6,17,3063
+2003,64,May 25(Sun),5:10 PM,Georgia Tech,ACC Tournament,Salem Memorial Stadium,,"L, 5-6",5,6,2002
+2003,65,May 30(Fri),7:00 PM,Le Moyne,NCAA Regional,Fleming Stadium,,"W, 8-2",8,2,3007
+2003,66,May 31(Sat),3:00 PM,Virginia Commonwealth,NCAA Regional,Fleming Stadium,,"W, 4-3",4,3,1771
+2003,67,Jun 1(Sun),1:00 PM,Western Carolina,NCAA Regional,Fleming Stadium,,"W, 6-4",6,4,2529
+2003,68,Jun 7(Sat),12:05 PM,Miami,NCAA Super Regional,Mark Light Field,,"L, 9-10",9,10,3750
+2003,69,Jun 8(Sun),2:35 PM,Miami,NCAA Super Regional,Mark Light Field,,"L, 5-11",5,11,4964
+2004,1,Feb 13(Fri),3:00 PM,Campbell,,Jim Perry Stadium,,"W, 3-2",3,2,303
+2004,2,Feb 14(Sat),2:00 PM,Campbell,,Doak Field,,"W, 7-1",7,1,277
+2004,3,Feb 20(Fri),3:00 PM,Elon,,Doak Field,,"W, 5-3",5,3,844
+2004,4,Feb 21(Sat),2:00 PM,Elon,,Doak Field,,"W, 16-2",16,2,922
+2004,5,Feb 22(Sun),2:00 PM,Elon,,Doak Field,,"W, 5-3",5,3,931
+2004,6,Feb 28(Sat),12:00 PM,The Citadel,,Riley Park,,"W, 3-1",3,1,820
+2004,7,Feb 29(Sun),2:00 PM,College of Charleston,,Riley Park,,"W, 7-2",7,2,417
+2004,8,Feb 29(Sun),11:00 AM,College of Charleston,,Riley Park,,"W, 6-4",6,4,423
+2004,9,Mar 2(Tue),3:00 PM,Le Moyne,,Doak Field,,"W, 17-2",17,2,467
+2004,10,Mar 3(Wed),3:00 PM,Le Moyne,,Doak Field,,"W, 8-2",8,2,617
+2004,11,Mar 5(Fri),9:00 PM,San Diego State,,Tony Gwynn Stadium,,"W, 3-1",3,1,589
+2004,12,Mar 6(Sat),9:00 PM,San Diego State,,Tony Gwynn Stadium,,"L, 4-7",4,7,629
+2004,13,Mar 7(Sun),4:00 PM,San Diego State,,Tony Gwynn Stadium,,"L, 6-8",6,8,642
+2004,14,Mar 9(Tue),2:00 PM,George Mason,,Doak Field,,"L, 2-5",2,5,77
+2004,15,Mar 10(Wed),2:00 PM,George Mason,,Doak Field,,"W, 6-3",6,3,83
+2004,16,Mar 12(Fri),3:00 PM,Northeastern,,Doak Field,,"W, 7-6",7,6,232
+2004,17,Mar 13(Sat),2:00 PM,Northeastern,,Doak Field,,"W, 5-4",5,4,344
+2004,18,Mar 14(Sun),1:00 PM,Northeastern,,Doak Field,,"W, 10-1",10,1,528
+2004,19,Mar 17(Wed),3:00 PM,The Citadel,,Tony Gwynn Stadium,,"L, 6-8",6,8,642
+2004,20,Mar 19(Fri),7:00 PM,Duke,,Doak Field,,"W, 8-1",8,1,1190
+2004,21,Mar 20(Sat),2:00 PM,Duke,,Doak Field,,"L, 1-3",1,3,1026
+2004,22,Mar 21(Sun),2:00 PM,Duke,,Doak Field,,"L, 4-7",4,7,773
+2004,23,Mar 23(Tue),7:00 PM,UNC Wilmington,,Brooks Field,,"L, 0-1",0,1,821
+2004,24,Mar 26(Fri),7:00 PM,Virginia,,Doak Field,,"L, 2-9",2,9,1060
+2004,25,Mar 27(Sat),2:00 PM,Virginia,,Doak Field,,"W, 12-1",12,1,1144
+2004,26,Mar 28(Sun),2:00 PM,Virginia,,Doak Field,,"W, 8-7",8,7,1304
+2004,27,Mar 30(Tue),7:00 PM,Old Dominion,,Doak Field,,"W, 10-1",10,1,61
+2004,28,Mar 31(Wed),7:00 PM,Davidson,,Doak Field,,"W, 11-2",11,2,434
+2004,29,Apr 2(Fri),7:00 PM,Florida State,,Dick Howser Stadium,,"W, 11-0",11,0,3504
+2004,30,Apr 3(Sat),7:00 PM,Florida State,,Dick Howser Stadium,,"L, 6-7",6,7,3825
+2004,31,Apr 4(Sun),1:00 PM,Florida State,,Dick Howser Stadium,,"L, 3-10",3,10,2664
+2004,32,Apr 7(Wed),7:00 PM,Old Dominion,,Bud Metheny Baseball Complex,,"W, 8-0",8,0,204
+2004,33,Apr 9(Fri),7:00 PM,Maryland,,Harry Grove Stadium,,"W, 6-3",6,3,268
+2004,34,Apr 10(Sat),1:00 PM,Maryland,,Harry Grove Stadium,,"W, 3-0",3,0,225
+2004,35,Apr 10(Sat),8:30 PM,Maryland,,Harry Grove Stadium,,"W, 8-3",8,3,177
+2004,36,Apr 14(Wed),7:00 PM,Campbell,,Doak Field,,"L, 2-5",2,5,177
+2004,37,Apr 16(Fri),7:00 PM,Wake Forest,,Doak Field,,"L, 1-4",1,4,1137
+2004,38,Apr 17(Sat),1:00 PM,Wake Forest,,Doak Field,,"W, 7-2",7,2,1078
+2004,39,Apr 18(Sun),2:00 PM,Wake Forest,,Doak Field,,"W, 14-6",14,6,1311
+2004,40,Apr 21(Wed),7:00 PM,East Carolina,,Doak Field,,"L, 3-6",3,6,2142
+2004,41,Apr 23(Fri),7:15 PM,Clemson,,Doug Kingsmore Stadium,,"L, 1-2",1,2,4464
+2004,42,Apr 24(Sat),7:00 PM,Clemson,,Doug Kingsmore Stadium,,"L, 3-4",3,4,4631
+2004,43,Apr 25(Sun),2:00 PM,Clemson,,Doug Kingsmore Stadium,,"L, 6-9",6,9,3993
+2004,44,Apr 28(Wed),6:00 PM,UNC Greensboro,,UNCG Baseball Complex,,"W, 9-4",9,4,717
+2004,45,May 2(Sun),1:30 PM,Georgia Tech,,Doak Field,,"L, 3-7",3,7,272
+2004,46,May 2(Sun),10:00 AM,Georgia Tech,,Doak Field,,"L, 1-6",1,6,272
+2004,47,May 11(Tue),7:00 PM,Campbell,,Jim Perry Stadium,,"W, 3-1",3,1,461
+2004,48,May 12(Wed),7:00 PM,East Carolina,,Grainger Stadium,,"L, 2-7",2,7,3510
+2004,49,May 15(Sat),5:30 PM,Texas,,Disch-Falk Field,,"W, 1-0",1,0,5127
+2004,50,May 15(Sat),2:00 PM,Texas,,Disch-Falk Field,,"W, 2-0",2,0,5057
+2004,51,May 18(Tue),7:00 PM,UNC Wilmington,,Doak Field,,"W, 5-4",5,4,841
+2004,52,May 20(Thu),7:00 PM,North Carolina,,Boshamer Stadium,,"W, 7-1",7,1,1795
+2004,53,May 21(Fri),7:00 PM,North Carolina,,Boshamer Stadium,,"W, 10-2",10,2,2151
+2004,54,May 22(Sat),1:00 PM,North Carolina,,Boshamer Stadium,,"L, 4-5",4,5,1654
+2004,55,May 26(Wed),11:00 PM,Florida State,ACC Tournament,Salem Memorial Stadium,,"L, 5-6",5,6,3573
+2004,56,May 27(Thu),1:30 PM,Virginia,ACC Tournament,Salem Memorial Stadium,,"W, 6-5",6,5,2348
+2004,57,May 28(Fri),10:00 AM,Clemson,ACC Tournament,Salem Memorial Stadium,,"L, 1-12",1,12,1483
+2004,58,Jun 4(Fri),3:30 PM,Florida Atlantic,NCAA Regional,Mark Light Field,,"W, 6-5",6,5,3107
+2004,59,Jun 5(Sat),6:45 PM,Florida Atlantic,NCAA Regional,Mark Light Field,,"L, 2-10",2,10,2986
+2004,60,Jun 5(Sat),3:30 PM,Miami,NCAA Regional,Mark Light Field,,"L, 5-19",5,19,2986
+2005,1,Feb 4(Fri),3:00 PM,Delaware State,,Doak Field,,"W, 18-3",18,3,344
+2005,2,Feb 5(Sat),2:00 PM,Delaware State,,Doak Field,,"W, 15-1",15,1,434
+2005,3,Feb 6(Sun),1:00 PM,Delaware State,,Doak Field,,"W, 3-1",3,1,456
+2005,4,Feb 11(Fri),3:00 PM,Campbell,,Jim Perry Stadium,,"L, 1-9",1,9,275
+2005,5,Feb 12(Sat),2:00 PM,Campbell,,Doak Field,,"W, 8-6",8,6,566
+2005,6,Feb 18(Fri),3:00 PM,San Diego State,,Doak Field,,"W, 8-6",8,6,326
+2005,7,Feb 19(Sat),2:00 PM,San Diego State,,Doak Field,,"W, 8-5",8,5,878
+2005,8,Feb 20(Sun),1:00 PM,San Diego State,,Doak Field,,"W, 9-4",9,4,422
+2005,9,Feb 22(Tue),3:00 PM,William & Mary,,Doak Field,,"W, 10-4",10,4,183
+2005,10,Feb 25(Fri),4:00 PM,The Citadel,,Riley Park,,"W, 10-3",10,3,577
+2005,11,Feb 26(Sat),11:00 AM,East Carolina,,Riley Park,,"L, 1-13",1,13,483
+2005,12,Mar 1(Tue),4:00 PM,UNC Greensboro,,Doak Field,,"W, 11-1",11,1,161
+2005,13,Mar 4(Fri),7:00 PM,Miami,,Mark Light Field,,"L, 1-6",1,6,2542
+2005,14,Mar 5(Sat),7:00 PM,Miami,,Mark Light Field,,"W, 11-5",11,5,3079
+2005,15,Mar 6(Sun),1:00 PM,Miami,,Mark Light Field,,"L, 7-13",7,13,2011
+2005,16,Mar 8(Tue),4:00 PM,UNC Greensboro,,UNCG Baseball Complex,,"W, 11-6",11,6,258
+2005,17,Mar 9(Wed),4:00 PM,UNC Wilmington,,Brooks Field,,"W, 6-0",6,0,412
+2005,18,Mar 11(Fri),3:00 PM,Maryland,,Doak Field,,"L, 6-15",6,15,336
+2005,19,Mar 12(Sat),2:00 PM,Maryland,,Doak Field,,"W, 11-1",11,1,363
+2005,20,Mar 13(Sun),1:00 PM,Maryland,,Doak Field,,"W, 6-5",6,5,642
+2005,22,Mar 18(Fri),7:00 PM,Georgia Tech,,Mac Nease Park,,"L, 5-9",5,9,1055
+2005,23,Mar 19(Sat),7:00 PM,Georgia Tech,,Mac Nease Park,,"L, 0-5",0,5,1012
+2005,24,Mar 20(Sun),1:30 PM,Georgia Tech,,Mac Nease Park,,"L, 10-11",10,11,1707
+2005,25,Mar 25(Fri),3:00 PM,Lehigh,,Doak Field,,"W, 10-9",10,9,464
+2005,26,Mar 26(Sat),12:00 PM,Lehigh,,Doak Field,,"W, 7-5",7,5,389
+2005,27,Mar 26(Sat),3:30 PM,Lehigh,,Doak Field,,"W, 6-3",6,3,344
+2005,28,Mar 30(Wed),6:00 PM,Elon,,Doak Field,,"W, 12-5",12,5,856
+2005,29,Apr 1(Fri),7:00 PM,Virginia Tech,,Doak Field,,"W, 6-0",6,0,445
+2005,30,Apr 2(Sat),7:00 PM,Virginia Tech,,Doak Field,,"W, 10-7",10,7,243
+2005,31,Apr 3(Sun),1:00 PM,Virginia Tech,,Doak Field,,"L, 4-5",4,5,854
+2005,32,Apr 6(Wed),7:00 PM,East Carolina,,Doak Field,,"W, 11-4",11,4,2900
+2005,33,Apr 8(Fri),7:00 PM,Virginia,,Disharoon Park,,"L, 0-2",0,2,1342
+2005,34,Apr 9(Sat),1:00 PM,Virginia,,Disharoon Park,,"W, 6-0",6,0,1896
+2005,35,Apr 10(Sun),1:00 PM,Virginia,,Disharoon Park,,"W, 1-0",1,0,1915
+2005,36,Apr 13(Wed),7:00 PM,UNC Wilmington,,Doak Field,,"W, 8-4",8,4,267
+2005,37,Apr 15(Fri),3:00 PM,Wake Forest,,Gene Hooks Field,,"W, 11-9",11,9,531
+2005,38,Apr 16(Sat),1:30 PM,Wake Forest,,Gene Hooks Field,,"L, 5-9",5,9,609
+2005,39,Apr 17(Sun),1:00 PM,Wake Forest,,Gene Hooks Field,,"W, 8-7",8,7,1446
+2005,40,Apr 20(Wed),7:00 PM,East Carolina,,Clark-LeClair Stadium,,"W, 3-0",3,0,4272
+2005,41,Apr 22(Fri),7:00 PM,Clemson,,Doak Field,,"W, 8-3",8,3,1867
+2005,42,Apr 23(Sat),7:00 PM,Clemson,,Doak Field,,"L, 9-16",9,16,2026
+2005,43,Apr 24(Sun),1:00 PM,Clemson,,Doak Field,,"W, 9-8",9,8,1277
+2005,44,Apr 29(Fri),7:00 PM,North Carolina,,Doak Field,,"W, 6-5",6,5,2517
+2005,45,Apr 30(Sat),2:00 PM,North Carolina,,Doak Field,,"L, 3-6",3,6,2484
+2005,46,May 1(Sun),1:00 PM,North Carolina,,Doak Field,,"W, 8-7",8,7,2566
+2005,47,May 10(Tue),7:00 PM,East Carolina,,Clark-LeClair Stadium,,"W, 3-0",3,0,3708
+2005,48,May 11(Wed),4:00 PM,The Citadel,,Doak Field,,"W, 8-5",8,5,454
+2005,49,May 13(Fri),7:00 PM,Duke,,Jack Coombs Field,,"W, 22-0",22,0,477
+2005,50,May 14(Sat),2:00 PM,Duke,,Jack Coombs Field,,"L, 10-14",10,14,543
+2005,51,May 15(Sun),1:30 PM,Duke,,Jack Coombs Field,,"W, 11-4",11,4,679
+2005,52,May 17(Tue),7:00 PM,Campbell,,Doak Field,,"W, 11-3",11,3,531
+2005,53,May 19(Thu),7:00 PM,Florida State,,Doak Field,,"L, 2-8",2,8,1452
+2005,54,May 20(Fri),7:00 PM,Florida State,,Doak Field,,"W, 7-4",7,4,1572
+2005,55,May 21(Sat),2:00 PM,Florida State,,Doak Field,,"W, 8-3",8,3,1788
+2005,56,May 25(Wed),10:00 AM,Miami,ACC Tournament,Baseball Grounds,,"W, 2-1",2,1,17860
+2005,57,May 26(Thu),4:00 PM,Virginia,ACC Tournament,Baseball Grounds,,"L, 2-12",2,12,16498
+2005,58,May 27(Fri),4:00 PM,Clemson,ACC Tournament,Baseball Grounds,,"L, 4-5",4,5,11123
+2005,59,Jun 3(Fri),8:05 PM,Creighton,NCAA Regional,Hawks Field,,"L, 3-8",3,8,4362
+2005,60,Jun 4(Sat),2:05 PM,Illinois-Chicago,NCAA Regional,Hawks Field,,"W, 9-7",9,7,2204
+2005,61,Jun 5(Sun),2:05 PM,Creighton,NCAA Regional,Hawks Field,,"L, 9-11",9,11,2512
+2006,1,Feb 3(Fri),3:00 PM,Delaware State,,Doak Field,,"W, 21-3",21,3,1927
+2006,2,Feb 4(Sat),2:00 PM,Delaware State,,Doak Field,,"W, 12-2",12,2,834
+2006,3,Feb 5(Sun),1:00 PM,Delaware State,,Doak Field,,"W, 17-0",17,0,176
+2006,4,Feb 10(Fri),3:00 PM,Hofstra,,Doak Field,,"W, 19-6",19,6,268
+2006,5,Feb 11(Sat),2:00 PM,Hofstra,,Doak Field,,"W, 13-2",13,2,36
+2006,6,Feb 12(Sun),1:00 PM,Hofstra,,Doak Field,,"W, 23-3",23,3,236
+2006,7,Feb 17(Fri),12:00 PM,Nebraska,,Riley Park,,"L, 3-4",3,4,315
+2006,8,Feb 18(Sat),11:00 AM,Richmond,,Riley Park,,"W, 12-5",12,5,560
+2006,9,Feb 19(Sun),2:00 PM,The Citadel,,Riley Park,,"W, 6-2",6,2,1204
+2006,10,Feb 21(Tue),3:00 PM,North Carolina A&T,,Doak Field,,"W, 9-3",9,3,509
+2006,11,Feb 24(Fri),1:30 PM,West Virginia,,Clark-LeClair Stadium,,"W, 12-4",12,4,3814
+2006,12,Feb 25(Sat),10:00 AM,Penn State,,Clark-LeClair Stadium,,"W, 3-2",3,2,3251
+2006,13,Feb 26(Sun),4:00 PM,UNC Wilmington,,Clark-LeClair Stadium,,"W, 9-8",9,8,2823
+2006,14,Feb 28(Tue),3:00 PM,High Point,,Doak Field,,"W, 12-3",12,3,423
+2006,15,Mar 3(Fri),4:00 PM,UCLA,,Doak Field,,"L, 2-7",2,7,1772
+2006,16,Mar 4(Sat),1:00 PM,UCLA,,Doak Field,,"L, 4-5",4,5,1804
+2006,17,Mar 5(Sun),1:00 PM,UCLA,,Doak Field,,"L, 2-13",2,13,1529
+2006,18,Mar 7(Tue),3:00 PM,Campbell,,Jim Perry Stadium,,"W, 13-7",13,7,461
+2006,19,Mar 8(Wed),4:00 PM,The Citadel,,Doak Field,,"W, 3-2",3,2,223
+2006,20,Mar 10(Fri),4:00 PM,Boston College,,Doak Field,,"W, 2-1",2,1,401
+2006,21,Mar 11(Sat),2:00 PM,Boston College,,Doak Field,,"W, 12-7",12,7,725
+2006,22,Mar 12(Sun),1:00 PM,Boston College,,Doak Field,,"W, 11-9",11,9,742
+2006,23,Mar 15(Wed),4:00 PM,UNC Greensboro,,Doak Field,,"W, 24-3",24,3,790
+2006,24,Mar 17(Fri),3:00 PM,Georgia Tech,,Doak Field,,"W, 8-1",8,1,942
+2006,25,Mar 18(Sat),2:00 PM,Georgia Tech,,Doak Field,,"W, 12-11",12,11,1484
+2006,26,Mar 19(Sun),1:00 PM,Georgia Tech,,Doak Field,,"L, 11-17",11,17,1350
+2006,27,Mar 24(Fri),7:15 PM,Clemson,,Doug Kingsmore Stadium,,"L, 5-9",5,9,3951
+2006,28,Mar 25(Sat),7:00 PM,Clemson,,Doug Kingsmore Stadium,,"L, 2-4",2,4,3914
+2006,29,Mar 26(Sun),1:00 PM,Clemson,,Doug Kingsmore Stadium,,"L, 2-6",2,6,4782
+2006,30,Mar 29(Wed),7:00 PM,East Carolina,,Doak Field,,"W, 5-4",5,4,2678
+2006,31,Mar 31(Fri),7:00 PM,Virginia,,Doak Field,,"W, 10-2",10,2,1451
+2006,32,Apr 1(Sat),7:00 PM,Virginia,,Doak Field,,"W, 10-9",10,9,1213
+2006,33,Apr 2(Sun),1:00 PM,Virginia,,Doak Field,,"W, 8-1",8,1,1242
+2006,34,Apr 7(Fri),7:00 PM,Wake Forest,,Doak Field,,"W, 8-6",8,6,2684
+2006,35,Apr 8(Sat),1:00 PM,Wake Forest,,Doak Field,,"L, 5-11",5,11,701
+2006,36,Apr 9(Sun),1:00 PM,Wake Forest,,Doak Field,,"W, 17-2",17,2,1439
+2006,37,Apr 12(Wed),7:00 PM,East Carolina,,Clark-LeClair Stadium,,"L, 1-2",1,2,5041
+2006,38,Apr 14(Fri),7:00 PM,Maryland,,Shipley Field,,"W, 11-4",11,4,585
+2006,39,Apr 15(Sat),7:00 PM,Maryland,,Shipley Field,,"W, 15-4",15,4,548
+2006,40,Apr 16(Sun),1:00 PM,Maryland,,Shipley Field,,"W, 7-4",7,4,385
+2006,41,Apr 18(Tue),7:00 PM,East Carolina,,Doak Field,,"W, 4-3",4,3,2674
+2006,42,Apr 21(Fri),7:00 PM,North Carolina,,Boshamer Stadium,,"L, 3-7",3,7,3656
+2006,44,Apr 23(Sun),1:30 PM,North Carolina,,Boshamer Stadium,,"L, 0-4",0,4,3153
+2006,45,Apr 23(Sun),12:00 PM,North Carolina,,Boshamer Stadium,,"L, 2-3",2,3,2195
+2006,46,Apr 28(Fri),7:00 PM,Miami,,Doak Field,,"W, 9-2",9,2,2282
+2006,47,Apr 29(Sat),1:00 PM,Miami,,Doak Field,,"L, 6-9",6,9,1243
+2006,48,Apr 30(Sun),1:00 PM,Miami,,Doak Field,,"L, 10-12",10,12,1630
+2006,49,May 6(Sat),2:00 PM,Longwood,,Doak Field,,"W, 18-4",18,4,1006
+2006,51,May 10(Wed),7:00 PM,UNC Wilmington,,Brooks Field,,"L, 3-5",3,5,2741
+2006,52,May 12(Fri),7:00 PM,Virginia Tech,,English Field,,"W, 21-3",21,3,385
+2006,53,May 13(Sat),7:00 PM,Virginia Tech,,English Field,,"L, 6-7",6,7,512
+2006,55,May 18(Thu),7:00 PM,Florida State,,Dick Howser Stadium,,"L, 10-11",10,11,1786
+2006,56,May 19(Fri),7:00 PM,Florida State,,Dick Howser Stadium,,"L, 1-7",1,7,2496
+2006,57,May 20(Sat),7:00 PM,Florida State,,Dick Howser Stadium,,"W, 15-7",15,7,3006
+2006,58,May 24(Wed),1:00 PM,North Carolina,ACC Tournament,Baseball Grounds,,"W, 9-3",9,3,16444
+2006,59,May 25(Thu),4:00 PM,Virginia,ACC Tournament,Baseball Grounds,,"W, 4-3",4,3,13280
+2006,60,May 27(Sat),10:00 AM,Florida State,ACC Tournament,Baseball Grounds,,"L, 3-7",3,7,22119
+2006,61,May 27(Sat),4:00 PM,Florida State,ACC Tournament,Baseball Grounds,,"W, 8-7",8,7,22119
+2006,62,May 28(Sun),1:00 PM,Clemson,ACC Tournament,Baseball Grounds,,"L, 4-8",4,8,4172
+2006,63,Jun 2(Fri),12:00 PM,Stanford,NCAA Regional,Disch-Falk Field,,"L, 2-7",2,7,4055
+2006,64,Jun 3(Sat),12:00 PM,Texas-Arlington,NCAA Regional,Disch-Falk Field,,"W, 6-5",6,5,4138
+2006,65,Jun 4(Sun),1:00 PM,Texas,NCAA Regional,Disch-Falk Field,,"W, 6-3",6,3,4346
+2006,66,Jun 4(Sun),5:00 PM,Stanford,NCAA Regional,Disch-Falk Field,,"L, 7-17",7,17,4414
+2007,1,Feb 9(Fri),3:00 PM,William & Mary,,Doak Field,,"W, 9-4",9,4,975
+2007,2,Feb 10(Sat),2:00 PM,William & Mary,,Doak Field,,"W, 23-0",23,0,1018
+2007,3,Feb 11(Sun),1:30 PM,William & Mary,,Doak Field,,"W, 6-3",6,3,850
+2007,4,Feb 17(Sat),2:00 PM,Gardner-Webb,,Doak Field,,"W, 8-0",8,0,424
+2007,5,Feb 18(Sun),1:30 PM,Gardner-Webb,,Doak Field,,"W, 10-3",10,3,452
+2007,6,Feb 21(Wed),3:00 PM,North Carolina A&T,,Doak Field,,"W, 5-3",5,3,804
+2007,7,Feb 23(Fri),2:00 PM,West Virginia,,BB&T Coastal Field,,"W, 5-1",5,1,236
+2007,8,Feb 24(Sat),12:00 PM,Coastal Carolina,,BB&T Coastal Field,,"W, 4-0",4,0,2842
+2007,9,Feb 25(Sun),3:30 PM,TCU,,BB&T Coastal Field,,"L, 3-5",3,5,2075
+2007,10,Feb 27(Tue),3:00 PM,UNC Wilmington,,Doak Field,,"W, 5-2",5,2,884
+2007,11,Mar 2(Fri),1:00 PM,Western Carolina,,Clark-LeClair Stadium,,"L, 5-6",5,6,3303
+2007,12,Mar 3(Sat),3:00 PM,East Carolina,,Clark-LeClair Stadium,,"W, 5-4",5,4,5523
+2007,13,Mar 4(Sun),11:00 AM,Pepperdine,,Clark-LeClair Stadium,,"L, 2-5",2,5,3010
+2007,14,Mar 6(Tue),1:00 PM,UNC Greensboro,,UNCG Baseball Complex,,"L, 8-10",8,10,310
+2007,15,Mar 7(Wed),3:00 PM,North Carolina A&T,,Doak Field,,"W, 6-2",6,2,562
+2007,16,Mar 9(Fri),3:00 PM,Maryland,,Doak Field,,"L, 3-6",3,6,519
+2007,17,Mar 10(Sat),2:00 PM,Maryland,,Doak Field,,"L, 2-4",2,4,853
+2007,18,Mar 11(Sun),1:00 PM,Maryland,,Doak Field,,"W, 20-3",20,3,491
+2007,19,Mar 13(Tue),3:00 PM,Valparaiso,,Doak Field,,"W, 9-0",9,0,682
+2007,20,Mar 14(Wed),3:00 PM,Valparaiso,,Doak Field,,"W, 9-4",9,4,927
+2007,21,Mar 16(Fri),3:00 PM,Virginia Tech,,Doak Field,,"W, 12-8",12,8,647
+2007,22,Mar 17(Sat),2:00 PM,Virginia Tech,,Doak Field,,"W, 5-2",5,2,647
+2007,23,Mar 18(Sun),1:30 PM,Virginia Tech,,Doak Field,,"L, 4-6",4,6,745
+2007,24,Mar 23(Fri),2:30 PM,Wake Forest,,Gene Hooks Field,,"W, 6-4",6,4,1782
+2007,25,Mar 24(Sat),1:00 PM,Wake Forest,,Gene Hooks Field,,"L, 3-16",3,16,2139
+2007,26,Mar 25(Sun),1:00 PM,Wake Forest,,Gene Hooks Field,,"W, 3-2",3,2,1858
+2007,27,Mar 28(Wed),6:00 PM,UNC Greensboro,,Doak Field,,"W, 6-0",6,0,1172
+2007,28,Mar 30(Fri),2:30 PM,Boston College,,Harrington Field,,"W, 24-4",24,4,107
+2007,29,Mar 31(Sat),1:00 PM,Boston College,,Harrington Field,,"W, 10-1",10,1,224
+2007,30,Apr 1(Sun),1:00 PM,Boston College,,Harrington Field,,"W, 6-2",6,2,157
+2007,31,Apr 4(Wed),6:00 PM,East Carolina,,Doak Field,,"W, 3-2",3,2,2862
+2007,32,Apr 6(Fri),7:00 PM,Florida State,,Doak Field,,"L, 4-10",4,10,1528
+2007,33,Apr 7(Sat),7:00 PM,Florida State,,Doak Field,,"W, 8-6",8,6,1012
+2007,34,Apr 8(Sun),1:00 PM,Florida State,,Doak Field,,"L, 5-6",5,6,1076
+2007,35,Apr 13(Fri),7:00 PM,Miami,,Mark Light Field,,"W, 5-3",5,3,2501
+2007,36,Apr 14(Sat),7:00 PM,Miami,,Mark Light Field,,"L, 1-5",1,5,1621
+2007,37,Apr 15(Sun),1:00 PM,Miami,,Mark Light Field,,"W, 19-9",19,9,1677
+2007,38,Apr 18(Wed),6:00 PM,Davidson,,Doak Field,,"W, 14-3",14,3,908
+2007,39,Apr 20(Fri),7:00 PM,Georgia Tech,,Mac Nease Park,,"L, 1-2",1,2,1603
+2007,40,Apr 21(Sat),7:00 PM,Georgia Tech,,Mac Nease Park,,"L, 3-4",3,4,2084
+2007,41,Apr 22(Sun),1:30 PM,Georgia Tech,,Mac Nease Park,,"L, 3-7",3,7,2767
+2007,42,Apr 25(Wed),6:00 PM,UNC Wilmington,,Doak Field,,"W, 6-1",6,1,1550
+2007,43,Apr 27(Fri),7:00 PM,North Carolina,,Doak Field,,"W, 11-1",11,1,2982
+2007,44,Apr 28(Sat),7:00 PM,North Carolina,,Doak Field,,"L, 3-9",3,9,3109
+2007,45,Apr 29(Sun),1:30 PM,North Carolina,,Doak Field,,"L, 5-7",5,7,2683
+2007,46,May 4(Fri),7:00 PM,Campbell,,Doak Field,,"W, 12-4",12,4,402
+2007,47,May 5(Sat),2:00 PM,Campbell,,Doak Field,,"W, 7-3",7,3,692
+2007,48,May 9(Wed),7:00 PM,UNC Wilmington,,Brooks Field,,"L, 4-8",4,8,1211
+2007,49,May 11(Fri),7:00 PM,Virginia,,Disharoon Park,,"L, 2-4",2,4,2516
+2007,50,May 12(Sat),7:00 PM,Virginia,,Disharoon Park,,"W, 10-7",10,7,2545
+2007,51,May 13(Sun),1:00 PM,Virginia,,Disharoon Park,,"W, 8-6",8,6,2538
+2007,52,May 15(Tue),6:00 PM,UNC Asheville,,Doak Field,,"W, 7-4",7,4,821
+2007,53,May 17(Thu),7:00 PM,Clemson,,Doak Field,,"W, 11-4",11,4,1152
+2007,54,May 18(Fri),7:00 PM,Clemson,,Doak Field,,"W, 6-5",6,5,1918
+2007,55,May 19(Sat),1:00 PM,Clemson,,Doak Field,,"L, 3-6",3,6,2297
+2007,56,May 23(Wed),10:06 AM,Virginia,ACC Tournament,Baseball Grounds,,"L, 1-6",1,6,5313
+2007,57,May 24(Thu),10:10 AM,North Carolina,ACC Tournament,Baseball Grounds,,"L, 5-14",5,14,6132
+2007,58,May 26(Sat),10:05 AM,Georgia Tech,ACC Tournament,Baseball Grounds,,"W, 8-7",8,7,5439
+2007,59,Jun 1(Fri),2:00 PM,Charlotte,NCAA Regional,Sarge Frye Field,,"L, 3-6",3,6,3858
+2007,60,Jun 3(Sun),1:00 PM,Wofford,NCAA Regional,Sarge Frye Field,,"W, 10-6",10,6,3848
+2007,61,Jun 3(Sun),8:45 PM,Charlotte,NCAA Regional,Sarge Frye Field,,"L, 10-12",10,12,3789
+2008,1,Feb 23(Sat),4:00 PM,Appalachian State,,Doak Field,,"L, 5-7",5,7,1763
+2008,2,Feb 23(Sat),12:00 PM,Appalachian State,,Doak Field,,"W, 8-1",8,1,1736
+2008,3,Feb 24(Sun),1:30 PM,Appalachian State,,Doak Field,,"W, 14-4",14,4,1124
+2008,4,Feb 29(Fri),12:00 PM,Louisville,,Riley Park,,"L, 1-3",1,3,455
+2008,5,Mar 1(Sat),11:00 AM,North Carolina A&T,,Riley Park,,"W, 11-2",11,2,662
+2008,6,Mar 2(Sun),2:00 PM,The Citadel,,Riley Park,,"W, 4-3",4,3,1458
+2008,7,Mar 4(Tue),3:00 PM,Valparaiso,,Doak Field,,"W, 5-2",5,2,625
+2008,8,Mar 5(Wed),3:00 PM,North Carolina A&T,,Doak Field,,"W, 14-9",14,9,832
+2008,9,Mar 8(Sat),12:00 PM,Virginia,,Doak Field,,"L, 3-5",3,5,727
+2008,10,Mar 8(Sat),3:00 PM,Virginia,,Doak Field,,"W, 2-0",2,0,826
+2008,11,Mar 9(Sun),1:30 PM,Virginia,,Doak Field,,"W, 4-2",4,2,850
+2008,12,Mar 12(Wed),3:00 PM,Quinnipiac,,Doak Field,,"W, 7-2",7,2,729
+2008,13,Mar 14(Fri),6:30 PM,Miami,,Doak Field,,"L, 5-12",5,12,1781
+2008,14,Mar 15(Sat),2:00 PM,Miami,,Doak Field,,"L, 1-2",1,2,1129
+2008,15,Mar 16(Sun),1:30 PM,Miami,,Doak Field,,"W, 11-10",11,10,1105
+2008,16,Mar 18(Tue),3:00 PM,Towson,,Doak Field,,"W, 4-3",4,3,638
+2008,17,Mar 19(Wed),3:00 PM,Towson,,Doak Field,,"W, 9-5",9,5,790
+2008,18,Mar 21(Fri),7:15 PM,Clemson,,Doug Kingsmore Stadium,,"W, 5-4",5,4,4560
+2008,19,Mar 22(Sat),7:00 PM,Clemson,,Doug Kingsmore Stadium,,"L, 2-3",2,3,4987
+2008,20,Mar 23(Sun),1:00 PM,Clemson,,Doug Kingsmore Stadium,,"L, 0-2",0,2,4546
+2008,21,Mar 25(Tue),6:30 PM,Marshall,,Doak Field,,"W, 9-5",9,5,934
+2008,22,Mar 26(Wed),3:30 PM,Marshall,,Doak Field,,"L, 0-3",0,3,1127
+2008,23,Mar 28(Fri),7:00 PM,North Carolina,,USA Baseball NTC,,"L, 2-5",2,5,2531
+2008,24,Mar 29(Sat),2:00 PM,North Carolina,,USA Baseball NTC,,"W, 8-6",8,6,902
+2008,25,Apr 1(Tue),6:00 PM,East Carolina,,Clark-LeClair Stadium,,"W, 4-3",4,3,5015
+2008,26,Apr 2(Wed),6:30 PM,Elon,,Doak Field,,"W, 12-0",12,0,1036
+2008,27,Apr 4(Fri),6:30 PM,Wake Forest,,Doak Field,,"W, 7-2",7,2,1642
+2008,28,Apr 6(Sun),1:00 PM,Wake Forest,,Doak Field,,"W, 14-4",14,4,1115
+2008,29,Apr 6(Sun),4:00 PM,Wake Forest,,Doak Field,,"W, 18-6",18,6,749
+2008,30,Apr 8(Tue),6:30 PM,UNC Wilmington,,Doak Field,,"W, 12-5",12,5,1166
+2008,31,Apr 9(Wed),6:30 PM,Coastal Carolina,,Doak Field,,"L, 4-5",4,5,1366
+2008,32,Apr 11(Fri),6:30 PM,Duke,,Doak Field,,"L, 1-4",1,4,1860
+2008,33,Apr 12(Sat),6:30 PM,Duke,,Doak Field,,"W, 8-1",8,1,1308
+2008,34,Apr 13(Sun),1:30 PM,Duke,,Doak Field,,"W, 12-7",12,7,1438
+2008,35,Apr 15(Tue),6:30 PM,East Carolina,,Doak Field,,"W, 7-6",7,6,2715
+2008,36,Apr 16(Wed),6:30 PM,Radford,,Doak Field,,"W, 11-2",11,2,946
+2008,37,Apr 18(Fri),5:30 PM,Virginia Tech,,English Field,,"W, 8-2",8,2,547
+2008,38,Apr 19(Sat),5:30 PM,Virginia Tech,,English Field,,"L, 3-4",3,4,217
+2008,39,Apr 20(Sun),1:00 PM,Virginia Tech,,English Field,,"W, 11-5",11,5,382
+2008,40,Apr 23(Wed),6:00 PM,UNC Greensboro,,UNCG Baseball Complex,,"L, 7-8",7,8,821
+2008,41,Apr 25(Fri),6:30 PM,Boston College,,Doak Field,,"W, 5-1",5,1,1014
+2008,42,Apr 26(Sat),6:30 PM,Boston College,,Doak Field,,"W, 3-2",3,2,1425
+2008,43,Apr 27(Sun),1:30 PM,Boston College,,Doak Field,,"W, 14-4",14,4,1046
+2008,44,May 2(Fri),6:30 PM,Campbell,,Doak Field,,"W, 8-2",8,2,1504
+2008,45,May 3(Sat),6:30 PM,High Point,,Doak Field,,"L, 6-9",6,9,1429
+2008,46,May 4(Sun),1:30 PM,High Point,,Doak Field,,"W, 4-2",4,2,1177
+2008,47,May 6(Tue),6:30 PM,Campbell,,Jim Perry Stadium,,"W, 6-3",6,3,772
+2008,48,May 7(Wed),6:30 PM,UNC Wilmington,,Brooks Field,,"L, 2-3",2,3,3392
+2008,49,May 10(Sat),4:30 PM,Maryland,,Shipley Field,,"W, 12-1",12,1,617
+2008,50,May 10(Sat),1:00 PM,Maryland,,Shipley Field,,"L, 2-6",2,6,556
+2008,51,May 11(Sun),1:00 PM,Maryland,,Shipley Field,,"W, 17-8",17,8,385
+2008,52,May 13(Tue),6:30 PM,North Carolina A&T,,Doak Field,,"W, 17-6",17,6,890
+2008,53,May 15(Thu),7:00 PM,Florida State,,Dick Howser Stadium,,"W, 12-2",12,2,4234
+2008,54,May 16(Fri),7:00 PM,Florida State,,Dick Howser Stadium,,"L, 0-1",0,1,4593
+2008,55,May 17(Sat),1:00 PM,Florida State,,Dick Howser Stadium,,"L, 1-8",1,8,5941
+2008,56,May 21(Wed),10:00 AM,Georgia Tech,ACC Tournament,Baseball Grounds,,"L, 9-10",9,10,4662
+2008,57,May 22(Thu),8:00 PM,Clemson,ACC Tournament,Baseball Grounds,,"W, 10-0",10,0,6248
+2008,58,May 24(Sat),1:00 PM,Miami,ACC Tournament,Baseball Grounds,,"L, 2-5",2,5,7916
+2008,59,May 30(Fri),7:00 PM,James Madison,NCAA Regional,Doak Field,,"W, 6-2",6,2,2547
+2008,60,May 31(Sat),7:00 PM,South Carolina,NCAA Regional,Doak Field,,"W, 5-4",5,4,2577
+2008,61,Jun 1(Sun),6:00 PM,South Carolina,NCAA Regional,Doak Field,,"W, 2-1",2,1,2597
+2008,62,Jun 6(Fri),12:00 PM,Georgia,NCAA Super Regional,Foley Field,,"L, 4-11",4,11,3517
+2008,63,Jun 7(Sat),12:00 PM,Georgia,NCAA Super Regional,Foley Field,,"W, 10-6",10,6,3523
+2008,64,Jun 8(Sun),4:00 PM,Georgia,NCAA Super Regional,Foley Field,,"L, 8-17",8,17,3512
+2009,1,Feb 20(Fri),3:00 PM,Rhode Island,,Doak Field,,"L, 8-11",8,11,547
+2009,2,Feb 21(Sat),2:30 PM,Xavier,,Doak Field,,"L, 3-8",3,8,667
+2009,3,Feb 22(Sun),3:00 PM,Santa Clara,,Doak Field,,"W, 9-3",9,3,907
+2009,4,Feb 24(Tue),3:00 PM,High Point,,Doak Field,,"W, 8-2",8,2,663
+2009,5,Feb 25(Wed),4:00 PM,Elon,,Latham Park,,"W, 3-1",3,1,643
+2009,6,Feb 27(Fri),6:00 PM,Hofstra,,Doak Field,,"W, 15-2",15,2,730
+2009,7,Feb 27(Fri),3:00 PM,Hofstra,,Doak Field,,"W, 11-4",11,4,730
+2009,8,Mar 4(Wed),2:30 PM,Villanova,,Santaluces Athletic Complex,,"W, 15-0",15,0,123
+2009,9,Mar 4(Wed),5:00 PM,Akron,,Santaluces Athletic Complex,,"W, 5-4",5,4,139
+2009,10,Mar 6(Fri),7:00 PM,Miami,,Mark Light Field,,"L, 6-7",6,7,2503
+2009,11,Mar 7(Sat),7:00 PM,Miami,,Mark Light Field,,"L, 0-4",0,4,3000
+2009,12,Mar 8(Sun),1:00 PM,Miami,,Mark Light Field,,"L, 7-9",7,9,2447
+2009,13,Mar 10(Tue),3:00 PM,George Mason,,Doak Field,,"L, 4-11",4,11,814
+2009,14,Mar 11(Wed),6:30 PM,North Carolina A&T,,Doak Field,,"W, 16-3",16,3,984
+2009,15,Mar 14(Sat),2:00 PM,Maryland,,Doak Field,,"W, 8-3",8,3,553
+2009,16,Mar 15(Sun),1:00 PM,Maryland,,Doak Field,,"L, 1-3",1,3,657
+2009,17,Mar 15(Sun),5:00 PM,Maryland,,Doak Field,,"L, 3-9",3,9,619
+2009,18,Mar 17(Tue),6:00 PM,NC Central,,Doak Field,,"W, 8-4",8,4,637
+2009,19,Mar 18(Wed),6:30 PM,Elon,,Doak Field,,"L, 3-5",3,5,918
+2009,20,Mar 20(Fri),6:00 PM,Wake Forest,,David F. Couch Ballpark,,"L, 3-6",3,6,541
+2009,21,Mar 21(Sat),6:00 PM,Wake Forest,,David F. Couch Ballpark,,"W, 10-3",10,3,1321
+2009,22,Mar 22(Sun),1:00 PM,Wake Forest,,David F. Couch Ballpark,,"W, 13-7",13,7,858
+2009,23,Mar 24(Tue),6:30 PM,UNC Greensboro,,Doak Field,,"W, 4-3",4,3,948
+2009,24,Mar 25(Wed),3:00 PM,Liberty,,Doak Field,,"L, 5-17",5,17,631
+2009,25,Mar 28(Sat),2:00 PM,Virginia Tech,,Doak Field,,"L, 7-11",7,11,1052
+2009,26,Mar 29(Sun),3:30 PM,Virginia Tech,,Doak Field,,"W, 7-6",7,6,1273
+2009,27,Mar 29(Sun),12:00 PM,Virginia Tech,,Doak Field,,"W, 19-18",19,18,1273
+2009,28,Apr 1(Wed),6:30 PM,East Carolina,,Doak Field,,"L, 4-14",4,14,2750
+2009,29,Apr 4(Sat),2:00 PM,Boston College,,Harrington Field,,"L, 6-8",6,8,755
+2009,30,Apr 4(Sat),11:00 AM,Boston College,,Harrington Field,,"W, 8-4",8,4,755
+2009,31,Apr 5(Sun),1:00 PM,Boston College,,Harrington Field,,"L, 10-11",10,11,812
+2009,32,Apr 7(Tue),6:30 PM,UNC Wilmington,,Doak Field,,"W, 10-2",10,2,1133
+2009,33,Apr 11(Sat),4:00 PM,Duke,,Jack Coombs Field,,"L, 2-11",2,11,726
+2009,34,Apr 11(Sat),1:00 PM,Duke,,Jack Coombs Field,,"W, 3-1",3,1,726
+2009,35,Apr 12(Sun),5:00 PM,Duke,,Jack Coombs Field,,"L, 7-8",7,8,697
+2009,36,Apr 14(Tue),6:30 PM,Wofford,,Doak Field,,"W, 12-0",12,0,653
+2009,37,Apr 15(Wed),6:00 PM,East Carolina,,Clark-LeClair Stadium,,"L, 0-7",0,7,4902
+2009,38,Apr 17(Fri),6:30 PM,Florida State,,Doak Field,,"L, 3-9",3,9,1466
+2009,39,Apr 18(Sat),6:30 PM,Florida State,,Doak Field,,"L, 2-4",2,4,1837
+2009,40,Apr 19(Sun),1:00 PM,Florida State,,Doak Field,,"L, 2-13",2,13,1292
+2009,41,Apr 21(Tue),6:00 PM,UNC Greensboro,,UNCG Baseball Complex,,"L, 3-5",3,5,443
+2009,42,Apr 24(Fri),7:00 PM,Virginia,,Disharoon Park,,"L, 2-6",2,6,2628
+2009,43,Apr 25(Sat),1:00 PM,Virginia,,Disharoon Park,,"L, 3-6",3,6,1929
+2009,44,Apr 26(Sun),1:00 PM,Virginia,,Disharoon Park,,"W, 7-6",7,6,2262
+2009,45,May 1(Fri),6:30 PM,Campbell,,Doak Field,,"L, 4-7",4,7,998
+2009,46,May 2(Sat),4:00 PM,Campbell,,Jim Perry Stadium,,"L, 7-16",7,16,1223
+2009,47,May 3(Sun),4:00 PM,NC Central,,Doak Field,,"W, 15-5",15,5,827
+2009,48,May 3(Sun),12:00 PM,NC Central,,Doak Field,,"W, 15-2",15,2,742
+2009,49,May 6(Wed),7:00 PM,UNC Wilmington,,Brooks Field,,"L, 1-5",1,5,1308
+2009,50,May 8(Fri),6:30 PM,North Carolina,,Doak Field,,"W, 3-0",3,0,1832
+2009,51,May 9(Sat),6:30 PM,North Carolina,,Doak Field,,"L, 2-5",2,5,1945
+2009,52,May 10(Sun),2:00 PM,North Carolina,,Doak Field,,"W, 9-4",9,4,1705
+2009,53,May 12(Tue),6:30 PM,Appalachian State,,Doak Field,,"W, 10-6",10,6,754
+2009,54,May 14(Thu),6:30 PM,Clemson,,Doak Field,,"L, 8-13",8,13,802
+2009,55,May 15(Fri),6:30 PM,Clemson,,Doak Field,,"L, 5-11",5,11,1245
+2009,56,May 16(Sat),1:00 PM,Clemson,,Doak Field,,"L, 4-5",4,5,1149
+2010,1,Feb 19(Fri),3:00 PM,La Salle,,Doak Field,,"W, 32-3",32,3,1168
+2010,2,Feb 20(Sat),2:00 PM,La Salle,,Doak Field,,"W, 18-3",18,3,806
+2010,3,Feb 21(Sun),1:00 PM,La Salle,,Doak Field,,"W, 15-9",15,9,1036
+2010,4,Feb 23(Tue),3:00 PM,Campbell,,Doak Field,,"W, 9-8",9,8,899
+2010,5,Feb 26(Fri),12:00 PM,UC Irvine,,BB&T Coastal Field,,"W, 7-4",7,4,729
+2010,6,Feb 27(Sat),1:00 PM,James Madison,,BB&T Coastal Field,,"W, 6-2",6,2,480
+2010,7,Feb 28(Sun),2:30 PM,Coastal Carolina,,BB&T Coastal Field,,"L, 3-6",3,6,1028
+2010,8,Mar 4(Thu),3:00 PM,Xavier,,Doak Field,,"W, 10-7",10,7,621
+2010,9,Mar 5(Fri),3:00 PM,Quinnipiac,,Doak Field,,"W, 17-6",17,6,827
+2010,10,Mar 6(Sat),2:00 PM,Quinnipiac,,Doak Field,,"W, 14-3",14,3,1174
+2010,11,Mar 7(Sun),1:00 PM,Quinnipiac,,Doak Field,,"W, 17-7",17,7,1016
+2010,12,Mar 9(Tue),3:00 PM,North Carolina A&T,,Doak Field,,"W, 14-10",14,10,1021
+2010,13,Mar 13(Sat),3:00 PM,Clemson,,Doug Kingsmore Stadium,,"L, 6-12",6,12,4895
+2010,14,Mar 13(Sat),12:00 PM,Clemson,,Doug Kingsmore Stadium,,"L, 7-12",7,12,4895
+2010,15,Mar 14(Sun),1:00 PM,Clemson,,Doug Kingsmore Stadium,,"L, 6-7",6,7,3663
+2010,16,Mar 16(Tue),3:00 PM,NC Central,,Durham Athletic Park,,"W, 24-6",24,6,53
+2010,17,Mar 17(Wed),6:00 PM,UNC Wilmington,,Brooks Field,,"L, 6-9",6,9,1168
+2010,18,Mar 19(Fri),6:00 PM,Wake Forest,,David F. Couch Ballpark,,"W, 17-6",17,6,602
+2010,19,Mar 20(Sat),6:00 PM,Wake Forest,,David F. Couch Ballpark,,"W, 5-3",5,3,784
+2010,20,Mar 21(Sun),1:00 PM,Wake Forest,,David F. Couch Ballpark,,"L, 3-4",3,4,502
+2010,21,Mar 23(Tue),6:30 PM,Campbell,,Jim Perry Stadium,,"L, 10-15",10,15,918
+2010,22,Mar 26(Fri),6:30 PM,Miami,,Doak Field,,"L, 5-6",5,6,1256
+2010,23,Mar 27(Sat),6:30 PM,Miami,,Doak Field,,"W, 7-6",7,6,1452
+2010,24,Mar 28(Sun),1:00 PM,Miami,,Doak Field,,"L, 0-4",0,4,1274
+2010,25,Mar 31(Wed),6:30 PM,Old Dominion,,Doak Field,,"W, 7-3",7,3,1113
+2010,26,Apr 2(Fri),6:30 PM,Virginia,,Doak Field,,"W, 6-5",6,5,1519
+2010,27,Apr 3(Sat),6:30 PM,Virginia,,Doak Field,,"L, 4-8",4,8,1458
+2010,28,Apr 4(Sun),1:00 PM,Virginia,,Doak Field,,"W, 7-6",7,6,1024
+2010,29,Apr 6(Tue),6:30 PM,Coppin State,,Doak Field,,"W, 11-2",11,2,1013
+2010,30,Apr 7(Wed),3:00 PM,Coppin State,,Doak Field,,"W, 18-1",18,1,735
+2010,31,Apr 9(Fri),7:00 PM,North Carolina,,Boshamer Stadium,,"L, 7-14",7,14,3673
+2010,32,Apr 10(Sat),6:00 PM,North Carolina,,Boshamer Stadium,,"W, 14-6",14,6,3776
+2010,33,Apr 11(Sun),1:00 PM,North Carolina,,Boshamer Stadium,,"L, 6-9",6,9,2824
+2010,34,Apr 13(Tue),6:30 PM,NC Central,,Doak Field,,"W, 11-0",11,0,962
+2010,35,Apr 14(Wed),6:30 PM,UNC Wilmington,,Doak Field,,"L, 4-7",4,7,1338
+2010,36,Apr 16(Fri),6:00 PM,Maryland,,Shipley Field,,"W, 4-2",4,2,368
+2010,37,Apr 17(Sat),1:00 PM,Maryland,,Shipley Field,,"W, 7-2",7,2,447
+2010,38,Apr 18(Sun),1:00 PM,Maryland,,Shipley Field,,"W, 22-6",22,6,367
+2010,39,Apr 21(Wed),6:00 PM,East Carolina,,Clark-LeClair Stadium,,"W, 8-6",8,6,3809
+2010,40,Apr 23(Fri),6:30 PM,Boston College,,Doak Field,,"L, 5-9",5,9,1472
+2010,41,Apr 24(Sat),2:00 PM,Boston College,,Doak Field,,"L, 8-10",8,10,856
+2010,42,Apr 25(Sun),1:00 PM,Boston College,,Doak Field,,"L, 10-11",10,11,829
+2010,43,Apr 28(Wed),6:30 PM,Elon,,Doak Field,,"L, 9-13",9,13,1164
+2010,44,Apr 30(Fri),6:30 PM,Georgia Tech,,Doak Field,,"W, 6-5",6,5,1582
+2010,45,May 1(Sat),1:00 PM,Georgia Tech,,Doak Field,,"W, 4-2",4,2,1341
+2010,46,May 2(Sun),1:00 PM,Georgia Tech,,Doak Field,,"L, 3-5",3,5,1241
+2010,47,May 7(Fri),6:30 PM,Towson,,Doak Field,,"W, 14-5",14,5,954
+2010,48,May 8(Sat),6:30 PM,Towson,,Doak Field,,"W, 6-5",6,5,1028
+2010,49,May 9(Sun),1:00 PM,Towson,,Doak Field,,"W, 21-0",21,0,979
+2010,50,May 14(Fri),6:00 PM,Florida State,,Dick Howser Stadium,,"W, 5-2",5,2,4476
+2010,51,May 15(Sat),6:30 PM,Florida State,,Dick Howser Stadium,,"L, 5-7",5,7,5320
+2010,52,May 16(Sun),1:00 PM,Florida State,,Dick Howser Stadium,,"L, 9-12",9,12,4396
+2010,53,May 18(Tue),6:30 PM,High Point,,Doak Field,,"W, 10-3",10,3,691
+2010,54,May 20(Thu),6:30 PM,Duke,,Doak Field,,"W, 8-3",8,3,1077
+2010,55,May 21(Fri),6:30 PM,Duke,,Doak Field,,"W, 7-6",7,6,1493
+2010,56,May 22(Sat),1:00 PM,Duke,,Doak Field,,"W, 8-4",8,4,1550
+2010,57,May 26(Wed),8:00 PM,Clemson,ACC Tournament,NewBridge Bank Park,,"W, 13-8",13,8,4893
+2010,58,May 29(Sat),8:00 PM,Virginia Tech,ACC Tournament,NewBridge Bank Park,,"W, 10-9",10,9,4456
+2010,59,May 29(Sat),10:00 AM,Georgia Tech,ACC Tournament,NewBridge Bank Park,,"L, 5-17",5,17,4215
+2010,60,May 30(Sun),1:00 PM,Florida State,ACC Tournament,NewBridge Bank Park,,"L, 3-8",3,8,6274
+2010,61,Jun 4(Fri),7:00 PM,College of Charleston,NCAA Regional,BB&T Coastal Field,,"L, 6-9",6,9,2616
+2010,62,Jun 5(Sat),1:00 PM,Stony Brook,NCAA Regional,BB&T Coastal Field,,"L, 2-6",2,6,1604
+2011,1,Feb 18(Fri),3:00 PM,Elon,,Doak Field,,"W, 17-4",17,4,1676
+2011,2,Feb 19(Sat),2:00 PM,Elon,,Latham Park,,"L, 2-12",2,12,819
+2011,3,Feb 20(Sun),1:00 PM,Elon,,Doak Field,,"L, 2-4",2,4,1468
+2011,4,Feb 25(Fri),4:00 PM,Pacific,,BB&T Coastal Field,,"W, 13-4",13,4,127
+2011,5,Feb 26(Sat),12:00 PM,California,,BB&T Coastal Field,,"L, 0-4",0,4,275
+2011,6,Feb 27(Sun),3:00 PM,Coastal Carolina,,BB&T Coastal Field,,"W, 12-3",12,3,1085
+2011,7,Mar 1(Tue),3:00 PM,Davidson,,Doak Field,,"W, 3-2",3,2,850
+2011,8,Mar 4(Fri),3:00 PM,Penn State,,Doak Field,,"L, 2-3",2,3,734
+2011,9,Mar 5(Sat),1:00 PM,Penn State,,Doak Field,,"W, 4-1",4,1,1079
+2011,10,Mar 5(Sat),4:00 PM,Penn State,,Doak Field,,"L, 4-9",4,9,1166
+2011,11,Mar 8(Tue),2:00 PM,Radford,,Doak Field,,"W, 6-3",6,3,652
+2011,12,Mar 9(Wed),2:00 PM,Radford,,Doak Field,,"W, 8-1",8,1,703
+2011,13,Mar 11(Fri),6:00 PM,Duke,,Durham Bulls Athletic Park,,"W, 4-3",4,3,325
+2011,14,Mar 12(Sat),2:00 PM,Duke,,Durham Bulls Athletic Park,,"L, 3-8",3,8,724
+2011,15,Mar 13(Sun),1:00 PM,Duke,,Durham Bulls Athletic Park,,"L, 1-7",1,7,1182
+2011,16,Mar 15(Tue),3:00 PM,Buffalo,,Doak Field,,"W, 7-5",7,5,715
+2011,17,Mar 16(Wed),3:00 PM,George Mason,,Doak Field,,"W, 9-1",9,1,779
+2011,18,Mar 18(Fri),7:00 PM,Georgia Tech,,Mac Nease Park,,"L, 2-9",2,9,1312
+2011,19,Mar 19(Sat),4:00 PM,Georgia Tech,,Mac Nease Park,,"L, 0-12",0,12,1423
+2011,20,Mar 20(Sun),1:00 PM,Georgia Tech,,Mac Nease Park,,"L, 4-11",4,11,1157
+2011,21,Mar 22(Tue),6:00 PM,Northwestern,,Doak Field,,"W, 4-1",4,1,883
+2011,22,Mar 23(Wed),3:00 PM,Northwestern,,Doak Field,,"W, 8-7",8,7,933
+2011,23,Mar 25(Fri),6:30 PM,Clemson,,Doak Field,,"W, 6-0",6,0,1176
+2011,24,Mar 26(Sat),2:00 PM,Clemson,,Doak Field,,"W, 5-3",5,3,967
+2011,25,Mar 27(Sun),1:00 PM,Clemson,,Doak Field,,"L, 3-7",3,7,810
+2011,26,Mar 29(Tue),6:00 PM,UNC Greensboro,,UNCG Baseball Complex,,"W, 9-1",9,1,589
+2011,27,Apr 1(Fri),6:30 PM,Wake Forest,,Doak Field,,"L, 5-11",5,11,1246
+2011,28,Apr 2(Sat),6:30 PM,Wake Forest,,Doak Field,,"W, 6-4",6,4,1145
+2011,29,Apr 3(Sun),1:00 PM,Wake Forest,,Doak Field,,"W, 17-5",17,5,1931
+2011,30,Apr 5(Tue),6:00 PM,East Carolina,,Doak Field,,"W, 4-2",4,2,1960
+2011,31,Apr 8(Fri),7:00 PM,Miami,,Mark Light Field,,"L, 1-4",1,4,2326
+2011,32,Apr 9(Sat),7:00 PM,Miami,,Mark Light Field,,"L, 13-14",13,14,3908
+2011,33,Apr 10(Sun),1:00 PM,Miami,,Mark Light Field,,"L, 0-3",0,3,3041
+2011,34,Apr 13(Wed),6:00 PM,UNC Wilmington,,Doak Field,,"L, 1-9",1,9,1246
+2011,35,Apr 15(Fri),6:30 PM,North Carolina,,Doak Field,,"W, 5-4",5,4,2775
+2011,36,Apr 16(Sat),6:30 PM,North Carolina,,Doak Field,,"W, 8-7",8,7,1727
+2011,37,Apr 17(Sun),1:00 PM,North Carolina,,Doak Field,,"W, 10-2",10,2,2828
+2011,38,Apr 19(Tue),6:00 PM,Campbell,,Doak Field,,"W, 3-2",3,2,1215
+2011,39,Apr 20(Wed),6:00 PM,UNC Wilmington,,Brooks Field,,"W, 19-5",19,5,1094
+2011,40,Apr 23(Sat),4:30 PM,Virginia,,Disharoon Park,,"L, 1-3",1,3,3489
+2011,41,Apr 23(Sat),1:00 PM,Virginia,,Disharoon Park,,"W, 6-2",6,2,4183
+2011,42,Apr 24(Sun),1:00 PM,Virginia,,Disharoon Park,,"L, 6-7",6,7,3452
+2011,43,Apr 29(Fri),6:30 PM,Maryland,,Doak Field,,"L, 11-13",11,13,1408
+2011,44,Apr 30(Sat),6:30 PM,Maryland,,Doak Field,,"W, 9-5",9,5,1783
+2011,45,May 1(Sun),1:00 PM,Maryland,,Doak Field,,"W, 7-5",7,5,755
+2011,46,May 6(Fri),6:30 PM,ETSU,,Doak Field,,"L, 1-5",1,5,1148
+2011,47,May 7(Sat),6:30 PM,ETSU,,Doak Field,,"L, 0-2",0,2,1392
+2011,48,May 8(Sun),1:00 PM,ETSU,,Doak Field,,"W, 8-5",8,5,902
+2011,49,May 11(Wed),6:00 PM,Campbell,,Jim Perry Stadium,,"W, 10-2",10,2,615
+2011,50,May 13(Fri),6:30 PM,Florida State,,Doak Field,,"L, 4-9",4,9,1238
+2011,51,May 15(Sun),12:00 PM,Florida State,,Doak Field,,"L, 5-7",5,7,1064
+2011,52,May 15(Sun),3:50 PM,Florida State,,Doak Field,,"W, 12-4",12,4,908
+2011,53,May 17(Tue),6:00 PM,William & Mary,,Doak Field,,"W, 4-0",4,0,852
+2011,54,May 19(Thu),2:00 PM,Boston College,,Harrington Field,,"W, 9-4",9,4,211
+2011,55,May 20(Fri),1:30 PM,Boston College,,Harrington Field,,"W, 10-0",10,0,341
+2011,56,May 21(Sat),12:00 PM,Boston College,,Harrington Field,,"W, 6-1",6,1,1102
+2011,57,May 25(Wed),7:00 PM,Florida State,ACC Tournament,Durham Bulls Athletic Park,,"W, 7-0",7,0,3947
+2011,58,May 26(Thu),7:00 PM,Georgia Tech,ACC Tournament,Durham Bulls Athletic Park,,"W, 6-5",6,5,3098
+2011,59,May 28(Sat),11:00 AM,Clemson,ACC Tournament,Durham Bulls Athletic Park,,"L, 3-6",3,6,4255
+2011,60,Jun 3(Fri),1:00 PM,Stetson,NCAA Regional,Founders Park,,"L, 7-8",7,8,5223
+2011,61,Jun 4(Sat),1:00 PM,Georgia Southern,NCAA Regional,Founders Park,,"W, 5-2",5,2,5340
+2011,62,Jun 5(Sun),1:00 PM,Stetson,NCAA Regional,Founders Park,,"L, 3-5",3,5,5203
+2012,1,Feb 17(Fri),3:00 PM,Marshall,,Doak Field,,"W, 10-3",10,3,1208
+2012,2,Feb 18(Sat),11:00 AM,Youngstown State,,Doak Field,,"W, 14-3",14,3,946
+2012,3,Feb 18(Sat),3:00 PM,Wright State,,Doak Field,,"L, 4-5",4,5,1129
+2012,5,Feb 21(Tue),3:00 PM,UNC Wilmington,,Doak Field,,"W, 10-0",10,0,966
+2012,6,Feb 24(Fri),11:00 AM,George Mason,,BB&T Coastal Field,,"W, 8-5",8,5,173
+2012,7,Feb 25(Sat),3:00 PM,West Virginia,,BB&T Coastal Field,,"W, 16-0",16,0,175
+2012,8,Feb 26(Sun),3:00 PM,Coastal Carolina,,BB&T Coastal Field,,"L, 2-3",2,3,876
+2012,9,Feb 28(Tue),3:00 PM,Campbell,,Doak Field,,"W, 9-2",9,2,915
+2012,10,Mar 2(Fri),12:00 PM,UNC Asheville,,Brooks Field,,"W, 10-1",10,1,812
+2012,13,Mar 4(Sun),4:45 PM,UNC Wilmington,,Brooks Field,,"W, 8-3",8,3,1201
+2012,14,Mar 7(Wed),3:00 PM,Davidson,,Doak Field,,"W, 11-0",11,0,772
+2012,15,Mar 9(Fri),3:00 PM,Georgia Tech,,Doak Field,,"L, 6-14",6,14,688
+2012,16,Mar 10(Sat),2:00 PM,Georgia Tech,,Doak Field,,"W, 8-5",8,5,997
+2012,17,Mar 11(Sun),1:00 PM,Georgia Tech,,Doak Field,,"W, 8-3",8,3,1290
+2012,18,Mar 13(Tue),6:00 PM,Elon,,Latham Park,,"W, 8-1",8,1,613
+2012,19,Mar 16(Fri),6:30 PM,Wake Forest,,Doak Field,,"W, 9-5",9,5,1288
+2012,20,Mar 17(Sat),2:00 PM,Wake Forest,,Doak Field,,"W, 6-2",6,2,2163
+2012,21,Mar 18(Sun),1:00 PM,Wake Forest,,Doak Field,,"W, 5-4",5,4,867
+2012,22,Mar 20(Tue),6:00 PM,East Carolina,,Clark-LeClair Stadium,,"L, 5-6",5,6,4714
+2012,23,Mar 24(Sat),1:00 PM,North Carolina,,Boshamer Stadium,,"W, 3-1",3,1,2235
+2012,24,Mar 25(Sun),2:00 PM,North Carolina,,Boshamer Stadium,,"L, 3-4",3,4,2364
+2012,25,Mar 26(Mon),7:00 PM,North Carolina,,Boshamer Stadium,,"L, 4-7",4,7,2928
+2012,26,Mar 28(Wed),6:00 PM,East Carolina,,Doak Field,,"W, 4-3",4,3,2570
+2012,27,Mar 30(Fri),6:30 PM,Virginia,,Doak Field,,"W, 5-1",5,1,1942
+2012,28,Mar 31(Sat),6:30 PM,Virginia,,Doak Field,,"L, 2-5",2,5,2178
+2012,29,Apr 1(Sun),1:00 PM,Virginia,,Doak Field,,"W, 7-6",7,6,1760
+2012,30,Apr 4(Wed),6:00 PM,Old Dominion,,Bud Metheny Baseball Complex,,"W, 16-6",16,6,308
+2012,31,Apr 6(Fri),6:00 PM,Maryland,,"Bob ""Turtle"" Smith Stadium",,"L, 0-4",0,4,579
+2012,32,Apr 7(Sat),3:00 PM,Maryland,,"Bob ""Turtle"" Smith Stadium",,"W, 3-2",3,2,598
+2012,33,Apr 8(Sun),1:00 PM,Maryland,,"Bob ""Turtle"" Smith Stadium",,"L, 6-7",6,7,347
+2012,34,Apr 11(Wed),6:00 PM,Elon,,Doak Field,,"W, 14-2",14,2,1198
+2012,35,Apr 13(Fri),6:30 PM,Clemson,,Doug Kingsmore Stadium,,"L, 6-7",6,7,4964
+2012,36,Apr 14(Sat),12:00 PM,Clemson,,Doug Kingsmore Stadium,,"W, 3-1",3,1,5619
+2012,37,Apr 15(Sun),1:00 PM,Clemson,,Doug Kingsmore Stadium,,"W, 6-3",6,3,4605
+2012,38,Apr 17(Tue),6:00 PM,Campbell,,Jim Perry Stadium,,"L, 6-8",6,8,1135
+2012,39,Apr 20(Fri),6:30 PM,Boston College,,Doak Field,,"L, 10-11",10,11,1320
+2012,40,Apr 21(Sat),1:00 PM,Boston College,,Doak Field,,"W, 9-0",9,0,1035
+2012,41,Apr 21(Sat),4:30 PM,Boston College,,Doak Field,,"W, 16-9",16,9,1478
+2012,42,Apr 25(Wed),6:00 PM,Charlotte,,Doak Field,,"W, 6-3",6,3,1080
+2012,43,Apr 27(Fri),6:30 PM,Duke,,Doak Field,,"W, 4-0",4,0,1672
+2012,44,Apr 28(Sat),6:30 PM,Duke,,Doak Field,,"W, 8-3",8,3,2567
+2012,45,Apr 29(Sun),1:00 PM,Duke,,Doak Field,,"W, 8-7",8,7,1607
+2012,46,May 4(Fri),6:30 PM,CSU Bakersfield,,Doak Field,,"W, 8-4",8,4,1247
+2012,48,May 6(Sun),1:30 PM,CSU Bakersfield,,Doak Field,,"W, 10-7",10,7,1447
+2012,49,May 6(Sun),10:30 AM,CSU Bakersfield,,Doak Field,,"W, 2-0",2,0,912
+2012,50,May 8(Tue),6:00 PM,North Carolina A&T,,Doak Field,,"W, 5-1",5,1,1043
+2012,51,May 11(Fri),5:30 PM,Virginia Tech,,English Field,,"W, 4-2",4,2,1184
+2012,52,May 12(Sat),2:00 PM,Virginia Tech,,English Field,,"W, 6-2",6,2,1243
+2012,53,May 13(Sun),1:00 PM,Virginia Tech,,English Field,,"L, 4-6",4,6,1021
+2012,54,May 15(Tue),6:00 PM,UNC Greensboro,,Doak Field,,"W, 7-0",7,0,1231
+2012,55,May 17(Thu),6:00 PM,Florida State,,Dick Howser Stadium,,"W, 10-5",10,5,4316
+2012,56,May 18(Fri),6:00 PM,Florida State,,Dick Howser Stadium,,"L, 2-3",2,3,4653
+2012,57,May 19(Sat),1:00 PM,Florida State,,Dick Howser Stadium,,"L, 2-6",2,6,4891
+2012,58,May 23(Wed),3:00 PM,Miami,ACC Tournament,NewBridge Bank Park,,"W, 3-2",3,2,3060
+2012,59,May 24(Thu),7:00 PM,Wake Forest,ACC Tournament,NewBridge Bank Park,,"L, 3-7",3,7,4130
+2012,60,May 26(Sat),7:00 PM,North Carolina,ACC Tournament,NewBridge Bank Park,,"L, 0-4",0,4,10229
+2012,61,Jun 1(Fri),7:00 PM,Sacred Heart,NCAA Regional,Doak Field,,"W, 16-5",16,5,2495
+2012,62,Jun 2(Sat),7:00 PM,Vanderbilt,NCAA Regional,Doak Field,,"L, 8-9",8,9,2967
+2012,63,Jun 3(Sun),6:00 PM,Vanderbilt,NCAA Regional,Doak Field,,"W, 6-5",6,5,2556
+2012,64,Jun 3(Sun),1:00 PM,UNC Wilmington,NCAA Regional,Doak Field,,"W, 17-5",17,5,2288
+2012,65,Jun 4(Mon),7:00 PM,Vanderbilt,NCAA Regional,Doak Field,,"W, 9-7",9,7,3018
+2012,66,Jun 9(Sat),2:00 PM,Florida,NCAA Super Regional,McKethan Stadium,,"L, 1-7",1,7,5117
+2012,67,Jun 10(Sun),1:00 PM,Florida,NCAA Super Regional,McKethan Stadium,,"L, 8-9",8,9,4568
+2013,1,Feb 15(Fri),3:00 PM,Appalachian State,,Doak Field,,"L, 3-6",3,6,2396
+2013,4,Feb 19(Tue),3:00 PM,Charlotte,,Doak Field,,"W, 5-0",5,0,1214
+2013,5,Feb 21(Thu),4:00 PM,Villanova,,Doak Field,,"W, 14-3",14,3,214
+2013,6,Feb 23(Sat),3:00 PM,La Salle,,Doak Field,,"W, 5-0",5,0,122
+2013,7,Feb 24(Sun),3:00 PM,Wagner,,Doak Field,,"W, 25-4",25,4,1795
+2013,8,Feb 24(Sun),11:00 AM,Wagner,,Doak Field,,"W, 18-0",18,0,1240
+2013,10,Feb 27(Wed),3:00 PM,New Mexico State,,Doak Field,,"W, 9-2",9,2,1343
+2013,11,Feb 28(Thu),3:00 PM,New Mexico State,,Doak Field,,"W, 8-3",8,3,1216
+2013,12,Mar 1(Fri),1:30 PM,UMBC,,TicketReturn.com Field,,"W, 5-3",5,3,301
+2013,13,Mar 2(Sat),5:00 PM,Florida Atlantic,,TicketReturn.com Field,,"W, 2-1",2,1,389
+2013,14,Mar 3(Sun),5:00 PM,Coastal Carolina,,TicketReturn.com Field,,"W, 5-4",5,4,589
+2013,15,Mar 5(Tue),3:00 PM,Elon,,Latham Park,,"L, 12-24",12,24,111
+2013,16,Mar 6(Wed),12:00 PM,Campbell,,Doak Field,,"W, 5-2",5,2,1991
+2013,17,Mar 8(Fri),3:00 PM,Clemson,,Doak Field,,"L, 5-10",5,10,1642
+2013,18,Mar 9(Sat),4:00 PM,Clemson,,Doak Field,,"L, 4-7",4,7,1877
+2013,19,Mar 10(Sun),1:00 PM,Clemson,,Doak Field,,"W, 4-1",4,1,2087
+2013,20,Mar 12(Tue),6:00 PM,Quinnipiac,,Doak Field,,"W, 1-0",1,0,1494
+2013,21,Mar 13(Wed),6:00 PM,Old Dominion,,Doak Field,,"W, 5-0",5,0,1498
+2013,22,Mar 15(Fri),6:00 PM,Wake Forest,,David F. Couch Ballpark,,"W, 12-6",12,6,526
+2013,23,Mar 16(Sat),4:00 PM,Wake Forest,,David F. Couch Ballpark,,"L, 4-13",4,13,824
+2013,24,Mar 17(Sun),1:00 PM,Wake Forest,,David F. Couch Ballpark,,"W, 5-2",5,2,514
+2013,25,Mar 19(Tue),6:00 PM,UNC Greensboro,,Doak Field,,"L, 5-8",5,8,1639
+2013,26,Mar 23(Sat),1:00 PM,Virginia,,Disharoon Park,,"L, 2-8",2,8,3086
+2013,27,Mar 23(Sat),4:45 PM,Virginia,,Disharoon Park,,"L, 3-4",3,4,2841
+2013,28,Mar 24(Sun),11:00 AM,Virginia,,Disharoon Park,,"L, 3-6",3,6,2446
+2013,29,Mar 27(Wed),6:00 PM,UNC Wilmington,,Brooks Field,,"W, 10-6",10,6,1926
+2013,30,Mar 29(Fri),6:30 PM,Maryland,,Doak Field,,"W, 3-2",3,2,1879
+2013,31,Mar 30(Sat),6:30 PM,Maryland,,Doak Field,,"L, 2-3",2,3,1807
+2013,32,Mar 31(Sun),1:00 PM,Maryland,,Doak Field,,"W, 9-4",9,4,1493
+2013,33,Apr 2(Tue),6:00 PM,East Carolina,,Clark-LeClair Stadium,,"W, 6-1",6,1,3872
+2013,34,Apr 3(Wed),6:00 PM,Elon,,Doak Field,,"W, 8-6",8,6,1709
+2013,35,Apr 5(Fri),6:30 PM,Virginia Tech,,Doak Field,,"W, 8-7",8,7,2073
+2013,36,Apr 6(Sat),1:00 PM,Virginia Tech,,Doak Field,,"W, 13-4",13,4,2854
+2013,37,Apr 7(Sun),1:00 PM,Virginia Tech,,Doak Field,,"W, 7-3",7,3,2279
+2013,38,Apr 9(Tue),6:00 PM,East Carolina,,Doak Field,,"W, 2-0",2,0,2951
+2013,39,Apr 13(Sat),3:30 PM,Boston College,,Harrington Field,,"W, 6-2",6,2,567
+2013,40,Apr 13(Sat),12:00 PM,Boston College,,Harrington Field,,"W, 6-5",6,5,567
+2013,41,Apr 14(Sun),12:00 PM,Boston College,,Harrington Field,,"W, 3-2",3,2,747
+2013,42,Apr 16(Tue),6:00 PM,Charlotte,,Hayes Stadium,,"W, 2-1",2,1,1702
+2013,43,Apr 19(Fri),8:00 PM,Georgia Tech,,Mac Nease Park,,"W, 13-4",13,4,1136
+2013,44,Apr 20(Sat),6:00 PM,Georgia Tech,,Mac Nease Park,,"W, 6-2",6,2,1914
+2013,45,Apr 21(Sun),1:00 PM,Georgia Tech,,Mac Nease Park,,"W, 8-7",8,7,3965
+2013,46,Apr 23(Tue),6:00 PM,Davidson,,Doak Field,,"W, 4-3",4,3,1691
+2013,47,Apr 26(Fri),6:30 PM,North Carolina,,Doak Field,,"L, 1-7",1,7,3048
+2013,48,Apr 27(Sat),6:30 PM,North Carolina,,Doak Field,,"W, 7-3",7,3,3123
+2013,50,May 3(Fri),6:30 PM,Presbyterian,,Doak Field,,"W, 5-1",5,1,1645
+2013,51,May 4(Sat),6:30 PM,Presbyterian,,Doak Field,,"W, 8-1",8,1,2007
+2013,52,May 5(Sun),1:00 PM,Presbyterian,,Doak Field,,"W, 12-3",12,3,1629
+2013,53,May 7(Tue),6:00 PM,UNC Wilmington,,Doak Field,,"W, 7-2",7,2,2023
+2013,54,May 11(Sat),12:00 PM,Florida State,,Doak Field,,"W, 3-1",3,1,2657
+2013,55,May 12(Sun),3:00 PM,Florida State,,Doak Field,,"L, 3-12",3,12,2764
+2013,56,May 13(Mon),7:00 PM,Florida State,,Doak Field,,"L, 4-8",4,8,2770
+2013,57,May 16(Thu),6:00 PM,Duke,,Durham Bulls Athletic Park,,"W, 5-2",5,2,653
+2013,58,May 17(Fri),6:00 PM,Duke,,Durham Bulls Athletic Park,,"W, 5-2",5,2,653
+2013,59,May 18(Sat),2:05 PM,Duke,,Durham Bulls Athletic Park,,"W, 9-1",9,1,1211
+2013,60,May 22(Wed),7:00 PM,Clemson,ACC Tournament,Durham Bulls Athletic Park,,"W, 6-3",6,3,4834
+2013,61,May 24(Fri),11:00 AM,Miami,ACC Tournament,Durham Bulls Athletic Park,,"W, 7-1",7,1,3372
+2013,62,May 25(Sat),7:00 PM,North Carolina,ACC Tournament,Durham Bulls Athletic Park,,"L, 1-2",1,2,11392
+2013,63,May 31(Fri),7:00 PM,Binghamton,NCAA Regional,Doak Field,,"W, 4-1",4,1,2784
+2013,64,Jun 1(Sat),7:00 PM,William & Mary,NCAA Regional,Doak Field,,"W, 1-0",1,0,3051
+2013,65,Jun 2(Sun),6:00 PM,William & Mary,NCAA Regional,Doak Field,,"W, 9-2",9,2,2752
+2013,67,Jun 8(Sat),4:00 PM,Rice,NCAA Super Regional,Doak Field,,"W, 4-3",4,3,3051
+2013,68,Jun 9(Sun),4:00 PM,Rice,NCAA Super Regional,Doak Field,,"W, 5-4",5,4,3051
+2013,69,Jun 16(Sun),3:00 PM,North Carolina,College World Series,TD Ameritrade Park,,"W, 8-1",8,1,22972
+2013,70,Jun 18(Tue),8:00 PM,UCLA,College World Series,TD Ameritrade Park,,"L, 1-2",1,2,25543
+2013,71,Jun 20(Thu),8:00 PM,North Carolina,College World Series,TD Ameritrade Park,,"L, 0-7",0,7,25742
+2014,3,Feb 16(Sun),1:00 PM,Canisius,,Doak Field,,"L, 0-3",0,3,2144
+2014,4,Feb 17(Mon),1:00 PM,Canisius,,Doak Field,,"W, 11-4",11,4,817
+2014,5,Feb 18(Tue),5:00 PM,Elon,,Latham Park,,"W, 12-7",12,7,632
+2014,6,Feb 19(Wed),3:00 PM,North Carolina A&T,,Doak Field,,"W, 15-0",15,0,638
+2014,7,Feb 21(Fri),3:00 PM,Appalachian State,,Doak Field,,"W, 6-5",6,5,1077
+2014,8,Feb 22(Sat),1:00 PM,Appalachian State,,Doak Field,,"W, 7-0",7,0,2542
+2014,9,Feb 23(Sun),1:00 PM,Appalachian State,,Doak Field,,"W, 3-1",3,1,1867
+2014,10,Feb 25(Tue),4:00 PM,Davidson,,Doak Field,,"W, 7-5",7,5,1008
+2014,11,Feb 28(Fri),3:00 PM,Michigan,,Doak Field,,"W, 3-0",3,0,1071
+2014,12,Mar 1(Sat),4:30 PM,UCLA,,USA Baseball NTC,,"L, 0-2",0,2,2120
+2014,13,Mar 2(Sun),1:00 PM,Youngstown State,,Doak Field,,"W, 16-1",16,1,1324
+2014,14,Mar 5(Wed),3:00 PM,North Carolina A&T,,Doak Field,,"W, 17-4",17,4,514
+2014,15,Mar 8(Sat),5:30 PM,Notre Dame,,Doak Field,,"W, 1-0",1,0,1223
+2014,16,Mar 8(Sat),2:00 PM,Notre Dame,,Doak Field,,"W, 5-3",5,3,2682
+2014,17,Mar 9(Sun),2:00 PM,Notre Dame,,Doak Field,,"W, 7-0",7,0,2708
+2014,18,Mar 11(Tue),6:30 PM,Stetson,,Melching Field,,"W, 6-1",6,1,990
+2014,19,Mar 14(Fri),6:00 PM,Florida State,,Dick Howser Stadium,,"L, 1-6",1,6,4504
+2014,20,Mar 15(Sat),4:00 PM,Florida State,,Dick Howser Stadium,,"L, 8-9",8,9,5481
+2014,21,Mar 15(Sat),1:00 PM,Florida State,,Dick Howser Stadium,,"L, 2-8",2,8,5481
+2014,23,Mar 21(Fri),6:30 PM,Maryland,,"Bob ""Turtle"" Smith Stadium",,"L, 0-10",0,10,493
+2014,24,Mar 22(Sat),2:00 PM,Maryland,,"Bob ""Turtle"" Smith Stadium",,"L, 4-7",4,7,438
+2014,25,Mar 23(Sun),1:00 PM,Maryland,,"Bob ""Turtle"" Smith Stadium",,"L, 2-5",2,5,403
+2014,27,Mar 26(Wed),6:00 PM,UNC Wilmington,,Brooks Field,,"W, 11-2",11,2,1869
+2014,28,Mar 28(Fri),6:00 PM,Miami,,Doak Field,,"L, 1-2",1,2,496
+2014,29,Mar 29(Sat),2:30 PM,Miami,,Doak Field,,"L, 1-2",1,2,496
+2014,30,Mar 30(Sun),1:00 PM,Miami,,Doak Field,,"L, 5-12",5,12,749
+2014,31,Apr 1(Tue),6:00 PM,Campbell,,Jim Perry Stadium,,"W, 9-2",9,2,1082
+2014,32,Apr 2(Wed),6:00 PM,East Carolina,,Doak Field,,"W, 3-2",3,2,1852
+2014,33,Apr 5(Sat),1:00 PM,Clemson,,Doug Kingsmore Stadium,,"L, 1-6",1,6,5207
+2014,34,Apr 6(Sun),3:00 PM,Clemson,,Doug Kingsmore Stadium,,"W, 9-4",9,4,4199
+2014,35,Apr 7(Mon),7:00 PM,Clemson,,Doug Kingsmore Stadium,,"W, 7-1",7,1,3217
+2014,36,Apr 9(Wed),6:00 PM,East Carolina,,Clark-LeClair Stadium,,"L, 0-7",0,7,4214
+2014,37,Apr 11(Fri),6:00 PM,Duke,,Durham Bulls Athletic Park,,"L, 0-2",0,2,
+2014,38,Apr 12(Sat),1:00 PM,Duke,,Durham Bulls Athletic Park,,"W, 6-2",6,2,751
+2014,39,Apr 13(Sun),1:00 PM,Duke,,Durham Bulls Athletic Park,,"L, 10-11",10,11,961
+2014,41,Apr 18(Fri),6:30 PM,Boston College,,Doak Field,,"W, 5-1",5,1,1641
+2014,42,Apr 19(Sat),6:30 PM,Boston College,,Doak Field,,"L, 5-7",5,7,829
+2014,43,Apr 20(Sun),1:00 PM,Boston College,,Doak Field,,"L, 7-9",7,9,919
+2014,44,Apr 22(Tue),6:00 PM,Campbell,,Doak Field,,"L, 0-9",0,9,1066
+2014,45,Apr 23(Wed),6:00 PM,UNC Wilmington,,Doak Field,,"W, 10-2",10,2,1274
+2014,46,Apr 25(Fri),6:30 PM,Georgia Tech,,Doak Field,,"L, 0-1",0,1,783
+2014,47,Apr 26(Sat),1:00 PM,Georgia Tech,,Doak Field,,"W, 1-0",1,0,1137
+2014,48,Apr 27(Sun),1:00 PM,Georgia Tech,,Doak Field,,"W, 7-1",7,1,1386
+2014,49,May 2(Fri),6:30 PM,Coastal Carolina,,Doak Field,,"W, 11-1",11,1,1334
+2014,50,May 3(Sat),6:30 PM,Coastal Carolina,,Doak Field,,"W, 9-2",9,2,1526
+2014,51,May 4(Sun),1:00 PM,Coastal Carolina,,Doak Field,,"W, 8-4",8,4,1228
+2014,52,May 7(Wed),6:00 PM,Richmond,,Doak Field,,"L, 4-7",4,7,941
+2014,53,May 9(Fri),6:30 PM,Wake Forest,,Doak Field,,"W, 9-1",9,1,1604
+2014,54,May 10(Sat),6:30 PM,Wake Forest,,Doak Field,,"W, 10-2",10,2,1567
+2014,55,May 12(Mon),6:00 PM,Wake Forest,,Doak Field,,"L, 5-8",5,8,1480
+2014,56,May 13(Tue),6:00 PM,Radford,,Radford Baseball Stadium,,"W, 6-1",6,1,325
+2014,57,May 16(Fri),2:00 PM,Virginia Tech,,English Field,,"W, 9-4",9,4,748
+2014,58,May 16(Fri),5:30 PM,Virginia Tech,,English Field,,"W, 6-5",6,5,745
+2014,59,May 17(Sat),2:00 PM,Virginia Tech,,English Field,,"L, 5-8",5,8,1135
+2014,60,May 20(Tue),11:00 AM,North Carolina,ACC Tournament,NewBridge Bank Park,,"L, 3-4",3,4,5822
+2015,1,Feb 13(Fri),2:00 PM,Villanova,,Doak Field,,"W, 14-5",14,5,773
+2015,2,Feb 14(Sat),3:00 PM,Davidson,,Doak Field,,"W, 8-3",8,3,1223
+2015,3,Feb 21(Sat),11:00 AM,Albany,,Pelicans Ballpark,,"L, 6-9",6,9,247
+2015,4,Feb 21(Sat),4:00 PM,Florida International,,Pelicans Ballpark,,"W, 3-1",3,1,82
+2015,5,Feb 22(Sun),2:00 PM,Coastal Carolina,,Springs Brooks Stadium,,"L, 3-12",3,12,1454
+2015,6,Feb 25(Wed),4:00 PM,North Carolina A&T,,Doak Field,,"W, 9-1",9,1,225
+2015,7,Feb 27(Fri),3:00 PM,Charlotte,,Historic Grayson,,"L, 0-1",0,1,26
+2015,8,Feb 28(Sat),3:00 PM,UNC Greensboro,,Historic Grayson,,"W, 4-2",4,2,41
+2015,11,Mar 3(Tue),3:00 PM,East Carolina,,Doak Field,,"W, 7-0",7,0,456
+2015,12,Mar 4(Wed),6:00 PM,Appalachian State,,Doak Field,,"W, 6-4",6,4,971
+2015,13,Mar 6(Fri),3:00 PM,Clemson,,Doak Field,,"L, 4-6",4,6,496
+2015,14,Mar 7(Sat),3:00 PM,Clemson,,Doak Field,,"W, 8-3",8,3,1508
+2015,15,Mar 8(Sun),1:00 PM,Clemson,,Doak Field,,"W, 14-6",14,6,1745
+2015,16,Mar 11(Wed),6:30 PM,Florida Atlantic,,FAU Stadium,,"W, 9-5",9,5,607
+2015,17,Mar 13(Fri),7:00 PM,Miami,,Mark Light Field,,"L, 2-3",2,3,2420
+2015,18,Mar 14(Sat),7:00 PM,Miami,,Mark Light Field,,"L, 2-9",2,9,2836
+2015,19,Mar 15(Sun),1:00 PM,Miami,,Mark Light Field,,"L, 0-6",0,6,2502
+2015,20,Mar 17(Tue),6:00 PM,UNC Greensboro,,UNCG Baseball Complex,,"L, 3-7",3,7,977
+2015,21,Mar 18(Wed),6:00 PM,UNC Greensboro,,Doak Field,,"W, 8-3",8,3,1014
+2015,22,Mar 20(Fri),1:00 PM,Boston College,,Harrington Field,,"L, 1-3",1,3,214
+2015,23,Mar 21(Sat),3:00 PM,Boston College,,Harrington Field,,"W, 9-4",9,4,267
+2015,25,Mar 24(Tue),6:00 PM,Elon,,Doak Field,,"W, 14-0",14,0,884
+2015,26,Mar 25(Wed),6:00 PM,North Carolina A&T,,Doak Field,,"W, 16-5",16,5,982
+2015,27,Mar 27(Fri),4:00 PM,Pittsburgh,,Doak Field,,"W, 14-5",14,5,431
+2015,28,Mar 28(Sat),2:00 PM,Pittsburgh,,Doak Field,,"W, 7-1",7,1,923
+2015,29,Mar 29(Sun),1:00 PM,Pittsburgh,,Doak Field,,"W, 9-2",9,2,1134
+2015,30,Mar 31(Tue),6:05 PM,Charlotte,,Truist Field,,"W, 10-6",10,6,8147
+2015,31,Apr 2(Thu),6:00 PM,Florida State,,Doak Field,,"L, 2-3",2,3,1528
+2015,32,Apr 3(Fri),6:30 PM,Florida State,,Doak Field,,"L, 0-1",0,1,2201
+2015,33,Apr 4(Sat),2:00 PM,Florida State,,Doak Field,,"W, 11-7",11,7,1838
+2015,34,Apr 7(Tue),6:30 PM,Elon,,Latham Park,,"L, 5-7",5,7,525
+2015,36,Apr 10(Fri),7:30 PM,North Carolina,,Boshamer Stadium,,"L, 1-2",1,2,3942
+2015,37,Apr 11(Sat),6:00 PM,North Carolina,,Boshamer Stadium,,"L, 2-3",2,3,4142
+2015,38,Apr 12(Sun),2:00 PM,North Carolina,,Boshamer Stadium,,"W, 6-3",6,3,3835
+2015,40,Apr 17(Fri),6:05 PM,Notre Dame,,Frank Eck Stadium,,"L, 0-2",0,2,555
+2015,41,Apr 18(Sat),7:10 PM,Notre Dame,,Frank Eck Stadium,,"L, 2-7",2,7,1230
+2015,42,Apr 18(Sat),2:05 PM,Notre Dame,,Frank Eck Stadium,,"W, 4-2",4,2,1230
+2015,43,Apr 21(Tue),6:30 PM,East Carolina,,Clark-LeClair Stadium,,"L, 5-6",5,6,3821
+2015,44,Apr 24(Fri),6:30 PM,Virginia,,Doak Field,,"L, 3-8",3,8,1759
+2015,46,Apr 26(Sun),11:30 AM,Virginia,,Doak Field,,"W, 4-3",4,3,937
+2015,47,Apr 26(Sun),3:33 PM,Virginia,,Doak Field,,"W, 5-3",5,3,1113
+2015,49,May 2(Sat),2:00 PM,Longwood,,Doak Field,,"W, 3-2",3,2,880
+2015,50,May 2(Sat),6:30 PM,Longwood,,Doak Field,,"W, 6-1",6,1,1376
+2015,51,May 3(Sun),1:00 PM,Longwood,,Doak Field,,"W, 6-3",6,3,1206
+2015,52,May 5(Tue),6:00 PM,Campbell,,Doak Field,,"W, 9-5",9,5,2204
+2015,53,May 8(Fri),6:00 PM,Wake Forest,,David F. Couch Ballpark,,"W, 19-1",19,1,1263
+2015,54,May 9(Sat),4:00 PM,Wake Forest,,David F. Couch Ballpark,,"W, 3-2",3,2,1411
+2015,55,May 11(Mon),7:00 PM,Wake Forest,,David F. Couch Ballpark,,"W, 9-6",9,6,819
+2015,56,May 14(Thu),6:00 PM,Louisville,,Doak Field,,"L, 3-4",3,4,2252
+2015,57,May 15(Fri),6:30 PM,Louisville,,Doak Field,,"W, 3-2",3,2,1987
+2015,58,May 16(Sat),1:00 PM,Louisville,,Doak Field,,"L, 5-8",5,8,1591
+2015,59,May 21(Thu),1:30 PM,Notre Dame,ACC Championship,Durham Bulls Athletic Park,,"W, 3-0",3,0,3599
+2015,60,May 22(Fri),7:00 PM,Miami,ACC Championship,Durham Bulls Athletic Park,,"W, 5-4",5,4,6806
+2015,61,May 23(Sat),7:00 PM,Virginia,ACC Championship,Durham Bulls Athletic Park,,"W, 10-2",10,2,7139
+2015,62,May 24(Sun),1:00 PM,Florida State,ACC Championship,Durham Bulls Athletic Park,,"L, 2-6",2,6,9759
+2015,63,May 29(Fri),3:30 PM,Stony Brook,NCAA Fort Worth Regional,Lupton Stadium,,"W, 3-0",3,0,2785
+2015,64,May 30(Sat),9:05 PM,TCU,NCAA Fort Worth Regional,Lupton Stadium,,"W, 5-4",5,4,4009
+2015,65,May 31(Sun),8:35 PM,TCU,NCAA Fort Worth Regional,Lupton Stadium,,"L, 2-8",2,8,3480
+2015,66,Jun 1(Mon),8:05 PM,TCU,NCAA Fort Worth Regional,Lupton Stadium,,"L, 8-9",8,9,4277
+2016,1,Feb 19(Fri),12:00 PM,Old Dominion,Baseball at the Beach,TicketReturn.com Field,,"L, 0-5",0,5,623
+2016,2,Feb 20(Sat),2:00 PM,Coastal Carolina,Baseball at the Beach,Springs Brooks Stadium,,"W, 13-10",13,10,2179
+2016,3,Feb 21(Sun),11:00 AM,Kent State,Baseball at the Beach,TicketReturn.com Field,,"W, 7-5",7,5,481
+2016,4,Feb 23(Tue),3:00 PM,Morehead State,Baseball at the Beach,Doak Field,,"W, 7-5",7,5,471
+2016,6,Feb 26(Fri),3:00 PM,Wright State,Baseball at the Beach,Doak Field,,"L, 8-10",8,10,857
+2016,7,Feb 27(Sat),3:00 PM,Wright State,Baseball at the Beach,Doak Field,,"W, 6-1",6,1,1116
+2016,8,Feb 28(Sun),1:00 PM,Wright State,Baseball at the Beach,Doak Field,,"W, 8-4",8,4,1416
+2016,9,Mar 1(Tue),4:00 PM,UNC Greensboro,Baseball at the Beach,Doak Field,,"W, 8-4",8,4,1021
+2016,10,Mar 2(Wed),3:00 PM,UNC Wilmington,Baseball at the Beach,Doak Field,,"W, 5-2",5,2,819
+2016,11,Mar 4(Fri),3:00 PM,Niagara,Irish Classic,Doak Field,,"W, 7-1",7,1,584
+2016,12,Mar 5(Sat),4:30 PM,Alabama,Irish Classic,USA Baseball NTC,,"W, 2-1",2,1,987
+2016,13,Mar 6(Sun),1:00 PM,Bucknell,Irish Classic,Doak Field,,"W, 5-2",5,2,1030
+2016,14,Mar 8(Tue),3:00 PM,Fairfield,Irish Classic,Doak Field,,"W, 4-2",4,2,611
+2016,15,Mar 9(Wed),3:00 PM,Fairfield,Irish Classic,Doak Field,,"W, 4-0",4,0,501
+2016,16,Mar 11(Fri),3:00 PM,Boston College,Irish Classic,Doak Field,,"L, 0-7",0,7,1034
+2016,17,Mar 12(Sat),3:00 PM,Boston College,Irish Classic,Doak Field,,"W, 3-2",3,2,1502
+2016,18,Mar 13(Sun),1:00 PM,Boston College,Irish Classic,Doak Field,,"L, 0-1",0,1,1210
+2016,19,Mar 15(Tue),6:00 PM,Indiana State,Irish Classic,Doak Field,,"W, 8-3",8,3,1010
+2016,20,Mar 16(Wed),3:00 PM,Indiana State,Irish Classic,Doak Field,,"L, 7-11",7,11,849
+2016,21,Mar 18(Fri),6:30 PM,Notre Dame,Irish Classic,Doak Field,,"W, 9-1",9,1,2271
+2016,22,Mar 19(Sat),2:00 PM,Notre Dame,Irish Classic,Doak Field,,"L, 4-8",4,8,1287
+2016,23,Mar 20(Sun),12:00 PM,Notre Dame,Irish Classic,Doak Field,,"W, 16-6",16,6,899
+2016,24,Mar 22(Tue),6:00 PM,UNC Wilmington,Irish Classic,Brooks Field,,"L, 4-6",4,6,
+2016,25,Mar 25(Fri),6:00 PM,Florida State,Irish Classic,Dick Howser Stadium,,"L, 5-8",5,8,3953
+2016,28,Mar 29(Tue),6:05 PM,Charlotte,Irish Classic,Truist Field,,"W, 7-1",7,1,7438
+2016,29,Apr 1(Fri),7:00 PM,Virginia,Irish Classic,Disharoon Park,,"W, 8-7",8,7,3927
+2016,30,Apr 2(Sat),4:00 PM,Virginia,Irish Classic,Disharoon Park,,"L, 3-5",3,5,4300
+2016,31,Apr 3(Sun),1:00 PM,Virginia,Irish Classic,Disharoon Park,,"W, 5-2",5,2,3874
+2016,32,Apr 6(Wed),6:00 PM,Charlotte,Irish Classic,Doak Field,,"W, 7-3",7,3,974
+2016,33,Apr 8(Fri),6:30 PM,Wake Forest,Irish Classic,Doak Field,,"W, 11-7",11,7,2483
+2016,34,Apr 9(Sat),4:00 PM,Wake Forest,Irish Classic,Doak Field,,"W, 3-2",3,2,1358
+2016,35,Apr 11(Mon),7:00 PM,Wake Forest,Irish Classic,Doak Field,,"W, 6-1",6,1,1490
+2016,36,Apr 12(Tue),6:30 PM,Elon,Irish Classic,Latham Park,,"W, 23-3",23,3,618
+2016,37,Apr 15(Fri),7:00 PM,Georgia Tech,Irish Classic,Mac Nease Park,,"W, 8-3",8,3,1332
+2016,38,Apr 16(Sat),4:00 PM,Georgia Tech,Irish Classic,Mac Nease Park,,"W, 15-6",15,6,1672
+2016,39,Apr 17(Sun),1:00 PM,Georgia Tech,Irish Classic,Mac Nease Park,,"L, 7-16",7,16,1829
+2016,40,Apr 19(Tue),6:30 PM,East Carolina,Irish Classic,Clark-LeClair Stadium,,"L, 3-15",3,15,4734
+2016,42,Apr 23(Sat),1:00 PM,North Carolina A&T,Irish Classic,NewBridge Bank Park,,"W, 9-1",9,1,557
+2016,43,Apr 24(Sun),1:00 PM,North Carolina A&T,Irish Classic,Doak Field,,"W, 25-1",25,1,1402
+2016,44,Apr 25(Mon),6:00 PM,East Carolina,Irish Classic,Doak Field,,"W, 6-1",6,1,3048
+2016,45,Apr 29(Fri),6:30 PM,Duke,Irish Classic,Doak Field,,"W, 3-2",3,2,3048
+2016,46,Apr 30(Sat),6:30 PM,Duke,Irish Classic,Doak Field,,"W, 12-2",12,2,3048
+2016,47,May 1(Sun),1:45 PM,Duke,Irish Classic,Doak Field,,"L, 1-2",1,2,1042
+2016,48,May 6(Fri),6:30 PM,Clemson,Irish Classic,Doug Kingsmore Stadium,,"L, 5-10",5,10,4480
+2016,49,May 7(Sat),4:00 PM,Clemson,Irish Classic,Doug Kingsmore Stadium,,"W, 20-9",20,9,4957
+2016,50,May 8(Sun),1:00 PM,Clemson,Irish Classic,Doug Kingsmore Stadium,,"L, 1-2",1,2,4239
+2016,51,May 13(Fri),6:00 PM,Louisville,Irish Classic,Jim Patterson Stadium,,"L, 0-2",0,2,4234
+2016,52,May 14(Sat),1:00 PM,Louisville,Irish Classic,Jim Patterson Stadium,,"L, 2-4",2,4,1882
+2016,53,May 15(Sun),1:00 PM,Louisville,Irish Classic,Jim Patterson Stadium,,"L, 1-6",1,6,3431
+2016,54,May 19(Thu),6:00 PM,North Carolina,Irish Classic,Doak Field,,"W, 6-4",6,4,2066
+2016,55,May 20(Fri),6:30 PM,North Carolina,Irish Classic,Doak Field,,"L, 4-16",4,16,3048
+2016,56,May 21(Sat),1:00 PM,North Carolina,Irish Classic,Doak Field,,"W, 10-1",10,1,3048
+2016,57,May 25(Wed),11:00 AM,Florida State,ACC Championship,Durham Bulls Athletic Park,,"L, 3-7",3,7,3409
+2016,58,May 26(Thu),7:00 PM,Miami,ACC Championship,Durham Bulls Athletic Park,,"L, 7-8",7,8,5692
+2016,59,May 27(Fri),7:00 PM,Georgia Tech,ACC Championship,Durham Bulls Athletic Park,,"W, 7-5",7,5,5848
+2016,60,Jun 3(Fri),7:00 PM,Navy,NCAA Raleigh Regional,Doak Field,,"W, 13-8",13,8,3048
+2016,61,Jun 4(Sat),7:00 PM,Coastal Carolina,NCAA Raleigh Regional,Doak Field,,"L, 0-4",0,4,3048
+2016,62,Jun 5(Sun),2:00 PM,Navy,NCAA Raleigh Regional,Doak Field,,"W, 17-1",17,1,2403
+2016,63,Jun 6(Mon),1:00 PM,Coastal Carolina,NCAA Raleigh Regional,Doak Field,,"W, 8-1",8,1,2627
+2016,64,Jun 6(Mon),6:00 PM,Coastal Carolina,NCAA Raleigh Regional,Doak Field,,"L, 5-7",5,7,2918
+2017,1,Feb 17(Fri),11:35 PM,Hawai'i,,Les Murakami Stadium,,"W, 4-0",4,0,3421
+2017,2,Feb 18(Sat),11:35 PM,Hawai'i,,Les Murakami Stadium,,"L, 3-8",3,8,3786
+2017,3,Feb 19(Sun),5:05 PM,Hawai'i,,Les Murakami Stadium,,"W, 8-1",8,1,2800
+2017,4,Feb 24(Fri),3:00 PM,Austin Peay,,Doak Field,,"W, 9-3",9,3,2063
+2017,5,Feb 25(Sat),2:00 PM,Austin Peay,,Doak Field,,"W, 6-3",6,3,3048
+2017,6,Feb 26(Sun),12:00 PM,Austin Peay,,Doak Field,,"L, 3-7",3,7,1835
+2017,7,Feb 28(Tue),4:00 PM,UNC Greensboro,,UNCG Baseball Complex,,"W, 8-2",8,2,1058
+2017,8,Mar 1(Wed),3:00 PM,Charlotte,,Doak Field,,"L, 5-6",5,6,1725
+2017,9,Mar 3(Fri),3:00 PM,Rhode Island,,Doak Field,,"L, 2-5",2,5,2185
+2017,10,Mar 4(Sat),4:30 PM,Maryland,,USA Baseball NTC,,"L, 2-9",2,9,450
+2017,11,Mar 5(Sun),1:00 PM,UMass Lowell,,Doak Field,,"W, 8-0",8,0,2325
+2017,12,Mar 6(Mon),2:00 PM,Western Carolina,,Doak Field,,"L, 8-9",8,9,2219
+2017,13,Mar 8(Wed),4:00 PM,UNC Wilmington,,Brooks Field,,"W, 8-5",8,5,1337
+2017,14,Mar 10(Fri),6:00 PM,Wake Forest,,David F. Couch Ballpark,,"L, 4-6",4,6,712
+2017,15,Mar 11(Sat),1:00 PM,Wake Forest,,David F. Couch Ballpark,,"W, 8-5",8,5,753
+2017,16,Mar 11(Sat),5:00 PM,Wake Forest,,David F. Couch Ballpark,,"L, 5-6",5,6,753
+2017,17,Mar 14(Tue),4:00 PM,Elon,,Latham Park,,"W, 6-2",6,2,389
+2017,18,Mar 15(Wed),3:00 PM,George Mason,,Doak Field,,"W, 7-3",7,3,1984
+2017,19,Mar 17(Fri),6:30 PM,Miami,,Doak Field,,"W, 5-3",5,3,2463
+2017,20,Mar 18(Sat),6:30 PM,Miami,,Doak Field,,"W, 5-2",5,2,2511
+2017,21,Mar 19(Sun),12:00 PM,Miami,,Doak Field,,"L, 5-7",5,7,2897
+2017,22,Mar 21(Tue),6:00 PM,Campbell,,Doak Field,,"L, 8-9",8,9,2610
+2017,23,Mar 24(Fri),6:30 PM,Louisville,,Doak Field,,"W, 3-1",3,1,2824
+2017,24,Mar 25(Sat),1:00 PM,Louisville,,Doak Field,,"L, 6-7",6,7,3048
+2017,25,Mar 26(Sun),1:00 PM,Louisville,,Doak Field,,"L, 1-8",1,8,2821
+2017,26,Mar 28(Tue),7:05 PM,Charlotte,,Truist Field,,"W, 15-10",15,10,6445
+2017,27,Mar 31(Fri),6:05 PM,Notre Dame,,Frank Eck Stadium,,"L, 1-4",1,4,314
+2017,28,Apr 1(Sat),4:05 PM,Notre Dame,,Frank Eck Stadium,,"L, 1-2",1,2,569
+2017,29,Apr 2(Sun),1:05 PM,Notre Dame,,Frank Eck Stadium,,"W, 9-2",9,2,409
+2017,30,Apr 4(Tue),6:00 PM,UNC Asheville,,Doak Field,,"W, 13-1",13,1,2264
+2017,31,Apr 7(Fri),6:30 PM,Florida State,,Doak Field,,"L, 7-16",7,16,2853
+2017,32,Apr 8(Sat),6:30 PM,Florida State,,Doak Field,,"W, 4-3",4,3,2975
+2017,33,Apr 9(Sun),1:00 PM,Florida State,,Doak Field,,"W, 8-4",8,4,2858
+2017,34,Apr 11(Tue),6:00 PM,UNC Greensboro,,Doak Field,,"W, 10-1",10,1,2554
+2017,35,Apr 14(Fri),6:30 PM,North Carolina,,Boshamer Stadium,,"L, 2-7",2,7,3906
+2017,36,Apr 15(Sat),4:00 PM,North Carolina,,Boshamer Stadium,,"L, 1-7",1,7,3613
+2017,37,Apr 16(Sun),2:00 PM,North Carolina,,Boshamer Stadium,,"W, 4-2",4,2,2552
+2017,39,Apr 22(Sat),4:00 PM,Boston College,,Fenway Park,SIXTH ANNUAL ALS AWARENESS GAME,"L, 3-8",3,8,3603
+2017,40,Apr 23(Sun),10:30 AM,Boston College,,Harrington Field,,"L, 1-2",1,2,402
+2017,41,Apr 23(Sun),1:45 PM,Boston College,,Harrington Field,,"L, 0-1",0,1,627
+2017,42,Apr 25(Tue),6:00 PM,NC Central,,Doak Field,,"W, 13-0",13,0,2430
+2017,43,Apr 26(Wed),7:00 PM,East Carolina,,Clark-LeClair Stadium,,"W, 6-0",6,0,4181
+2017,44,Apr 28(Fri),6:30 PM,Virginia Tech,,Doak Field,"STUDENT WOLFPACK CLUB, FRATERNITY/SORORITY LIFE NIGHT","W, 5-2",5,2,2482
+2017,45,Apr 29(Sat),6:30 PM,Virginia Tech,,Doak Field,FIRST RESPONDERS NIGHT,"W, 8-6",8,6,3042
+2017,46,Apr 30(Sun),1:00 PM,Virginia Tech,,Doak Field,,"W, 14-2",14,2,2756
+2017,47,May 5(Fri),6:30 PM,Delaware,,Doak Field,CARLOS RODON BOBBLEHEAD GIVEAWAY,"W, 7-1",7,1,2415
+2017,48,May 6(Sat),6:30 PM,Delaware,,Doak Field,INAUGURAL ALS AWARENESS GAME,"W, 7-0",7,0,2585
+2017,49,May 7(Sun),1:00 PM,Delaware,,Doak Field,MILITARY APPRECIATION DAY,"L, 4-5",4,5,2658
+2017,50,May 10(Wed),6:00 PM,UNC Wilmington,,Doak Field,TREA TURNER BOBBLEHEAD GIVEAWAY,"W, 6-3",6,3,2654
+2017,51,May 12(Fri),6:00 PM,Pittsburgh,,Charles L. Cost Field,NEGRO LEAGUE CELEBRATION DAY,"W, 7-4",7,4,347
+2017,52,May 13(Sat),6:00 PM,Pittsburgh,,Charles L. Cost Field,,"W, 8-6",8,6,358
+2017,53,May 14(Sun),1:00 PM,Pittsburgh,,Charles L. Cost Field,,"W, 14-6",14,6,329
+2017,54,May 18(Thu),6:00 PM,Clemson,,Doak Field,,"W, 3-2",3,2,2628
+2017,55,May 19(Fri),6:30 PM,Clemson,,Doak Field,,"W, 12-10",12,10,3048
+2017,56,May 20(Sat),1:00 PM,Clemson,,Doak Field,,"L, 6-15",6,15,3048
+2017,57,May 23(Tue),3:00 PM,Boston College,ACC Championship,Jim Patterson Stadium,,"W, 6-1",6,1,
+2017,58,May 26(Fri),7:00 PM,North Carolina,ACC Championship,Jim Patterson Stadium,,"L, 4-12",4,12,4659
+2017,59,Jun 2(Fri),7:00 PM,Indiana,NCAA Lexington (KY) Regional,Cliff Hagan Stadium,,"W, 7-6",7,6,2124
+2017,60,Jun 3(Sat),7:00 PM,Kentucky,NCAA Lexington (KY) Regional,Cliff Hagan Stadium,,"W, 5-4",5,4,4742
+2017,61,Jun 4(Sun),7:00 PM,Kentucky,NCAA Lexington (KY) Regional,Cliff Hagan Stadium,,"L, 6-8",6,8,3261
+2017,62,Jun 5(Mon),7:00 PM,Kentucky,NCAA Lexington (KY) Regional,Cliff Hagan Stadium,,"L, 5-10",5,10,5005
+2018,1,Feb 16(Fri),12:00 PM,Seton Hall,,Doak Field,,"W, 8-4",8,4,2588
+2018,2,Feb 16(Fri),3:30 PM,Seton Hall,,Doak Field,,"W, 3-1",3,1,2719
+2018,3,Feb 18(Sun),1:00 PM,Seton Hall,,Doak Field,,"L, 6-8",6,8,2719
+2018,4,Feb 20(Tue),3:00 PM,North Carolina A&T,,Doak Field,,"W, 9-7",9,7,2179
+2018,5,Feb 21(Wed),3:00 PM,Charlotte,,Doak Field,,"W, 9-6",9,6,2340
+2018,6,Feb 23(Fri),3:00 PM,Furman,,Doak Field,,"W, 10-0",10,0,2548
+2018,7,Feb 24(Sat),2:00 PM,Furman,,Doak Field,,"W, 9-2",9,2,2978
+2018,8,Feb 25(Sun),1:00 PM,Furman,,Doak Field,,"W, 9-0",9,0,2291
+2018,9,Feb 26(Mon),2:00 PM,Air Force,,Doak Field,,"W, 15-5",15,5,2073
+2018,10,Mar 2(Fri),3:00 PM,Bowling Green,,Doak Field,,"W, 11-1",11,1,2176
+2018,11,Mar 3(Sat),2:00 PM,Campbell,,Doak Field,,"W, 21-4",21,4,2440
+2018,12,Mar 4(Sun),12:00 PM,Canisius,,Doak Field,,"L, 2-3",2,3,2335
+2018,14,Mar 7(Wed),4:00 PM,Campbell,,Jim Perry Stadium,,"W, 4-1",4,1,734
+2018,15,Mar 9(Fri),3:00 PM,Boston College,,Doak Field,,"W, 2-1",2,1,2227
+2018,16,Mar 10(Sat),1:00 PM,Boston College,,Doak Field,SECOND ANNUAL ALS AWARENESS GAME,"W, 13-7",13,7,2266
+2018,17,Mar 10(Sat),5:50 PM,Boston College,,Doak Field,,"L, 3-11",3,11,2471
+2018,18,Mar 13(Tue),3:00 PM,UNC Asheville,,Doak Field,,"W, 15-11",15,11,2102
+2018,19,Mar 14(Wed),3:00 PM,UNC Asheville,,Doak Field,,"W, 6-2",6,2,2077
+2018,20,Mar 16(Fri),6:30 PM,Clemson,,Doug Kingsmore Stadium,,"W, 4-0",4,0,4679
+2018,21,Mar 17(Sat),4:00 PM,Clemson,,Doug Kingsmore Stadium,,"W, 6-1",6,1,5008
+2018,22,Mar 18(Sun),1:00 PM,Clemson,,Doug Kingsmore Stadium,,"W, 5-4",5,4,4540
+2018,23,Mar 23(Fri),3:00 PM,Georgia Tech,,Doak Field,AG DAY,"L, 4-13",4,13,2391
+2018,24,Mar 23(Fri),6:30 PM,Georgia Tech,,Doak Field,HERO APPRECIATION NIGHT,"W, 5-2",5,2,2698
+2018,25,Mar 25(Sun),1:00 PM,Georgia Tech,,Doak Field,"CAMPER REUNION, YOUTH LEAGUE DAY","W, 9-6",9,6,2346
+2018,26,Mar 27(Tue),3:00 PM,George Mason,,Doak Field,,"W, 3-2",3,2,2201
+2018,27,Mar 29(Thu),4:00 PM,Virginia Tech,,English Field,,"L, 2-10",2,10,572
+2018,28,Mar 30(Fri),4:00 PM,Virginia Tech,,English Field,,"W, 14-2",14,2,697
+2018,29,Mar 31(Sat),1:00 PM,Virginia Tech,,English Field,,"W, 1-0",1,0,807
+2018,30,Apr 6(Fri),6:00 PM,Louisville,,Jim Patterson Stadium,,"L, 2-8",2,8,3125
+2018,31,Apr 7(Sat),2:00 PM,Louisville,,Jim Patterson Stadium,,"W, 9-6",9,6,2117
+2018,32,Apr 8(Sun),1:00 PM,Louisville,,Jim Patterson Stadium,,"W, 10-3",10,3,2192
+2018,33,Apr 11(Wed),6:00 PM,UNC Wilmington,,Brooks Field,,"W, 8-3",8,3,2155
+2018,34,Apr 13(Fri),6:30 PM,Notre Dame,,Doak Field,,"L, 8-12",8,12,3048
+2018,35,Apr 14(Sat),2:00 PM,Notre Dame,,Doak Field,,"W, 12-2",12,2,3048
+2018,36,Apr 14(Sat),6:30 PM,Notre Dame,,Doak Field,,"W, 13-5",13,5,3048
+2018,37,Apr 17(Tue),6:30 PM,North Carolina,,Durham Bulls Athletic Park,,"W, 8-3",8,3,6799
+2018,38,Apr 20(Fri),6:00 PM,Duke,,Jack Coombs Field,,"W, 9-2",9,2,1844
+2018,39,Apr 21(Sat),1:00 PM,Duke,,Jack Coombs Field,,"W, 2-1",2,1,2000
+2018,40,Apr 22(Sun),1:00 PM,Duke,,Jack Coombs Field,,"L, 2-11",2,11,2000
+2018,42,Apr 27(Fri),6:30 PM,North Carolina,,Doak Field,SOLD OUT,"L, 5-6",5,6,3048
+2018,43,Apr 28(Sat),6:30 PM,North Carolina,,Doak Field,SOLD OUT,"L, 6-8",6,8,3048
+2018,44,Apr 29(Sun),1:00 PM,North Carolina,,Doak Field,SOLD OUT,"L, 4-5",4,5,3048
+2018,45,May 2(Wed),6:00 PM,Campbell,,Doak Field,SUPERHERO NIGHT,"L, 4-5",4,5,2802
+2018,46,May 4(Fri),6:30 PM,William & Mary,,Doak Field,,"W, 5-0",5,0,2855
+2018,47,May 5(Sat),6:30 PM,William & Mary,,Doak Field,,"W, 8-4",8,4,2924
+2018,48,May 6(Sun),1:00 PM,William & Mary,,Doak Field,,"W, 7-3",7,3,1238
+2018,49,May 8(Tue),6:00 PM,James Madison,,Doak Field,,"W, 6-4",6,4,2623
+2018,50,May 9(Wed),3:00 PM,James Madison,,Doak Field,,"W, 15-2",15,2,2300
+2018,51,May 11(Fri),6:30 PM,Wake Forest,,Doak Field,,"W, 8-5",8,5,3039
+2018,52,May 12(Sat),6:30 PM,Wake Forest,,Doak Field,MILITARY APPRECIATION NIGHT,"W, 7-5",7,5,3048
+2018,53,May 13(Sun),1:00 PM,Wake Forest,,Doak Field,SENIOR DAY,"W, 10-6",10,6,2767
+2018,54,May 17(Thu),6:00 PM,Florida State,,Dick Howser Stadium,,"L, 3-4",3,4,3682
+2018,55,May 18(Fri),6:00 PM,Florida State,,Dick Howser Stadium,,"L, 3-6",3,6,4119
+2018,56,May 19(Sat),1:00 PM,Florida State,,Dick Howser Stadium,,"W, 5-3",5,3,4416
+2018,57,May 24(Thu),3:00 PM,Virginia,ACC Championship,Durham Bulls Athletic Park,,"L, 2-4",2,4,4115
+2018,58,May 25(Fri),7:00 PM,Florida State,ACC Championship,Durham Bulls Athletic Park,,"L, 2-5",2,5,7228
+2018,60,Jun 1(Fri),7:00 PM,Army,NCAA Raleigh Regional,Doak Field,,"L, 1-5",1,5,3048
+2018,61,Jun 2(Sat),2:00 PM,Northeastern,NCAA Raleigh Regional,Doak Field,,"W, 9-3",9,3,2543
+2018,63,Jun 3(Sun),2:00 PM,Army,NCAA Raleigh Regional,Doak Field,,"W, 11-1",11,1,2665
+2018,64,Jun 3(Sun),7:00 PM,Auburn,NCAA Raleigh Regional,Doak Field,,"L, 7-15",7,15,2771
+2019,1,Feb 15(Fri),3:00 PM,Bucknell,,Doak Field,,"W, 8-2",8,2,2763
+2019,2,Feb 16(Sat),3:15 PM,Bucknell,,Doak Field,,"W, 14-2",14,2,2306
+2019,3,Feb 17(Sun),11:00 AM,Bucknell,,Doak Field,,"W, 12-8",12,8,2315
+2019,4,Feb 19(Tue),4:00 PM,Elon,,Latham Park,,"W, 5-0",5,0,244
+2019,5,Feb 22(Fri),3:00 PM,Kent State,Baseball at the Beach,TicketReturn.com Field,,"W, 3-2",3,2,175
+2019,6,Feb 23(Sat),11:00 AM,Michigan State,Baseball at the Beach,Springs Brooks Stadium,,"W, 5-0",5,0,409
+2019,7,Feb 24(Sun),3:00 PM,Coastal Carolina,Baseball at the Beach,Springs Brooks Stadium,,"W, 7-6",7,6,2277
+2019,8,Feb 27(Wed),5:00 PM,Campbell,Baseball at the Beach,Jim Perry Stadium,,"W, 10-1",10,1,1286
+2019,9,Mar 2(Sat),12:00 PM,Minnesota,Baseball at the Beach,Doak Field,,"W, 3-2",3,2,2018
+2019,10,Mar 2(Sat),3:35 PM,Minnesota,Baseball at the Beach,Doak Field,,"W, 8-4",8,4,3048
+2019,11,Mar 3(Sun),11:00 AM,Minnesota,Baseball at the Beach,Doak Field,,"W, 5-4",5,4,2284
+2019,12,Mar 6(Wed),4:00 PM,NC Central,Baseball at the Beach,Durham Athletic Park,,"W, 11-10",11,10,228
+2019,13,Mar 8(Fri),12:00 PM,Pittsburgh,Baseball at the Beach,Doak Field,,"W, 4-3",4,3,2167
+2019,14,Mar 9(Sat),1:00 PM,Pittsburgh,Baseball at the Beach,Doak Field,,"W, 21-3",21,3,2392
+2019,15,Mar 10(Sun),1:00 PM,Pittsburgh,Baseball at the Beach,Doak Field,,"W, 6-5",6,5,2558
+2019,16,Mar 12(Tue),7:00 PM,Charlotte,Baseball at the Beach,Truist Field,,"W, 6-5",6,5,4324
+2019,17,Mar 13(Wed),4:00 PM,George Mason,Baseball at the Beach,Doak Field,,"W, 18-3",18,3,2234
+2019,18,Mar 15(Fri),6:30 PM,Florida State,Baseball at the Beach,Doak Field,"RED OUT, ALUMNI ASSOCIATION DAY","W, 16-0",16,0,2662
+2019,19,Mar 16(Sat),6:30 PM,Florida State,Baseball at the Beach,Doak Field,FIRST RESPONDER'S DAY,"W, 9-8",9,8,3048
+2019,20,Mar 17(Sun),1:00 PM,Florida State,Baseball at the Beach,Doak Field,"ST. PACKTRICKS DAY, YOUTH LEAGUE DAY","L, 5-7",5,7,3048
+2019,21,Mar 19(Tue),6:00 PM,Towson,Baseball at the Beach,Doak Field,,"W, 11-1",11,1,2470
+2019,22,Mar 22(Fri),7:00 PM,Miami,Baseball at the Beach,Mark Light Field,,"W, 6-3",6,3,2729
+2019,23,Mar 23(Sat),7:00 PM,Miami,Baseball at the Beach,Mark Light Field,,"W, 7-6",7,6,2868
+2019,24,Mar 24(Sun),1:00 PM,Miami,Baseball at the Beach,Mark Light Field,,"W, 6-4",6,4,2589
+2019,25,Mar 26(Tue),6:00 PM,Elon,Baseball at the Beach,Doak Field,"NINE INNINGS OF WINNING, STUDENT WOLFPACK CLUB DAY","W, 21-2",21,2,2634
+2019,26,Mar 27(Wed),6:00 PM,North Carolina A&T,Baseball at the Beach,NewBridge Bank Park,,"W, 12-3",12,3,1049
+2019,27,Mar 29(Fri),6:30 PM,Virginia,Baseball at the Beach,Doak Field,"AG DAY, CLUB SPORTS DAY, WOLFPACK CLUB DAY","L, 3-4",3,4,3048
+2019,28,Mar 30(Sat),6:30 PM,Virginia,Baseball at the Beach,Doak Field,MILITARY APPRECIATION NIGHT,"W, 3-0",3,0,3048
+2019,29,Mar 31(Sun),1:00 PM,Virginia,Baseball at the Beach,Doak Field,"ZOO DAY, CAMPER REUNION DAY, Y GUIDES DAY","W, 8-7",8,7,3048
+2019,30,Apr 2(Tue),7:00 PM,South Carolina,Baseball at the Beach,Truist Field,,"L, 8-10",8,10,4090
+2019,31,Apr 5(Fri),4:00 PM,Boston College,Baseball at the Beach,Harrington Field,,"W, 6-5",6,5,240
+2019,32,Apr 6(Sat),2:00 PM,Boston College,Baseball at the Beach,Harrington Field,,"W, 16-4",16,4,563
+2019,33,Apr 7(Sun),1:00 PM,Boston College,Baseball at the Beach,Harrington Field,,"L, 1-3",1,3,525
+2019,34,Apr 10(Wed),6:00 PM,Coastal Carolina,Baseball at the Beach,Doak Field,,"L, 6-7",6,7,3048
+2019,35,Apr 13(Sat),1:00 PM,Louisville,Baseball at the Beach,Doak Field,,"L, 10-14",10,14,2695
+2019,36,Apr 13(Sat),4:45 PM,Louisville,Baseball at the Beach,Doak Field,,"L, 2-14",2,14,2695
+2019,37,Apr 14(Sun),1:00 PM,Louisville,Baseball at the Beach,Doak Field,,"L, 3-6",3,6,2822
+2019,38,Apr 16(Tue),6:00 PM,UNC Wilmington,Baseball at the Beach,Brooks Field,,"W, 14-7",14,7,2548
+2019,39,Apr 18(Thu),6:00 PM,Wake Forest,Baseball at the Beach,David F. Couch Ballpark,,"L, 3-7",3,7,1534
+2019,40,Apr 20(Sat),1:00 PM,Wake Forest,Baseball at the Beach,David F. Couch Ballpark,,"W, 4-3",4,3,1707
+2019,41,Apr 20(Sat),5:00 PM,Wake Forest,Baseball at the Beach,David F. Couch Ballpark,,"L, 8-9",8,9,1707
+2019,42,Apr 23(Tue),6:00 PM,Tennessee Tech,Baseball at the Beach,Doak Field,,"W, 10-6",10,6,2669
+2019,43,Apr 26(Fri),6:00 PM,Notre Dame,Baseball at the Beach,Frank Eck Stadium,,"L, 4-5",4,5,450
+2019,44,Apr 27(Sat),10:00 AM,Notre Dame,Baseball at the Beach,Frank Eck Stadium,,"W, 4-2",4,2,150
+2019,45,Apr 28(Sun),1:00 PM,Notre Dame,Baseball at the Beach,Frank Eck Stadium,,"L, 1-4",1,4,250
+2019,46,Apr 30(Tue),6:00 PM,UNC Wilmington,Baseball at the Beach,Doak Field,,"W, 11-3",11,3,2870
+2019,47,May 3(Fri),6:30 PM,Radford,Baseball at the Beach,Doak Field,,"W, 6-3",6,3,2784
+2019,48,May 4(Sat),1:00 PM,Radford,Baseball at the Beach,Doak Field,,"W, 9-3",9,3,2776
+2019,49,May 5(Sun),1:00 PM,Radford,Baseball at the Beach,Doak Field,,"W, 6-3",6,3,2414
+2019,50,May 7(Tue),6:00 PM,Campbell,Baseball at the Beach,Doak Field,,"L, 3-5",3,5,2613
+2019,51,May 10(Fri),6:30 PM,Clemson,Baseball at the Beach,Doak Field,,"W, 6-1",6,1,3048
+2019,52,May 11(Sat),1:00 PM,Clemson,Baseball at the Beach,Doak Field,,"L, 3-4",3,4,2929
+2019,53,May 12(Sun),1:00 PM,Clemson,Baseball at the Beach,Doak Field,,"W, 8-3",8,3,2704
+2019,54,May 16(Thu),6:00 PM,North Carolina,Baseball at the Beach,Boshamer Stadium,,"L, 3-5",3,5,3162
+2019,55,May 17(Fri),6:00 PM,North Carolina,Baseball at the Beach,Boshamer Stadium,,"W, 11-2",11,2,3829
+2019,56,May 18(Sat),4:30 PM,North Carolina,Baseball at the Beach,Boshamer Stadium,,"W, 11-0",11,0,3837
+2019,57,May 23(Thu),7:00 PM,Wake Forest,ACC Championship,Durham Bulls Athletic Park,,"W, 6-5",6,5,4318
+2019,58,May 24(Fri),7:00 PM,Florida State,ACC Championship,Durham Bulls Athletic Park,,"L, 0-11",0,11,5419
+2019,59,May 25(Sat),5:00 PM,Georgia Tech,ACC Championship,Durham Bulls Athletic Park,,"L, 2-9",2,9,5846
+2019,60,May 31(Fri),12:00 PM,Campbell,NCAA Greenville Regional,Clark-LeClair Stadium,,"L, 4-5",4,5,4239
+2019,61,Jun 2(Sun),12:00 PM,East Carolina,NCAA Greenville Regional,Clark-LeClair Stadium,,"L, 2-9",2,9,4670
+2020,1,Feb 14(Fri),3:00 PM,James Madison,,Doak Field,,"W, 4-0",4,0,2702
+2020,2,Feb 15(Sat),2:00 PM,James Madison,,Doak Field,,"W, 9-6",9,6,2659
+2020,3,Feb 16(Sun),1:00 PM,James Madison,,Doak Field,,"W, 11-2",11,2,2566
+2020,4,Feb 18(Tue),3:00 PM,Longwood,,Doak Field,,"W, 6-1",6,1,2280
+2020,5,Feb 22(Sat),12:00 PM,Tennessee Tech,,Doak Field,,"W, 8-2",8,2,2347
+2020,6,Feb 22(Sat),3:45 PM,Tennessee Tech,,Doak Field,,"W, 10-3",10,3,2347
+2020,7,Feb 23(Sun),1:00 PM,Tennessee Tech,,Doak Field,,"W, 15-1",15,1,2560
+2020,8,Feb 25(Tue),4:00 PM,UNC Wilmington,,Doak Field,,"W, 11-0",11,0,2308
+2020,9,Feb 28(Fri),12:00 PM,Iowa,Cambria College Classic,U.S. Bank Stadium,,"W, 10-6",10,6,
+2020,10,Feb 29(Sat),12:00 PM,Purdue,Cambria College Classic,U.S. Bank Stadium,,"W, 6-0",6,0,
+2020,11,Mar 1(Sun),7:00 PM,Minnesota,Cambria College Classic,U.S. Bank Stadium,,"W, 11-7",11,7,1436
+2020,12,Mar 4(Wed),3:00 PM,Coastal Carolina,Cambria College Classic,Doak Field,,"W, 24-7",24,7,2533
+2020,13,Mar 6(Fri),4:00 PM,Virginia,Cambria College Classic,Disharoon Park,,"L, 3-7",3,7,2548
+2020,14,Mar 7(Sat),1:00 PM,Virginia,Cambria College Classic,Disharoon Park,,"W, 6-2",6,2,2766
+2020,15,Mar 8(Sun),3:00 PM,Virginia,Cambria College Classic,Disharoon Park,,"L, 3-10",3,10,2884
+2020,16,Mar 10(Tue),6:00 PM,Charlotte,Cambria College Classic,Doak Field,,"L, 8-9",8,9,2302
+2020,17,Mar 11(Wed),6:00 PM,North Carolina A&T,Cambria College Classic,Doak Field,,"W, 8-7",8,7,2271
+2021,4,Feb 21(Sun),1:00 PM,Davidson,,Doak Field,,"W, 13-3",13,3,198
+2021,5,Feb 21(Sun),4:45 PM,Davidson,,Doak Field,,"W, 6-4",6,4,198
+2021,6,Feb 23(Tue),3:00 PM,UNC Greensboro,,Doak Field,,"L, 13-16",13,16,198
+2021,7,Feb 26(Fri),3:00 PM,Georgia Tech,,Doak Field,,"L, 2-9",2,9,198
+2021,8,Feb 27(Sat),2:00 PM,Georgia Tech,,Doak Field,,"L, 3-8",3,8,198
+2021,9,Feb 28(Sun),1:00 PM,Georgia Tech,,Doak Field,,"L, 4-8",4,8,327
+2021,10,Mar 2(Tue),3:00 PM,Campbell,,Doak Field,,"W, 14-6",14,6,294
+2021,11,Mar 5(Fri),3:00 PM,Miami,,Doak Field,,"W, 11-5",11,5,346
+2021,12,Mar 6(Sat),2:00 PM,Miami,,Doak Field,,"L, 4-6",4,6,361
+2021,13,Mar 7(Sun),1:00 PM,Miami,,Doak Field,,"L, 4-6",4,6,393
+2021,18,Mar 19(Fri),6:30 PM,Louisville,,Doak Field,,"L, 1-13",1,13,346
+2021,19,Mar 20(Sat),2:00 PM,Louisville,,Doak Field,,"L, 3-6",3,6,353
+2021,20,Mar 21(Sun),11:00 AM,Louisville,,Doak Field,,"L, 3-8",3,8,304
+2021,21,Mar 23(Tue),6:00 PM,UNC Wilmington,,Brooks Field,,"W, 5-3",5,3,492
+2021,22,Mar 26(Fri),6:00 PM,North Carolina,,Boshamer Stadium,,"W, 9-2",9,2,850
+2021,23,Mar 29(Mon),4:00 PM,North Carolina,,Boshamer Stadium,,"W, 6-1",6,1,850
+2021,24,Mar 29(Mon),5:00 PM,North Carolina,,Boshamer Stadium,,"W, 8-3",8,3,850
+2021,25,Mar 30(Tue),6:00 PM,UNC Greensboro,,UNCG Baseball Complex,,"W, 3-0",3,0,311
+2021,26,Apr 2(Fri),7:00 PM,Clemson,,Doak Field,,"L, 6-10",6,10,362
+2021,27,Apr 3(Sat),7:00 PM,Clemson,,Doak Field,,"L, 3-9",3,9,422
+2021,28,Apr 4(Sun),1:00 PM,Clemson,,Doak Field,,"W, 9-5",9,5,360
+2021,29,Apr 6(Tue),6:00 PM,Appalachian State,,Doak Field,,"W, 13-2",13,2,365
+2021,30,Apr 9(Fri),3:00 PM,Boston College,,Harrington Field,,"W, 20-5",20,5,150
+2021,31,Apr 10(Sat),1:00 PM,Boston College,,Harrington Field,,"W, 5-4",5,4,150
+2021,32,Apr 11(Sun),1:00 PM,Boston College,,Harrington Field,,"W, 7-0",7,0,150
+2021,33,Apr 14(Wed),6:00 PM,North Carolina A&T,,Doak Field,,"W, 10-4",10,4,332
+2021,34,Apr 16(Fri),5:00 PM,Notre Dame,,Frank Eck Stadium,,"L, 2-3",2,3,279
+2021,35,Apr 17(Sat),2:00 PM,Notre Dame,,Frank Eck Stadium,,"W, 5-2",5,2,237
+2021,36,Apr 18(Sun),1:00 PM,Notre Dame,,Frank Eck Stadium,,"L, 2-11",2,11,188
+2021,37,Apr 23(Fri),6:30 PM,Virginia Tech,,Doak Field,,"W, 3-1",3,1,395
+2021,38,Apr 25(Sun),12:00 PM,Virginia Tech,,Doak Field,#STRIKEOUTALS GAME,"W, 11-3",11,3,380
+2021,39,Apr 25(Sun),4:00 PM,Virginia Tech,,Doak Field,,"W, 7-6",7,6,481
+2021,40,Apr 27(Tue),5:00 PM,Appalachian State,,Smith Stadium,,"W, 7-3",7,3,220
+2021,41,Apr 30(Fri),6:00 PM,Wake Forest,,David F. Couch Ballpark,,"W, 13-7",13,7,707
+2021,42,May 1(Sat),4:00 PM,Wake Forest,,David F. Couch Ballpark,,"L, 11-14",11,14,685
+2021,43,May 2(Sun),1:00 PM,Wake Forest,,David F. Couch Ballpark,,"W, 15-8",15,8,621
+2021,45,May 11(Tue),6:00 PM,UNC Wilmington,,Doak Field,,"W, 9-1",9,1,427
+2021,46,May 14(Fri),6:00 PM,Pittsburgh,,Charles L. Cost Field,,"W, 3-2",3,2,210
+2021,47,May 15(Sat),3:00 PM,Pittsburgh,,Charles L. Cost Field,,"W, 9-7",9,7,210
+2021,48,May 16(Sun),1:00 PM,Pittsburgh,,Charles L. Cost Field,,"W, 10-3",10,3,210
+2021,49,May 20(Thu),6:30 PM,Florida State,,Doak Field,,"W, 6-4",6,4,1700
+2021,50,May 21(Fri),6:30 PM,Florida State,,Doak Field,,"W, 6-4",6,4,1700
+2021,51,May 22(Sat),1:00 PM,Florida State,,Doak Field,SENIOR DAY,"L, 11-15",11,15,1700
+2021,52,May 27(Thu),7:00 PM,Pittsburgh,ACC Championship,Truist Field,,"W, 3-2",3,2,3987
+2021,53,May 28(Fri),7:00 PM,North Carolina,ACC Championship,Truist Field,,"L, 6-9",6,9,7291
+2021,54,May 29(Sat),5:00 PM,Georgia Tech,ACC Championship,Truist Field,,"W, 8-1",8,1,4960
+2021,55,May 30(Sun),12:00 PM,Duke,ACC Championship,Truist Field,,"L, 0-1",0,1,7162
+2021,56,Jun 4(Fri),2:00 PM,Alabama,NCAA Regional,J.C. Love Field,,"W, 8-1",8,1,1075
+2021,57,Jun 5(Sat),7:00 PM,Louisiana Tech,NCAA Regional,J.C. Love Field,,"W, 8-3",8,3,2817
+2021,58,Jun 6(Sun),7:00 PM,Louisiana Tech,NCAA Regional,J.C. Love Field,,"W, 14-7",14,7,2513
+2021,59,Jun 11(Fri),6:00 PM,Arkansas,NCAA Super Regional,Baum-Walker Stadium,,"L, 2-21",2,21,11084
+2021,60,Jun 12(Sat),3:00 PM,Arkansas,NCAA Super Regional,Baum-Walker Stadium,,"W, 6-5",6,5,11084
+2021,61,Jun 13(Sun),6:00 PM,Arkansas,NCAA Super Regional,Baum-Walker Stadium,,"W, 3-2",3,2,11084
+2021,62,Jun 19(Sat),2:00 PM,Stanford,College World Series,Charles Schwab Field,,"W, 10-4",10,4,22193
+2021,63,Jun 21(Mon),7:00 PM,Vanderbilt,College World Series,Charles Schwab Field,,"W, 1-0",1,0,23712
+2021,64,Jun 25(Fri),2:00 PM,Vanderbilt,College World Series,Charles Schwab Field,,"L, 1-3",1,3,20538
+2022,1,Feb 18(Fri),3:00 PM,Evansville,,Doak Field,,"W, 24-6",24,6,2983
+2022,2,Feb 19(Sat),2:00 PM,Evansville,,Doak Field,,"W, 6-4",6,4,3048
+2022,3,Feb 20(Sun),1:00 PM,Evansville,,Doak Field,,"W, 7-0",7,0,2852
+2022,4,Feb 22(Tue),3:00 PM,High Point,,Doak Field,,"W, 18-3",18,3,2674
+2022,5,Feb 23(Wed),3:00 PM,Longwood,,Doak Field,,"W, 19-3",19,3,2354
+2022,6,Feb 25(Fri),6:00 PM,Quinnipiac,,Doak Field,,"W, 10-4",10,4,3013
+2022,7,Feb 26(Sat),2:00 PM,Quinnipiac,,Doak Field,,"W, 12-10",12,10,2957
+2022,8,Feb 26(Sat),5:30 PM,Quinnipiac,,Doak Field,,"W, 16-4",16,4,2957
+2022,9,Mar 2(Wed),5:00 PM,Campbell,,Jim Perry Stadium,,"L, 4-7",4,7,1323
+2022,10,Mar 4(Fri),3:00 PM,Northeastern,,Doak Field,,"L, 1-6",1,6,2965
+2022,11,Mar 5(Sat),2:00 PM,Northeastern,,Doak Field,,"L, 5-8",5,8,3048
+2022,12,Mar 6(Sun),12:00 PM,Northeastern,,Doak Field,,"L, 0-6",0,6,3008
+2022,13,Mar 8(Tue),3:00 PM,UNC Greensboro,,UNCG Baseball Complex,,"W, 13-5",13,5,673
+2022,14,Mar 11(Fri),4:00 PM,Notre Dame,,Doak Field,,"L, 4-8",4,8,2965
+2022,16,Mar 13(Sun),1:00 PM,Notre Dame,,Doak Field,,"L, 4-11",4,11,2856
+2022,17,Mar 15(Tue),4:00 PM,Elon,,Latham Park,,"W, 2-1",2,1,1156
+2022,20,Mar 19(Sat),2:00 PM,Florida State,,Dick Howser Stadium,,"L, 5-13",5,13,4143
+2022,21,Mar 20(Sun),12:00 PM,Florida State,,Dick Howser Stadium,,"W, 15-4",15,4,4228
+2022,22,Mar 20(Sun),3:30 PM,Florida State,,Dick Howser Stadium,,"L, 5-6",5,6,4228
+2022,23,Mar 22(Tue),6:00 PM,North Carolina A&T,,Doak Field,,"W, 5-3",5,3,2655
+2022,24,Mar 25(Fri),6:30 PM,Georgia Tech,,Doak Field,,"W, 8-6",8,6,3027
+2022,25,Mar 26(Sat),7:00 PM,Georgia Tech,,Doak Field,,"W, 6-5",6,5,3037
+2022,26,Mar 27(Sun),1:00 PM,Georgia Tech,,Doak Field,,"W, 6-1",6,1,2782
+2022,27,Mar 29(Tue),4:30 PM,East Carolina,,Clark-LeClair Stadium,,"W, 2-0",2,0,4813
+2022,28,Apr 1(Fri),6:00 PM,Clemson,,Doug Kingsmore Stadium,,"L, 3-14",3,14,4419
+2022,29,Apr 2(Sat),6:00 PM,Clemson,,Doug Kingsmore Stadium,,"W, 5-2",5,2,4513
+2022,30,Apr 3(Sun),1:00 PM,Clemson,,Doug Kingsmore Stadium,,"W, 9-7",9,7,4296
+2022,32,Apr 8(Fri),7:00 PM,Virginia Tech,,English Field,,"L, 10-21",10,21,514
+2022,33,Apr 9(Sat),3:00 PM,Virginia Tech,,English Field,,"L, 2-8",2,8,811
+2022,34,Apr 10(Sun),1:00 PM,Virginia Tech,,English Field,,"W, 10-3",10,3,556
+2022,35,Apr 12(Tue),6:00 PM,UNC Wilmington,,Doak Field,,"W, 7-6",7,6,3014
+2022,36,Apr 14(Thu),6:30 PM,Boston College,,Doak Field,,"W, 4-3",4,3,2764
+2022,37,Apr 15(Fri),3:00 PM,Boston College,,Doak Field,,"W, 7-6",7,6,3058
+2022,38,Apr 15(Fri),7:00 PM,Boston College,,Doak Field,,"W, 6-3",6,3,3058
+2022,39,Apr 20(Wed),6:30 PM,High Point,,Truist Field,,"W, 13-5",13,5,4018
+2022,40,Apr 22(Fri),8:00 PM,Louisville,,Jim Patterson Stadium,,"L, 4-11",4,11,3007
+2022,41,Apr 23(Sat),2:00 PM,Louisville,,Jim Patterson Stadium,,"W, 15-10",15,10,2617
+2022,42,Apr 24(Sun),1:00 PM,Louisville,,Jim Patterson Stadium,,"L, 7-11",7,11,2793
+2022,43,Apr 26(Tue),7:00 PM,East Carolina,,Doak Field,,"W, 12-3",12,3,3048
+2022,44,Apr 29(Fri),6:30 PM,Radford,,Doak Field,,"W, 6-2",6,2,2908
+2022,45,Apr 30(Sat),6:30 PM,Radford,,Doak Field,,"W, 10-0",10,0,3048
+2022,46,May 1(Sun),1:00 PM,Radford,,Doak Field,,"W, 11-4",11,4,2949
+2022,47,May 6(Fri),6:30 PM,North Carolina,,Doak Field,,"L, 7-8",7,8,3048
+2022,48,May 8(Sun),11:00 AM,North Carolina,,Doak Field,,"W, 9-2",9,2,3048
+2022,49,May 8(Sun),2:45 PM,North Carolina,,Doak Field,,"L, 6-7",6,7,2744
+2022,50,May 10(Tue),6:00 PM,UNC Wilmington,,Brooks Field,,"L, 11-13",11,13,2456
+2022,51,May 13(Fri),12:00 PM,Duke,,Jack Coombs Field,,"W, 5-3",5,3,681
+2022,52,May 14(Sat),1:00 PM,Duke,,Jack Coombs Field,,"W, 13-5",13,5,996
+2022,53,May 15(Sun),1:00 PM,Duke,,Jack Coombs Field,,"L, 4-7",4,7,1435
+2022,54,May 17(Tue),6:00 PM,UNC Greensboro,,Doak Field,,"W, 20-2",20,2,2612
+2022,55,May 19(Thu),6:30 PM,Wake Forest,,Doak Field,,"L, 2-8",2,8,2754
+2022,56,May 20(Fri),6:30 PM,Wake Forest,,Doak Field,,"L, 2-6",2,6,2973
+2022,57,May 21(Sat),1:00 PM,Wake Forest,,Doak Field,,"L, 0-5",0,5,2936
+2022,58,May 24(Tue),3:00 PM,Wake Forest,ACC Championship,Truist Field,,"W, 11-8",11,8,1895
+2022,59,May 25(Wed),7:00 PM,Miami,ACC Championship,Truist Field,,"W, 9-6",9,6,3579
+2022,60,May 28(Sat),5:00 PM,Pittsburgh,ACC Championship,Truist Field,,"W, 8-3",8,3,8360
+2022,61,May 29(Sun),12:00 PM,North Carolina,ACC Championship,Truist Field,,"L, 5-9",5,9,10500
+2023,1,Feb 17(Fri),3:00 PM,Wagner,,Doak Field,,"W, 14-1",14,1,2692
+2023,2,Feb 18(Sat),2:00 PM,Wagner,,Doak Field,,"W, 3-2",3,2,2933
+2023,3,Feb 19(Sun),1:00 PM,Wagner,,Doak Field,,"W, 9-0",9,0,2515
+2023,4,Feb 22(Wed),4:00 PM,Coastal Carolina,,Springs Brooks Stadium,,"W, 16-4",16,4,2413
+2023,5,Feb 24(Fri),3:00 PM,Belmont,,Doak Field,,"W, 11-4",11,4,2855
+2023,6,Feb 25(Sat),5:30 PM,Belmont,,Doak Field,,"W, 7-0",7,0,2387
+2023,7,Feb 26(Sun),1:00 PM,Belmont,,Doak Field,,"W, 7-1",7,1,2721
+2023,8,Feb 28(Tue),3:00 PM,Longwood,,Doak Field,,"W, 14-0",14,0,2557
+2023,9,Mar 1(Wed),3:00 PM,Radford,,Doak Field,,"W, 9-7",9,7,2534
+2023,10,Mar 3(Fri),4:15 PM,NJIT,,Doak Field,,"W, 9-2",9,2,2556
+2023,11,Mar 4(Sat),2:00 PM,NJIT,,Doak Field,,"W, 21-2",21,2,3048
+2023,12,Mar 5(Sun),1:00 PM,NJIT,,Doak Field,,"W, 6-5",6,5,2853
+2023,13,Mar 7(Tue),3:00 PM,UNC Greensboro,,UNCG Baseball Complex,,"W, 15-13",15,13,526
+2023,14,Mar 10(Fri),7:00 PM,Miami,,Mark Light Field,,"L, 8-9",8,9,3174
+2023,15,Mar 11(Sat),6:00 PM,Miami,,Mark Light Field,,"L, 1-8",1,8,3193
+2023,16,Mar 12(Sun),1:00 PM,Miami,,Mark Light Field,,"W, 14-4",14,4,3455
+2023,17,Mar 14(Tue),2:00 PM,Elon,,Doak Field,PI DAY,"L, 6-14",6,14,2361
+2023,18,Mar 16(Thu),7:00 PM,Virginia,,Doak Field,HOT WHEELS DAY,"L, 1-2",1,2,2616
+2023,19,Mar 17(Fri),1:00 PM,Virginia,,Doak Field,ST. PATRICK'S DAY,"L, 0-7",0,7,2485
+2023,20,Mar 18(Sat),2:00 PM,Virginia,,Doak Field,,"W, 5-4",5,4,2936
+2023,21,Mar 21(Tue),6:00 PM,UNC Wilmington,,Brooks Field,,"W, 11-8",11,8,2483
+2023,22,Mar 24(Fri),4:00 PM,Boston College,,Harrington Field,,"L, 1-4",1,4,817
+2023,24,Mar 26(Sun),11:00 AM,Boston College,,Harrington Field,,"W, 12-2",12,2,1072
+2023,25,Mar 26(Sun),2:15 PM,Boston College,,Harrington Field,,"L, 7-8",7,8,1072
+2023,26,Mar 28(Tue),4:00 PM,UNC Greensboro,,Doak Field,,"W, 6-2",6,2,1992
+2023,27,Mar 31(Fri),6:00 PM,Louisville,,Doak Field,,"W, 6-5",6,5,3048
+2023,28,Apr 1(Sat),6:00 PM,Louisville,,Doak Field,APRIL FOOLS DAY,"W, 10-0",10,0,3048
+2023,29,Apr 2(Sun),12:00 PM,Louisville,,Doak Field,KIDS DAY: GALAXY FUN PARK FUN ZONE | URBAN AIR KIDS RUN THE BASES POSTGAME,"L, 1-6",1,6,2797
+2023,30,Apr 4(Tue),5:30 PM,East Carolina,,Clark-LeClair Stadium,,"L, 9-13",9,13,5997
+2023,32,Apr 9(Sun),12:00 PM,Wake Forest,,David F. Couch Ballpark,,"L, 4-6",4,6,1614
+2023,33,Apr 9(Sun),4:00 PM,Wake Forest,,David F. Couch Ballpark,,"L, 3-6",3,6,1698
+2023,34,Apr 11(Tue),6:00 PM,UNC Wilmington,,Doak Field,,"W, 12-3",12,3,3048
+2023,35,Apr 14(Fri),7:30 PM,Florida State,,Doak Field,,"W, 14-3",14,3,2696
+2023,36,Apr 15(Sat),7:00 PM,Florida State,,Doak Field,,"W, 4-3",4,3,3048
+2023,37,Apr 16(Sun),2:00 PM,Florida State,,Doak Field,,"W, 5-4",5,4,2838
+2023,38,Apr 18(Tue),6:00 PM,Davidson,,Truist Field,,"W, 22-7",22,7,2624
+2023,39,Apr 21(Fri),6:00 PM,Clemson,,Doak Field,,"L, 2-10",2,10,3048
+2023,40,Apr 22(Sat),7:00 PM,Clemson,,Doak Field,,"L, 7-9",7,9,2844
+2023,41,Apr 23(Sun),2:00 PM,Clemson,,Doak Field,KIDS DAY: GALAXY FUN PARK FUN ZONE | URBAN AIR KIDS RUN THE BASES POSTGAME,"L, 5-8",5,8,2956
+2023,42,Apr 25(Tue),6:00 PM,East Carolina,,Doak Field,ALS AWARENESS,"W, 5-4",5,4,3048
+2023,43,Apr 28(Fri),6:00 PM,The Citadel,,Doak Field,MILITARY APPRECIATION,"W, 7-4",7,4,2660
+2023,44,Apr 29(Sat),4:00 PM,The Citadel,,Doak Field,DOAKFEST,"W, 12-3",12,3,2957
+2023,46,May 2(Tue),2:00 PM,North Carolina A&T,,Doak Field,,"W, 6-5",6,5,2426
+2023,47,May 4(Thu),7:00 PM,Notre Dame,,Frank Eck Stadium,,"L, 7-9",7,9,499
+2023,48,May 5(Fri),5:00 PM,Notre Dame,,Frank Eck Stadium,,"W, 5-1",5,1,605
+2023,49,May 6(Sat),2:00 PM,Notre Dame,,Frank Eck Stadium,,"W, 6-1",6,1,667
+2023,51,May 11(Thu),7:00 PM,North Carolina,,Boshamer Stadium,,"L, 8-9",8,9,3242
+2023,52,May 12(Fri),7:00 PM,North Carolina,,Boshamer Stadium,,"L, 3-9",3,9,3584
+2023,53,May 13(Sat),2:00 PM,North Carolina,,Boshamer Stadium,,"L, 2-12",2,12,3502
+2023,54,May 18(Thu),6:00 PM,Pittsburgh,,Doak Field,,"W, 7-2",7,2,2620
+2023,55,May 19(Fri),6:00 PM,Pittsburgh,,Doak Field,,"W, 17-8",17,8,2853
+2023,56,May 20(Sat),1:00 PM,Pittsburgh,,Doak Field,SENIOR DAY,"W, 8-2",8,2,2880
+2023,57,May 23(Tue),7:00 PM,Duke,ACC Championship,Durham Bulls Athletic Park,,"W, 8-7",8,7,3894
+2023,58,May 25(Thu),7:00 PM,Miami,ACC Championship,Durham Bulls Athletic Park,,"L, 2-4",2,4,4253
+2023,59,Jun 2(Fri),1:00 PM,Campbell,NCAA Columbia Regional,Founders Park,,"W, 5-1",5,1,4716
+2023,60,Jun 3(Sat),6:00 PM,South Carolina,NCAA Columbia Regional,Founders Park,,"L, 3-6",3,6,7115
+2023,61,Jun 4(Sun),12:00 PM,Campbell,NCAA Columbia Regional,Founders Park,,"L, 1-11",1,11,4539
+2024,1,Feb 16(Fri),3:00 PM,Virginia Commonwealth,,Doak Field,,"W, 6-1",6,1,3016
+2024,2,Feb 17(Sat),2:00 PM,Virginia Commonwealth,,Doak Field,,"L, 6-9",6,9,2885
+2024,3,Feb 18(Sun),1:00 PM,Virginia Commonwealth,,Doak Field,,"W, 5-3",5,3,2660
+2024,4,Feb 23(Fri),6:35 PM,Hawai'i,,Les Murakami Stadium,,"W, 17-12",17,12,
+2024,5,Feb 24(Sat),6:35 PM,Hawai'i,,Les Murakami Stadium,,"L, 5-7",5,7,4331
+2024,6,Feb 25(Sun),1:05 PM,Hawai'i,,Les Murakami Stadium,,"W, 10-8",10,8,3526
+2024,7,Feb 28(Wed),2:00 PM,Queens,,Doak Field,,"W, 17-2",17,2,2216
+2024,8,Mar 1(Fri),12:00 PM,Towson,,Doak Field,,"W, 6-5",6,5,2334
+2024,9,Mar 2(Sat),12:00 PM,Towson,,Doak Field,,"W, 15-4",15,4,2645
+2024,10,Mar 2(Sat),3:35 PM,Towson,,Doak Field,,"W, 10-0",10,0,2537
+2024,11,Mar 3(Sun),1:00 PM,Towson,,Doak Field,,"W, 14-4",14,4,2664
+2024,13,Mar 8(Fri),3:00 PM,Boston College,,Doak Field,,"W, 5-4",5,4,2503
+2024,14,Mar 8(Fri),7:00 PM,Boston College,,Doak Field,,"W, 9-1",9,1,2577
+2024,15,Mar 10(Sun),11:00 AM,Boston College,,Doak Field,,"W, 18-16",18,16,2591
+2024,16,Mar 12(Tue),6:00 PM,UNC Greensboro,,Doak Field,,"L, 3-18",3,18,2337
+2024,17,Mar 15(Fri),4:00 PM,Georgia Tech,,Mac Nease Park,,"L, 5-8",5,8,1008
+2024,18,Mar 16(Sat),4:00 PM,Georgia Tech,,Mac Nease Park,,"L, 7-8",7,8,1509
+2024,19,Mar 17(Sun),1:00 PM,Georgia Tech,,Mac Nease Park,,"L, 5-15",5,15,1098
+2024,20,Mar 19(Tue),6:00 PM,Coastal Carolina,,Doak Field,,"W, 9-8",9,8,2711
+2024,21,Mar 22(Fri),1:00 PM,Duke,,Doak Field,,"W, 4-3",4,3,2532
+2024,22,Mar 23(Sat),3:00 PM,Duke,,Doak Field,,"W, 9-8",9,8,2791
+2024,23,Mar 24(Sun),1:00 PM,Duke,,Doak Field,,"L, 2-13",2,13,2683
+2024,25,Mar 28(Thu),7:00 PM,Notre Dame,,Doak Field,,"W, 10-0",10,0,2498
+2024,26,Mar 29(Fri),8:00 PM,Notre Dame,,Doak Field,,"W, 7-6",7,6,2468
+2024,27,Mar 30(Sat),3:00 PM,Notre Dame,,Doak Field,,"W, 7-6",7,6,3048
+2024,28,Apr 2(Tue),6:00 PM,East Carolina,,Doak Field,,"L, 4-12",4,12,3048
+2024,29,Apr 5(Fri),6:00 PM,Louisville,,Jim Patterson Stadium,,"L, 1-11",1,11,2688
+2024,30,Apr 6(Sat),1:00 PM,Louisville,,Jim Patterson Stadium,,"L, 6-7",6,7,2823
+2024,31,Apr 7(Sun),1:00 PM,Louisville,,Jim Patterson Stadium,,"L, 6-7",6,7,2757
+2024,32,Apr 9(Tue),6:00 PM,UNC Wilmington,,Brooks Field,,"L, 4-5",4,5,2322
+2024,33,Apr 12(Fri),6:00 PM,Clemson,,Doug Kingsmore Stadium,,"W, 11-8",11,8,5123
+2024,34,Apr 13(Sat),8:00 PM,Clemson,,Doug Kingsmore Stadium,,"W, 4-0",4,0,5286
+2024,35,Apr 14(Sun),1:00 PM,Clemson,,Doug Kingsmore Stadium,,"L, 0-7",0,7,4634
+2024,36,Apr 16(Tue),6:00 PM,Campbell,,Doak Field,,"L, 7-11",7,11,3048
+2024,37,Apr 18(Thu),7:00 PM,North Carolina,,Doak Field,,"W, 9-8",9,8,3048
+2024,38,Apr 19(Fri),6:00 PM,North Carolina,,Doak Field,,"W, 5-4",5,4,3048
+2024,39,Apr 20(Sat),3:00 PM,North Carolina,,Doak Field,,"L, 3-14",3,14,3048
+2024,40,Apr 23(Tue),6:00 PM,East Carolina,,Clark-LeClair Stadium,,"L, 6-10",6,10,6054
+2024,41,Apr 26(Fri),6:00 PM,Ball State,,Doak Field,,"W, 10-2",10,2,2378
+2024,42,Apr 27(Sat),3:00 PM,Ball State,,Doak Field,,"W, 9-3",9,3,2316
+2024,43,Apr 28(Sun),1:00 PM,Ball State,,Doak Field,,"W, 11-3",11,3,2402
+2024,44,Apr 30(Tue),5:00 PM,UNC Wilmington,,Doak Field,,"L, 4-5",4,5,2805
+2024,45,May 3(Fri),6:00 PM,Florida State,,Dick Howser Stadium,,"W, 8-7",8,7,4778
+2024,47,May 5(Sun),12:30 PM,Florida State,,Dick Howser Stadium,,"L, 1-8",1,8,4802
+2024,48,May 7(Tue),6:00 PM,Norfolk State,,Doak Field,,"W, 18-0",18,0,2537
+2024,49,May 10(Fri),7:00 PM,Virginia,,Disharoon Park,,"W, 7-5",7,5,4131
+2024,50,May 11(Sat),12:00 PM,Virginia,,Disharoon Park,,"L, 5-9",5,9,4638
+2024,51,May 12(Sun),1:00 PM,Virginia,,Disharoon Park,,"W, 13-5",13,5,4514
+2024,52,May 16(Thu),7:00 PM,Wake Forest,,Doak Field,,"W, 14-3",14,3,2893
+2024,53,May 17(Fri),7:00 PM,Wake Forest,,Doak Field,,"W, 2-1",2,1,3048
+2024,54,May 18(Sat),3:00 PM,Wake Forest,,Doak Field,,"W, 9-6",9,6,3009
+2024,55,May 22(Wed),7:00 PM,Virginia Tech,ACC Championship,Truist Field,,"W, 19-9",19,9,4651
+2024,56,May 23(Thu),7:00 PM,Duke,ACC Championship,Truist Field,,"L, 1-8",1,8,5696
+2024,57,May 31(Fri),7:00 PM,Bryant,NCAA Raleigh Regional,Doak Field,,"W, 9-2",9,2,3006
+2024,58,Jun 1(Sat),6:00 PM,South Carolina,NCAA Raleigh Regional,Doak Field,,"W, 6-4",6,4,3036
+2024,59,Jun 2(Sun),6:00 PM,James Madison,NCAA Raleigh Regional,Doak Field,,"W, 5-3",5,3,3016
+2024,60,Jun 8(Sat),12:00 PM,Georgia,NCAA Super Regional,Foley Field,,"W, 18-1",18,1,3829
+2024,61,Jun 9(Sun),12:00 PM,Georgia,NCAA Super Regional,Foley Field,,"L, 2-11",2,11,3893
+2024,62,Jun 10(Mon),7:00 PM,Georgia,NCAA Super Regional,Foley Field,,"W, 8-5",8,5,3944
+2024,63,Jun 15(Sat),2:00 PM,Kentucky,College World Series,Charles Schwab Field,,"L, 4-5",4,5,24488
+2024,64,Jun 17(Mon),2:00 PM,Florida,College World Series,Charles Schwab Field,,"L, 4-5",4,5,23578
+2025,1,Feb 14(Fri),11:00 AM,Fordham,,Doak Field,,"W, 11-1",11,1,2459
+2025,2,Feb 14(Fri),3:00 PM,Fordham,,Doak Field,,"W, 12-2",12,2,2613
+2025,3,Feb 15(Sat),2:00 PM,Fordham,,Doak Field,,"W, 19-6",19,6,2405
+2025,4,Feb 18(Tue),3:00 PM,Liberty,,Doak Field,,"L, 8-9",8,9,2431
+2025,5,Feb 21(Fri),2:00 PM,Ohio State,Jax College Baseball Classic,VyStar Ballpark,,"L, 3-8",3,8,
+2025,6,Feb 22(Sat),4:00 PM,Alabama,Jax College Baseball Classic,VyStar Ballpark,,"L, 0-4",0,4,2719
+2025,7,Feb 23(Sun),3:00 PM,Coastal Carolina,Jax College Baseball Classic,VyStar Ballpark,,"L, 3-10",3,10,4856
+2025,8,Feb 25(Tue),3:00 PM,Richmond,Jax College Baseball Classic,Doak Field,,"L, 1-5",1,5,2465
+2025,9,Feb 28(Fri),3:00 PM,Canisius,Jax College Baseball Classic,Doak Field,,"W, 10-2",10,2,2476
+2025,10,Mar 1(Sat),2:00 PM,Canisius,Jax College Baseball Classic,Doak Field,,"W, 12-11",12,11,3078
+2025,11,Mar 2(Sun),1:00 PM,Canisius,Jax College Baseball Classic,Doak Field,,"W, 10-0",10,0,2400
+2025,12,Mar 4(Tue),4:00 PM,UNC Greensboro,Jax College Baseball Classic,UNCG Baseball Complex,,"W, 10-0",10,0,521
+2025,13,Mar 5(Wed),3:00 PM,Campbell,Jax College Baseball Classic,Doak Field,,"W, 11-1",11,1,2396
+2025,14,Mar 7(Fri),3:00 PM,Wright State,Jax College Baseball Classic,Doak Field,,"W, 6-4",6,4,2337
+2025,15,Mar 8(Sat),2:00 PM,Wright State,Jax College Baseball Classic,Doak Field,,"W, 14-4",14,4,2751
+2025,16,Mar 9(Sun),1:00 PM,Wright State,Jax College Baseball Classic,Doak Field,,"W, 3-0",3,0,2413
+2025,17,Mar 11(Tue),6:00 PM,North Carolina A&T,Jax College Baseball Classic,Doak Field,,"W, 14-2",14,2,2296
+2025,18,Mar 14(Fri),6:00 PM,Virginia Tech,Jax College Baseball Classic,Doak Field,,"W, 11-1",11,1,2524
+2025,19,Mar 15(Sat),1:00 PM,Virginia Tech,Jax College Baseball Classic,Doak Field,,"W, 6-3",6,3,2705
+2025,20,Mar 15(Sat),4:00 PM,Virginia Tech,Jax College Baseball Classic,Doak Field,,"L, 8-20",8,20,2772
+2025,21,Mar 18(Tue),6:00 PM,Davidson,Jax College Baseball Classic,Atrium Health Ballpark,,"W, 13-0",13,0,3106
+2025,22,Mar 21(Fri),3:00 PM,Pittsburgh,Jax College Baseball Classic,Charles L. Cost Field,,"W, 6-2",6,2,450
+2025,23,Mar 22(Sat),3:00 PM,Pittsburgh,Jax College Baseball Classic,Charles L. Cost Field,,"W, 6-4",6,4,525
+2025,24,Mar 23(Sun),1:00 PM,Pittsburgh,Jax College Baseball Classic,Charles L. Cost Field,,"L, 3-5",3,5,515
+2025,25,Mar 25(Tue),6:00 PM,USC Upstate,Jax College Baseball Classic,Doak Field,,"L, 5-15",5,15,2576
+2025,26,Mar 28(Fri),8:00 PM,Duke,Jax College Baseball Classic,Jack Coombs Field,,"L, 1-5",1,5,1001
+2025,27,Mar 29(Sat),3:00 PM,Duke,Jax College Baseball Classic,Jack Coombs Field,,"W, 14-6",14,6,1350
+2025,28,Mar 30(Sun),1:00 PM,Duke,Jax College Baseball Classic,Jack Coombs Field,,"L, 6-16",6,16,1184
+2025,29,Apr 1(Tue),6:00 PM,UNC Greensboro,Jax College Baseball Classic,Doak Field,,"W, 9-6",9,6,2904
+2025,30,Apr 4(Fri),6:00 PM,Virginia,Jax College Baseball Classic,Doak Field,,"L, 6-8",6,8,2937
+2025,31,Apr 5(Sat),3:00 PM,Virginia,Jax College Baseball Classic,Doak Field,,"W, 9-2",9,2,3048
+2025,32,Apr 6(Sun),3:00 PM,Virginia,Jax College Baseball Classic,Doak Field,,"W, 9-8",9,8,3048
+2025,33,Apr 8(Tue),6:00 PM,East Carolina,Jax College Baseball Classic,Clark-LeClair Stadium,,"W, 4-1",4,1,5908
+2025,34,Apr 11(Fri),6:00 PM,Louisville,Jax College Baseball Classic,Doak Field,,"W, 13-11",13,11,2594
+2025,35,Apr 12(Sat),3:00 PM,Louisville,Jax College Baseball Classic,Doak Field,,"L, 8-25",8,25,2944
+2025,36,Apr 13(Sun),1:00 PM,Louisville,Jax College Baseball Classic,Doak Field,,"W, 11-1",11,1,2767
+2025,37,Apr 17(Thu),9:00 PM,California,Jax College Baseball Classic,Stu Gordon Stadium,,"W, 9-0",9,0,616
+2025,38,Apr 18(Fri),9:00 PM,California,Jax College Baseball Classic,Stu Gordon Stadium,,"W, 7-6",7,6,1290
+2025,39,Apr 19(Sat),5:00 PM,California,Jax College Baseball Classic,Stu Gordon Stadium,,"W, 5-2",5,2,729
+2025,41,Apr 24(Thu),7:00 PM,Clemson,Jax College Baseball Classic,Doak Field,,"W, 14-4",14,4,3048
+2025,42,Apr 25(Fri),6:00 PM,Clemson,Jax College Baseball Classic,Doak Field,,"W, 8-3",8,3,3048
+2025,43,Apr 26(Sat),1:00 PM,Clemson,Jax College Baseball Classic,Doak Field,,"W, 4-1",4,1,3048
+2025,44,Apr 29(Tue),6:00 PM,UNC Wilmington,Jax College Baseball Classic,Doak Field,,"L, 3-6",3,6,3048
+2025,45,May 2(Fri),7:00 PM,Miami,Jax College Baseball Classic,Mark Light Field,,"L, 4-6",4,6,3307
+2025,46,May 3(Sat),6:00 PM,Miami,Jax College Baseball Classic,Mark Light Field,,"L, 3-10",3,10,3368
+2025,48,May 6(Tue),6:00 PM,UNC Wilmington,Jax College Baseball Classic,Brooks Field,,"W, 14-4",14,4,2867
+2025,49,May 8(Thu),6:00 PM,North Carolina,Jax College Baseball Classic,Boshamer Stadium,,"L, 1-8",1,8,3729
+2025,50,May 9(Fri),6:00 PM,North Carolina,Jax College Baseball Classic,Boshamer Stadium,,"W, 8-5",8,5,4152
+2025,52,May 15(Thu),6:00 PM,Stanford,Jax College Baseball Classic,Doak Field,,"W, 7-2",7,2,2631
+2025,53,May 16(Fri),6:00 PM,Stanford,Jax College Baseball Classic,Doak Field,,"L, 3-4",3,4,2904
+2025,54,May 17(Sat),1:00 PM,Stanford,Jax College Baseball Classic,Doak Field,,"L, 3-6",3,6,2924
+2025,55,May 22(Thu),7:00 PM,Clemson,ACC Championship,Durham Bulls Athletic Park,,"L, 6-7",6,7,4866
+2025,56,May 30(Fri),2:00 PM,Stetson,NCAA Auburn Regional,Plainsman Park,,"L, 2-11",2,11,6470
+2025,57,May 31(Sat),3:00 PM,Central Connecticut State,NCAA Auburn Regional,Plainsman Park,,"W, 12-0",12,0,6420
+2025,58,Jun 1(Sun),3:00 PM,Stetson,NCAA Auburn Regional,Plainsman Park,,"W, 17-12",17,12,6494
+2025,59,Jun 1(Sun),8:00 PM,Auburn,NCAA Auburn Regional,Plainsman Park,,"L, 1-11",1,11,7373
+2026,1,Feb 13(Fri),4:00 PM,Washington,Puerto Rico Baseball Challenge,Estadio Francisco Montaner,,"W, 13-0",13,0,
+2026,2,Feb 14(Sat),9:00 AM,Indiana State,Puerto Rico Baseball Challenge,Estadio Francisco Montaner,,"W, 10-4",10,4,
+2026,4,Feb 18(Wed),3:00 PM,Winthrop,,Doak Field,,"W, 7-3",7,3,2575
+2026,5,Feb 20(Fri),3:00 PM,Princeton,,Doak Field,,"W, 6-4",6,4,2697
+2026,6,Feb 21(Sat),12:00 PM,Princeton,,Doak Field,,"W, 16-1",16,1,2433
+2026,7,Feb 21(Sat),3:00 PM,Princeton,,Doak Field,,"L, 0-1",0,1,2459
+2026,8,Feb 24(Tue),3:00 PM,Richmond,,Doak Field,,"W, 27-0",27,0,2210
+2026,9,Feb 25(Wed),3:00 PM,Akron,,Doak Field,,"W, 18-3",18,3,2140
+2026,10,Feb 27(Fri),3:00 PM,Sacred Heart,,Doak Field,,"W, 17-4",17,4,2275
+2026,11,Feb 28(Sat),2:00 PM,Sacred Heart,,Doak Field,,"W, 15-5",15,5,2951
+2026,12,Mar 1(Sun),1:00 PM,Sacred Heart,,Doak Field,,"W, 13-0",13,0,2722
+2026,13,Mar 3(Tue),3:00 PM,Coastal Carolina,,Doak Field,,"W, 6-4",6,4,2806
+2026,14,Mar 4(Wed),3:00 PM,Queens,,Doak Field,,"W, 9-2",9,2,2381
+2026,15,Mar 6(Fri),3:00 PM,Lafayette,,Doak Field,,"L, 6-11",6,11,2671
+2026,16,Mar 7(Sat),2:00 PM,Lafayette,,Doak Field,,"W, 10-4",10,4,2747
+2026,17,Mar 8(Sun),11:00 AM,Lafayette,,Doak Field,,"W, 14-4",14,4,2502
+2026,18,Mar 10(Tue),3:00 PM,Elon,,Doak Field,,"L, 0-2",0,2,2449
+2026,19,Mar 13(Fri),3:00 PM,Boston College,,Doak Field,,"W, 4-2",4,2,2361
+2026,20,Mar 14(Sat),2:00 PM,Boston College,,Doak Field,TRADING CARD SET GIVEAWAY #1,"L, 5-12",5,12,2757
+2026,21,Mar 15(Sun),12:00 PM,Boston College,,Doak Field,KIDS RUN BASES,"W, 5-1",5,1,2575
+2026,22,Mar 17(Tue),6:00 PM,UNC Wilmington,,Brooks Field,,"W, 14-2",14,2,2379
+2026,23,Mar 20(Fri),6:00 PM,Florida State,,Mike Martin Field At Dick Howser Stadium,,"W, 6-4",6,4,5146
+2026,24,Mar 21(Sat),2:00 PM,Florida State,,Mike Martin Field At Dick Howser Stadium,,"L, 5-11",5,11,5004
+2026,25,Mar 22(Sun),1:00 PM,Florida State,,Mike Martin Field At Dick Howser Stadium,,"L, 5-15",5,15,4689
+2026,26,Mar 24(Tue),6:00 PM,Campbell,,Doak Field,DOLLAR DOG DAY,"L, 2-7",2,7,3071
+2026,27,Mar 27(Fri),7:00 PM,Georgia Tech,,Mac Nease Baseball Park At Russ Chandler Stadium,,"L, 1-3",1,3,2314
+2026,28,Mar 28(Sat),7:00 PM,Georgia Tech,,Mac Nease Baseball Park At Russ Chandler Stadium,,"L, 4-6",4,6,2864
+2026,29,Mar 29(Sun),3:00 PM,Georgia Tech,,Mac Nease Baseball Park At Russ Chandler Stadium,,"L, 0-10",0,10,2987

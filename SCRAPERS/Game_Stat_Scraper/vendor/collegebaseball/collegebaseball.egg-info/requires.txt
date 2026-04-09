@@ -1,0 +1,7 @@
+pandas
+numpy
+requests
+lxml
+bs4
+importlib
+tqdm

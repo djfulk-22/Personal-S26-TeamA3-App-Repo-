@@ -1,0 +1,927 @@
+season,game_number,date,start_time,opponent,tournament,venue,result,unc_score,opponent_score,attendance
+2000-01,1,Nov 10(Fri),7:30 PM,Winthrop,,Dean E. Smith Center,"W, 66-61",66,61,16850.0
+2000-01,2,Nov 11(Sat),6:00 PM,Tulsa,NABC Classic,Dean E. Smith Center,"W, 91-81",91,81,19875.0
+2000-01,3,Nov 17(Fri),7:30 PM,Appalachian State,,Holmes Convocation Center,"W, 99-69",99,69,
+2000-01,4,Nov 29(Wed),7:30 PM,Michigan State,,Breslin Center,"L, 64-77",64,77,
+2000-01,5,Dec 2(Sat),3:50 PM,Kentucky,,Dean E. Smith Center,"L, 76-93",76,93,21750.0
+2000-01,6,Dec 4(Mon),7:00 PM,Miami,,Dean E. Smith Center,"W, 67-45",67,45,19859.0
+2000-01,7,Dec 9(Sat),9:00 PM,Texas A&M,,Compaq Center,"W, 82-60",82,60,9123.0
+2000-01,8,Dec 17(Sun),1:30 PM,Buffalo,,Dean E. Smith Center,"W, 95-74",95,74,18134.0
+2000-01,9,Dec 23(Sat),4:00 PM,UCLA,,Pauley Pavilion,"W, 80-70",80,70,10593.0
+2000-01,10,Dec 29(Fri),9:15 PM,Massachusetts,Tournament of Champions,Charlotte Coliseum,"W, 91-60",91,60,13224.0
+2000-01,11,Dec 30(Sat),9:15 PM,College of Charleston,Tournament of Champions,Charlotte Coliseum,"W, 64-60",64,60,13378.0
+2000-01,12,Jan 2(Tue),8:00 PM,Georgia Tech,,McCamish Pavilion,"W, 84-70",84,70,9510.0
+2000-01,13,Jan 6(Sat),9:00 PM,Wake Forest,,Dean E. Smith Center,"W, 70-69",70,69,21750.0
+2000-01,14,Jan 10(Wed),7:00 PM,Maryland,,Cole Field House,"W, 86-83",86,83,
+2000-01,15,Jan 13(Sat),1:00 PM,Marquette,,Dean E. Smith Center,"W, 84-54",84,54,21750.0
+2000-01,16,Jan 17(Wed),7:00 PM,Clemson,,Dean E. Smith Center,"W, 92-65",92,65,21335.0
+2000-01,17,Jan 20(Sat),4:00 PM,Florida State,,Donald L. Tucker Civic Center,"W, 80-70",80,70,7452.0
+2000-01,18,Jan 24(Wed),7:00 PM,Virginia,,Dean E. Smith Center,"W, 88-81",88,81,21750.0
+2000-01,19,Jan 28(Sun),1:00 PM,NC State,,Lenovo Center,"W, 60-52",60,52,19722.0
+2000-01,20,Feb 1(Thu),9:00 PM,Duke,,Cameron Indoor Stadium,"W, 85-83",85,83,9314.0
+2000-01,21,Feb 3(Sat),4:00 PM,Georgia Tech,,Dean E. Smith Center,"W, 82-69",82,69,21750.0
+2000-01,22,Feb 6(Tue),9:00 PM,Wake Forest,,Lawrence Joel Veterans Memorial Coliseum,"W, 80-74",80,74,14407.0
+2000-01,23,Feb 10(Sat),1:00 PM,Maryland,,Dean E. Smith Center,"W, 96-82",96,82,
+2000-01,24,Feb 18(Sun),4:00 PM,Clemson,,Littlejohn Coliseum,"L, 65-75",65,75,11200.0
+2000-01,25,Feb 22(Thu),8:00 PM,Florida State,,Dean E. Smith Center,"W, 95-67",95,67,21652.0
+2000-01,26,Feb 25(Sun),1:30 PM,Virginia,,University Hall,"L, 66-86",66,86,8392.0
+2000-01,27,Feb 28(Wed),9:00 PM,NC State,,Dean E. Smith Center,"W, 76-63",76,63,21750.0
+2000-01,28,Mar 4(Sun),3:30 PM,Duke,,Dean E. Smith Center,"L, 81-95",81,95,21750.0
+2000-01,29,Mar 9(Fri),12:00 PM,Clemson,ACC Tournament,McCamish Pavilion,"W, 99-81",99,81,
+2000-01,30,Mar 10(Sat),1:30 PM,Georgia Tech,ACC Tournament,McCamish Pavilion,"W, 70-63",70,63,
+2000-01,31,Mar 11(Sun),1:00 PM,Duke,ACC Tournament,McCamish Pavilion,"L, 53-79",53,79,40083.0
+2000-01,32,Mar 16(Fri),10:00 PM,Princeton,NCAA Tournament,Smoothie King Center,"W, 70-48",70,48,
+2000-01,33,Mar 18(Sun),5:00 PM,Penn State,NCAA Tournament,Smoothie King Center,"L, 74-82",74,82,
+2001-02,1,Nov 16(Fri),7:30 PM,Hampton,,Dean E. Smith Center,"L, 69-77",69,77,17320.0
+2001-02,2,Nov 20(Tue),7:00 PM,Davidson,,Dean E. Smith Center,"L, 54-58",54,58,14705.0
+2001-02,3,Nov 28(Wed),9:00 PM,Indiana,,Dean E. Smith Center,"L, 66-79",66,79,18358.0
+2001-02,4,Dec 2(Sun),6:00 PM,Georgia Tech,,Dean E. Smith Center,"W, 83-77",83,77,17492.0
+2001-02,5,Dec 8(Sat),4:00 PM,Kentucky,,Rupp Arena,"L, 59-79",59,79,23153.0
+2001-02,6,Dec 16(Sun),1:00 PM,Binghamton,,Dean E. Smith Center,"W, 61-60",61,60,12132.0
+2001-02,7,Dec 21(Fri),9:15 PM,College of Charleston,,Charlotte Coliseum,"L, 60-66",60,66,9713.0
+2001-02,8,Dec 22(Sat),7:00 PM,Saint Joseph's,,Charlotte Coliseum,"W, 92-76",92,76,5115.0
+2001-02,9,Dec 27(Thu),7:30 PM,North Carolina A&T,,Dean E. Smith Center,"W, 104-66",104,66,
+2001-02,10,Dec 30(Sun),8:00 PM,Texas A&M,,Dean E. Smith Center,"W, 96-62",96,62,15676.0
+2001-02,11,Jan 5(Sat),4:00 PM,Wake Forest,,Dean E. Smith Center,"L, 62-84",62,84,21293.0
+2001-02,12,Jan 9(Wed),7:30 PM,Maryland,,Cole Field House,"L, 79-112",79,112,14500.0
+2001-02,13,Jan 12(Sat),12:00 PM,Virginia,,Dean E. Smith Center,"L, 67-71",67,71,20079.0
+2001-02,14,Jan 16(Wed),7:00 PM,Florida State,,Donald L. Tucker Civic Center,"L, 71-81",71,81,7523.0
+2001-02,15,Jan 19(Sat),4:00 PM,Connecticut,,Gampel Pavilion,"L, 54-86",54,86,10027.0
+2001-02,16,Jan 23(Wed),9:00 PM,NC State,,Dean E. Smith Center,"L, 59-77",59,77,21750.0
+2001-02,17,Jan 27(Sun),6:00 PM,Clemson,,Littlejohn Coliseum,"W, 87-69",87,69,10000.0
+2001-02,18,Jan 31(Thu),9:00 PM,Duke,,Dean E. Smith Center,"L, 58-87",58,87,
+2001-02,19,Feb 2(Sat),1:00 PM,Georgia Tech,,McCamish Pavilion,"L, 74-86",74,86,6550.0
+2001-02,20,Feb 6(Wed),9:00 PM,Wake Forest,,Lawrence Joel Veterans Memorial Coliseum,"L, 66-90",66,90,13523.0
+2001-02,21,Feb 10(Sun),6:30 PM,Maryland,,Dean E. Smith Center,"L, 77-92",77,92,18751.0
+2001-02,22,Feb 12(Tue),8:00 PM,Virginia,,University Hall,"L, 63-73",63,73,7331.0
+2001-02,23,Feb 17(Sun),3:00 PM,Florida State,,Dean E. Smith Center,"W, 95-85",95,85,17055.0
+2001-02,24,Feb 20(Wed),7:30 PM,Ohio,,Dean E. Smith Center,"L, 78-86",78,86,13252.0
+2001-02,25,Feb 24(Sun),6:30 PM,NC State,,Lenovo Center,"L, 76-98",76,98,19722.0
+2001-02,26,Feb 27(Wed),9:00 PM,Clemson,,Dean E. Smith Center,"W, 96-78",96,78,16125.0
+2001-02,27,Mar 3(Sun),3:30 PM,Duke,,Cameron Indoor Stadium,"L, 68-93",68,93,9314.0
+2001-02,28,Mar 8(Fri),7:00 PM,Duke,ACC Tournament,Charlotte Coliseum,"L, 48-60",48,60,23895.0
+2002-03,1,Nov 18(Mon),7:00 PM,Penn State,Preseason NIT,Dean E. Smith Center,"W, 85-55",85,55,16282.0
+2002-03,2,Nov 20(Wed),7:00 PM,Rutgers,Preseason NIT,Dean E. Smith Center,"W, 71-67",71,67,14656.0
+2002-03,3,Nov 24(Sun),1:00 PM,Old Dominion,,Ted Constant Convocation Center,"W, 67-59",67,59,
+2002-03,4,Nov 27(Wed),9:00 PM,Kansas,Preseason NIT,Madison Square Garden,"W, 67-56",67,56,10758.0
+2002-03,5,Nov 29(Fri),9:00 PM,Stanford,Preseason NIT,Madison Square Garden,"W, 74-57",74,57,11718.0
+2002-03,6,Dec 3(Tue),9:30 PM,Illinois,ACC/Big Ten Challenge,State Farm Center,"L, 65-92",65,92,16500.0
+2002-03,7,Dec 7(Sat),2:00 PM,Kentucky,,Dean E. Smith Center,"L, 81-98",81,98,21750.0
+2002-03,8,Dec 19(Thu),7:00 PM,Vermont,,Dean E. Smith Center,"W, 80-54",80,54,16258.0
+2002-03,9,Dec 22(Sun),8:00 PM,Florida State,,Donald L. Tucker Civic Center,"W, 69-48",69,48,
+2002-03,10,Dec 27(Fri),6:30 PM,Iona,ECAC Holiday Festival,Madison Square Garden,"L, 56-65",56,65,11000.0
+2002-03,11,Dec 28(Sat),3:00 PM,St. John's,ECAC Holiday Festival,Madison Square Garden,"W, 63-59",63,59,11000.0
+2002-03,12,Jan 4(Sat),7:00 PM,Miami,,Miami Arena,"L, 61-64",61,64,6826.0
+2002-03,13,Jan 8(Wed),8:00 PM,Davidson,,Dean E. Smith Center,"W, 79-64",79,64,18555.0
+2002-03,14,Jan 11(Sat),12:00 PM,Virginia,,University Hall,"L, 72-79",72,79,8392.0
+2002-03,15,Jan 14(Tue),7:00 PM,Clemson,,Dean E. Smith Center,"W, 68-66",68,66,17451.0
+2002-03,16,Jan 18(Sat),5:00 PM,Connecticut,,Dean E. Smith Center,"W, 68-65",68,65,21750.0
+2002-03,17,Jan 22(Wed),7:00 PM,Maryland,,Dean E. Smith Center,"L, 66-81",66,81,21750.0
+2002-03,18,Jan 26(Sun),2:00 PM,NC State,,Lenovo Center,"L, 77-86",77,86,19722.0
+2002-03,19,Jan 29(Wed),7:00 PM,Georgia Tech,,McCamish Pavilion,"L, 68-88",68,88,
+2002-03,20,Feb 2(Sun),5:30 PM,Wake Forest,,Dean E. Smith Center,"L, 75-79",75,79,21750.0
+2002-03,21,Feb 5(Wed),9:00 PM,Duke,,Cameron Indoor Stadium,"L, 74-83",74,83,9314.0
+2002-03,22,Feb 8(Sat),1:00 PM,Florida State,,Dean E. Smith Center,"W, 61-60",61,60,21750.0
+2002-03,23,Feb 12(Wed),7:00 PM,Virginia,,Dean E. Smith Center,"W, 81-67",81,67,20445.0
+2002-03,24,Feb 15(Sat),1:00 PM,Clemson,,Littlejohn Coliseum,"L, 77-80",77,80,10500.0
+2002-03,25,Feb 18(Tue),8:00 PM,North Carolina A&T,,Dean E. Smith Center,"W, 93-57",93,57,14005.0
+2002-03,26,Feb 22(Sat),2:00 PM,Maryland,,Xfinity Center,"L, 56-96",56,96,17950.0
+2002-03,27,Feb 25(Tue),9:00 PM,NC State,,Dean E. Smith Center,"L, 67-75",67,75,21750.0
+2002-03,28,Mar 1(Sat),1:00 PM,Georgia Tech,,Dean E. Smith Center,"W, 67-66",67,66,20859.0
+2002-03,29,Mar 5(Wed),9:00 PM,Wake Forest,,Lawrence Joel Veterans Memorial Coliseum,"L, 60-75",60,75,14656.0
+2002-03,30,Mar 9(Sun),4:00 PM,Duke,,Dean E. Smith Center,"W, 82-79",82,79,21750.0
+2002-03,31,Mar 14(Fri),7:00 PM,Maryland,ACC Tournament,Greensboro Coliseum,"W, 84-72",84,72,23745.0
+2002-03,32,Mar 15(Sat),4:00 PM,Duke,ACC Tournament,Greensboro Coliseum,"L, 63-75",63,75,23745.0
+2002-03,33,Mar 18(Tue),9:00 PM,DePaul,NIT,Dean E. Smith Center,"W, 83-72",83,72,10345.0
+2002-03,34,Mar 24(Mon),8:00 PM,Wyoming,NIT,Dean E. Smith Center,"W, 90-74",90,74,20235.0
+2002-03,35,Mar 26(Wed),7:00 PM,Georgetown,NIT,Dean E. Smith Center,"L, 74-79",74,79,15043.0
+2003-04,1,Nov 22(Sat),8:00 PM,Old Dominion,,Dean E. Smith Center,"W, 90-64",90,64,21750.0
+2003-04,2,Nov 24(Mon),7:00 PM,Davidson,,Charlotte Coliseum,"W, 91-68",91,68,16356.0
+2003-04,3,Nov 29(Sat),4:00 PM,Cleveland State,,Wolstein Center,"W, 82-76",82,76,11534.0
+2003-04,4,Dec 2(Tue),9:00 PM,Illinois,ACC/Big Ten Challenge,Greensboro Coliseum,"W, 88-81",88,81,16211.0
+2003-04,5,Dec 7(Sun),1:00 PM,George Mason,,Dean E. Smith Center,"W, 115-81",115,81,19891.0
+2003-04,6,Dec 14(Sun),1:00 PM,Akron,,Dean E. Smith Center,"W, 64-53",64,53,17051.0
+2003-04,7,Dec 20(Sat),4:00 PM,Wake Forest,,Dean E. Smith Center,"L, 114-119",114,119,21750.0
+2003-04,8,Dec 28(Sun),1:00 PM,UNC Wilmington,,Myrtle Beach Convention Center,"W, 71-54",71,54,
+2003-04,9,Dec 30(Tue),8:00 PM,Coastal Carolina,,Dean E. Smith Center,"W, 105-72",105,72,18793.0
+2003-04,10,Jan 3(Sat),12:00 PM,Kentucky,,Rupp Arena,"L, 56-61",56,61,23014.0
+2003-04,11,Jan 7(Wed),7:00 PM,Miami,,Dean E. Smith Center,"W, 89-64",89,64,21073.0
+2003-04,12,Jan 11(Sun),8:00 PM,Georgia Tech,,Dean E. Smith Center,"W, 103-88",103,88,21750.0
+2003-04,13,Jan 14(Wed),9:00 PM,Maryland,,Xfinity Center,"L, 84-90",84,90,17950.0
+2003-04,14,Jan 17(Sat),3:30 PM,Connecticut,,Dean E. Smith Center,"W, 86-83",86,83,21750.0
+2003-04,15,Jan 22(Thu),7:00 PM,Florida State,,Donald L. Tucker Civic Center,"L, 81-90",81,90,11562.0
+2003-04,16,Jan 24(Sat),12:00 PM,Virginia,,Dean E. Smith Center,"W, 96-77",96,77,20874.0
+2003-04,17,Jan 28(Wed),7:00 PM,NC State,,Dean E. Smith Center,"W, 68-66",68,66,21750.0
+2003-04,18,Jan 31(Sat),12:00 PM,Clemson,,Littlejohn Coliseum,"L, 72-81",72,81,10000.0
+2003-04,19,Feb 5(Thu),9:00 PM,Duke,,Dean E. Smith Center,"L, 81-83",81,83,21750.0
+2003-04,20,Feb 7(Sat),1:00 PM,Wake Forest,,Lawrence Joel Veterans Memorial Coliseum,"W, 79-73",79,73,14665.0
+2003-04,21,Feb 10(Tue),9:00 PM,Georgia Tech,,McCamish Pavilion,"L, 77-88",77,88,9191.0
+2003-04,22,Feb 15(Sun),3:30 PM,Maryland,,Dean E. Smith Center,"W, 97-86",97,86,21750.0
+2003-04,23,Feb 21(Sat),1:00 PM,Florida State,,Dean E. Smith Center,"W, 78-71",78,71,20473.0
+2003-04,24,Feb 24(Tue),8:00 PM,Virginia,,University Hall,"L, 72-74",72,74,7429.0
+2003-04,25,Feb 29(Sun),5:30 PM,NC State,,Lenovo Center,"W, 71-64",71,64,19722.0
+2003-04,26,Mar 2(Tue),9:00 PM,Clemson,,Dean E. Smith Center,"W, 69-53",69,53,20818.0
+2003-04,27,Mar 6(Sat),9:00 PM,Duke,,Cameron Indoor Stadium,"L, 65-70",65,70,9314.0
+2003-04,28,Mar 12(Fri),2:30 PM,Georgia Tech,ACC Tournament,Greensboro Coliseum,"L, 82-83",82,83,23745.0
+2003-04,29,Mar 18(Thu),9:50 PM,Air Force,NCAA Tournament,Ball Arena,"W, 63-52",63,52,19405.0
+2003-04,30,Mar 20(Sat),8:00 PM,Texas,NCAA Tournament,Ball Arena,"L, 75-78",75,78,19405.0
+2004-05,1,Nov 5(Fri),7:30 PM,Winston-Salem State,,Dean E. Smith Center,"W, 113-53",113,53,15125.0
+2004-05,2,Nov 12(Fri),7:30 PM,Mount Olive,,Dean E. Smith Center,"W, 100-68",100,68,14457.0
+2004-05,3,Nov 19(Fri),9:00 PM,Santa Clara,,Oakland Arena,"L, 66-77",66,77,
+2004-05,4,Nov 22(Mon),9:00 PM,BYU,Maui Invitational,Lahaina Civic Center,"W, 86-50",86,50,2500.0
+2004-05,5,Nov 23(Tue),9:30 PM,Tennessee,Maui Invitational,Lahaina Civic Center,"W, 94-81",94,81,2500.0
+2004-05,6,Nov 24(Wed),9:30 PM,Iowa,Maui Invitational,Lahaina Civic Center,"W, 106-92",106,92,2500.0
+2004-05,7,Nov 28(Sun),7:30 PM,Southern California,,Dean E. Smith Center,"W, 97-65",97,65,
+2004-05,8,Dec 1(Wed),9:00 PM,Indiana,,Simon Skjodt Assembly Hall,"W, 70-63",70,63,17404.0
+2004-05,9,Dec 4(Sat),12:00 PM,Kentucky,,Dean E. Smith Center,"W, 91-78",91,78,
+2004-05,10,Dec 12(Sun),5:30 PM,Loyola Chicago,,Dean E. Smith Center,"W, 109-60",109,60,19136.0
+2004-05,11,Dec 19(Sun),3:30 PM,Virginia Tech,,Cassell Coliseum,"W, 85-51",85,51,
+2004-05,12,Dec 21(Tue),7:00 PM,Vermont,,Dean E. Smith Center,"W, 93-65",93,65,19717.0
+2004-05,13,Dec 28(Tue),8:00 PM,UNC Wilmington,,Dean E. Smith Center,"W, 96-75",96,75,19989.0
+2004-05,14,Dec 30(Thu),8:00 PM,Cleveland State,,Dean E. Smith Center,"W, 107-64",107,64,18537.0
+2004-05,15,Jan 2(Sun),1:00 PM,William & Mary,,Dean E. Smith Center,"W, 105-66",105,66,18418.0
+2004-05,16,Jan 8(Sat),12:00 PM,Maryland,,Dean E. Smith Center,"W, 109-75",109,75,
+2004-05,17,Jan 12(Wed),7:00 PM,Georgia Tech,,Dean E. Smith Center,"W, 91-69",91,69,21750.0
+2004-05,18,Jan 15(Sat),1:30 PM,Wake Forest,,Lawrence Joel Veterans Memorial Coliseum,"L, 82-95",82,95,
+2004-05,19,Jan 19(Wed),9:00 PM,Clemson,,Littlejohn Coliseum,"W, 77-58",77,58,10000.0
+2004-05,20,Jan 22(Sat),8:00 PM,Miami,,Dean E. Smith Center,"W, 87-67",87,67,20714.0
+2004-05,21,Jan 29(Sat),12:00 PM,Virginia,,University Hall,"W, 110-76",110,76,7953.0
+2004-05,22,Feb 3(Thu),7:00 PM,NC State,,Dean E. Smith Center,"W, 95-71",95,71,21750.0
+2004-05,23,Feb 6(Sun),2:00 PM,Florida State,,Donald L. Tucker Civic Center,"W, 81-60",81,60,
+2004-05,24,Feb 9(Wed),9:00 PM,Duke,,Cameron Indoor Stadium,"L, 70-71",70,71,9314.0
+2004-05,25,Feb 13(Sun),1:00 PM,Connecticut,,XL Center,"W, 77-70",77,70,
+2004-05,26,Feb 16(Wed),7:00 PM,Virginia,,Dean E. Smith Center,"W, 85-61",85,61,20643.0
+2004-05,27,Feb 19(Sat),1:00 PM,Clemson,,Dean E. Smith Center,"W, 88-56",88,56,20323.0
+2004-05,28,Feb 22(Tue),8:00 PM,NC State,,Lenovo Center,"W, 81-71",81,71,19722.0
+2004-05,29,Feb 27(Sun),5:30 PM,Maryland,,Xfinity Center,"W, 85-83",85,83,17950.0
+2004-05,30,Mar 3(Thu),9:00 PM,Florida State,,Dean E. Smith Center,"W, 91-76",91,76,21243.0
+2004-05,31,Mar 6(Sun),4:00 PM,Duke,,Dean E. Smith Center,"W, 75-73",75,73,22125.0
+2004-05,32,Mar 11(Fri),12:00 PM,Clemson,ACC Tournament,Capital One Arena,"W, 88-81",88,81,
+2004-05,33,Mar 12(Sat),1:30 PM,Georgia Tech,ACC Tournament,Capital One Arena,"L, 75-78",75,78,20301.0
+2004-05,34,Mar 18(Fri),2:50 PM,Oakland,NCAA Tournament,Charlotte Coliseum,"W, 96-68",96,68,23207.0
+2004-05,35,Mar 20(Sun),2:30 PM,Iowa State,NCAA Tournament,Charlotte Coliseum,"W, 92-65",92,65,
+2004-05,36,Mar 25(Fri),9:57 PM,Villanova,NCAA Tournament,JMA Wireless Dome,"W, 67-66",67,66,30916.0
+2004-05,37,Mar 27(Sun),2:40 PM,Wisconsin,NCAA Tournament,JMA Wireless Dome,"W, 88-82",88,82,30132.0
+2004-05,38,Apr 2(Sat),8:47 PM,Michigan State,NCAA Tournament,Dome at America's Center,"W, 87-71",87,71,47754.0
+2004-05,39,Apr 4(Mon),9:21 PM,Illinois,NCAA Tournament,Dome at America's Center,"W, 75-70",75,70,47262.0
+2005-06,1,Nov 19(Sat),8:00 PM,Gardner-Webb,,Dean E. Smith Center,"W, 83-80",83,80,19781.0
+2005-06,2,Nov 22(Tue),9:00 PM,Cleveland State,,Dean E. Smith Center,"W, 112-55",112,55,16422.0
+2005-06,3,Nov 25(Fri),8:30 PM,UC Santa Barbara,,Dean E. Smith Center,"W, 83-66",83,66,17305.0
+2005-06,4,Nov 29(Tue),9:00 PM,Illinois,,Dean E. Smith Center,"L, 64-68",64,68,21273.0
+2005-06,5,Dec 3(Sat),12:00 PM,Kentucky,,Rupp Arena,"W, 83-79",83,79,23860.0
+2005-06,6,Dec 7(Wed),9:00 PM,Saint Louis,,Dean E. Smith Center,"W, 75-63",75,63,18215.0
+2005-06,7,Dec 17(Sat),8:00 PM,Santa Clara,,Dean E. Smith Center,"W, 76-58",76,58,20225.0
+2005-06,8,Dec 21(Wed),10:30 PM,Southern California,,Pauley Pavilion,"L, 59-74",59,74,5921.0
+2005-06,9,Dec 28(Wed),8:00 PM,UNC Asheville,,Dean E. Smith Center,"W, 89-47",89,47,19681.0
+2005-06,10,Jan 3(Tue),7:00 PM,Davidson,,Dean E. Smith Center,"W, 82-58",82,58,18334.0
+2005-06,11,Jan 7(Sat),3:00 PM,NC State,,Dean E. Smith Center,"W, 82-69",82,69,21750.0
+2005-06,12,Jan 10(Tue),7:30 PM,Virginia Tech,,Cassell Coliseum,"W, 64-61",64,61,
+2005-06,13,Jan 14(Sat),12:00 PM,Miami,,Dean E. Smith Center,"L, 70-81",70,81,21413.0
+2005-06,14,Jan 19(Thu),7:00 PM,Virginia,,University Hall,"L, 68-72",68,72,8392.0
+2005-06,15,Jan 22(Sun),6:30 PM,Florida State,,Donald L. Tucker Civic Center,"W, 81-80",81,80,11589.0
+2005-06,16,Jan 25(Wed),9:00 PM,Boston College,,Dean E. Smith Center,"L, 74-81",74,81,21015.0
+2005-06,17,Jan 28(Sat),1:00 PM,Arizona,,Dean E. Smith Center,"W, 86-69",86,69,21750.0
+2005-06,18,Feb 2(Thu),7:00 PM,Maryland,,Xfinity Center,"W, 77-62",77,62,17950.0
+2005-06,19,Feb 4(Sat),4:00 PM,Clemson,,Dean E. Smith Center,"W, 76-61",76,61,21352.0
+2005-06,20,Feb 7(Tue),9:00 PM,Duke,,Dean E. Smith Center,"L, 83-87",83,87,21750.0
+2005-06,21,Feb 12(Sun),8:00 PM,Miami,,Watsco Center,"W, 80-70",80,70,7000.0
+2005-06,22,Feb 15(Wed),7:00 PM,Georgia Tech,,Dean E. Smith Center,"W, 82-75",82,75,20305.0
+2005-06,23,Feb 19(Sun),1:30 PM,Wake Forest,,Lawrence Joel Veterans Memorial Coliseum,"W, 83-72",83,72,14665.0
+2005-06,24,Feb 22(Wed),9:00 PM,NC State,,Lenovo Center,"W, 95-71",95,71,19722.0
+2005-06,25,Feb 26(Sun),5:30 PM,Maryland,,Dean E. Smith Center,"W, 81-57",81,57,
+2005-06,26,Mar 1(Wed),9:00 PM,Virginia,,Dean E. Smith Center,"W, 99-54",99,54,21750.0
+2005-06,27,Mar 4(Sat),9:00 PM,Duke,,Cameron Indoor Stadium,"W, 83-76",83,76,
+2005-06,28,Mar 10(Fri),7:00 PM,Virginia,ACC Tournament,Greensboro Coliseum,"W, 79-67",79,67,23745.0
+2005-06,29,Mar 11(Sat),4:00 PM,Boston College,ACC Tournament,Greensboro Coliseum,"L, 82-85",82,85,23745.0
+2005-06,30,Mar 17(Fri),9:30 PM,Murray State,NCAA Tournament,University of Dayton Arena,"W, 69-65",69,65,12945.0
+2005-06,31,Mar 19(Sun),2:20 PM,George Mason,NCAA Tournament,University of Dayton Arena,"L, 60-65",60,65,
+2006-07,1,Nov 1(Wed),7:30 PM,St. Augustine's,,Dean E. Smith Center,"W, 110-79",110,79,12230.0
+2006-07,2,Nov 14(Tue),7:00 PM,Sacred Heart,,Spectrum Center,"W, 103-81",103,81,7060.0
+2006-07,3,Nov 15(Wed),7:00 PM,Winthrop,,Spectrum Center,"W, 73-66",73,66,7362.0
+2006-07,4,Nov 19(Sun),1:00 PM,Gardner-Webb,,Dean E. Smith Center,"W, 103-50",103,50,19045.0
+2006-07,5,Nov 22(Wed),9:15 PM,Gonzaga,Preseason NIT,Madison Square Garden,"L, 74-82",74,82,9123.0
+2006-07,6,Nov 24(Fri),4:30 PM,Tennessee,Preseason NIT,Madison Square Garden,"W, 101-87",101,87,
+2006-07,7,Nov 29(Wed),9:00 PM,Ohio State,,Dean E. Smith Center,"W, 98-89",98,89,21750.0
+2006-07,8,Dec 2(Sat),12:00 PM,Kentucky,,Dean E. Smith Center,"W, 75-63",75,63,21147.0
+2006-07,9,Dec 9(Sat),7:00 PM,High Point,,Dean E. Smith Center,"W, 94-69",94,69,19955.0
+2006-07,10,Dec 16(Sat),2:00 PM,UNC Asheville,,Dean E. Smith Center,"W, 93-62",93,62,18923.0
+2006-07,11,Dec 19(Tue),7:00 PM,Florida Atlantic,,Dean E. Smith Center,"W, 105-52",105,52,18162.0
+2006-07,12,Dec 22(Fri),7:00 PM,Saint Louis,,Enterprise Center,"W, 69-48",69,48,22539.0
+2006-07,13,Dec 28(Thu),7:00 PM,Rutgers,,Dean E. Smith Center,"W, 87-48",87,48,20997.0
+2006-07,14,Dec 31(Sun),3:00 PM,Dayton,,Dean E. Smith Center,"W, 81-51",81,51,19967.0
+2006-07,15,Jan 3(Wed),8:00 PM,Penn,,Dean E. Smith Center,"W, 102-64",102,64,19378.0
+2006-07,16,Jan 7(Sun),7:00 PM,Florida State,,Dean E. Smith Center,"W, 84-58",84,58,21010.0
+2006-07,17,Jan 10(Wed),9:00 PM,Virginia,,Dean E. Smith Center,"W, 79-69",79,69,21569.0
+2006-07,18,Jan 13(Sat),3:30 PM,Virginia Tech,,Cassell Coliseum,"L, 88-94",88,94,9847.0
+2006-07,19,Jan 17(Wed),7:00 PM,Clemson,,Littlejohn Coliseum,"W, 77-55",77,55,10000.0
+2006-07,20,Jan 20(Sat),9:00 PM,Georgia Tech,,Dean E. Smith Center,"W, 77-61",77,61,21750.0
+2006-07,21,Jan 24(Wed),7:00 PM,Wake Forest,,Lawrence Joel Veterans Memorial Coliseum,"W, 88-60",88,60,14351.0
+2006-07,22,Jan 27(Sat),1:00 PM,Arizona,,McKale Center,"W, 92-64",92,64,14596.0
+2006-07,23,Jan 31(Wed),7:00 PM,Miami,,Dean E. Smith Center,"W, 105-64",105,64,21132.0
+2006-07,24,Feb 3(Sat),3:30 PM,NC State,,Lenovo Center,"L, 79-83",79,83,19700.0
+2006-07,25,Feb 7(Wed),9:00 PM,Duke,,Cameron Indoor Stadium,"W, 79-73",79,73,
+2006-07,26,Feb 10(Sat),1:30 PM,Wake Forest,,Dean E. Smith Center,"W, 104-67",104,67,21750.0
+2006-07,27,Feb 13(Tue),8:00 PM,Virginia Tech,,Dean E. Smith Center,"L, 80-81",80,81,21750.0
+2006-07,28,Feb 17(Sat),9:00 PM,Boston College,,Conte Forum,"W, 77-72",77,72,8606.0
+2006-07,29,Feb 21(Wed),9:00 PM,NC State,,Dean E. Smith Center,"W, 83-64",83,64,21750.0
+2006-07,30,Feb 25(Sun),5:30 PM,Maryland,,Xfinity Center,"L, 87-89",87,89,
+2006-07,31,Mar 1(Thu),9:00 PM,Georgia Tech,,McCamish Pavilion,"L, 77-84",77,84,9191.0
+2006-07,32,Mar 4(Sun),4:00 PM,Duke,,Dean E. Smith Center,"W, 86-72",86,72,21750.0
+2006-07,33,Mar 9(Fri),12:00 PM,Florida State,ACC Tournament,Amalie Arena,"W, 73-58",73,58,22269.0
+2006-07,34,Mar 10(Sat),1:30 PM,Boston College,ACC Tournament,Amalie Arena,"W, 71-56",71,56,22269.0
+2006-07,35,Mar 11(Sun),1:00 PM,NC State,ACC Tournament,Amalie Arena,"W, 89-80",89,80,22269.0
+2006-07,36,Mar 15(Thu),9:50 PM,Eastern Kentucky,NCAA Tournament,Lawrence Joel Veterans Memorial Coliseum,"W, 86-65",86,65,14148.0
+2006-07,37,Mar 17(Sat),8:20 PM,Michigan State,NCAA Tournament,Lawrence Joel Veterans Memorial Coliseum,"W, 81-67",81,67,14148.0
+2006-07,38,Mar 23(Fri),9:57 PM,Southern California,NCAA Tournament,Continental Airlines Arena,"W, 74-64",74,64,19557.0
+2006-07,39,Mar 25(Sun),5:05 PM,Georgetown,NCAA Tournament,Continental Airlines Arena,"L, 84-96",84,96,19557.0
+2007-08,1,Nov 14(Wed),7:00 PM,Davidson,,Spectrum Center,"W, 72-68",72,68,19299.0
+2007-08,2,Nov 18(Sun),6:00 PM,Iona,,Dean E. Smith Center,"W, 107-72",107,72,18970.0
+2007-08,3,Nov 20(Tue),7:30 PM,South Carolina State,,Dean E. Smith Center,"W, 110-64",110,64,18318.0
+2007-08,4,Nov 23(Fri),11:55 PM,Old Dominion,Las Vegas Invitational,Thomas & Mack Center,"W, 99-82",99,82,
+2007-08,5,Nov 24(Sat),10:30 PM,BYU,Las Vegas Invitational,Thomas & Mack Center,"W, 73-63",73,63,5500.0
+2007-08,6,Nov 28(Wed),9:00 PM,Ohio State,,Schottenstein Center,"W, 66-55",66,55,19049.0
+2007-08,7,Dec 1(Sat),2:00 PM,Kentucky,,Rupp Arena,"W, 86-77",86,77,24252.0
+2007-08,8,Dec 4(Tue),7:00 PM,Penn,,Palestra,"W, 106-71",106,71,8722.0
+2007-08,9,Dec 16(Sun),8:00 PM,Rutgers,,Jersey Mike's Arena,"W, 93-71",93,71,8312.0
+2007-08,10,Dec 19(Wed),9:00 PM,Nicholls State,,Dean E. Smith Center,"W, 88-78",88,78,17706.0
+2007-08,11,Dec 22(Sat),1:00 PM,UC Santa Barbara,,Dean E. Smith Center,"W, 105-70",105,70,20520.0
+2007-08,12,Dec 27(Thu),7:00 PM,Nevada,,Dean E. Smith Center,"W, 106-70",106,70,21750.0
+2007-08,13,Dec 30(Sun),7:30 PM,Valparaiso,,Dean E. Smith Center,"W, 90-58",90,58,21046.0
+2007-08,14,Jan 2(Wed),8:00 PM,Kent State,,Dean E. Smith Center,"W, 90-61",90,61,20356.0
+2007-08,15,Jan 6(Sun),7:30 PM,Clemson,,Littlejohn Coliseum,"W, 90-88",90,88,10000.0
+2007-08,16,Jan 9(Wed),7:00 PM,UNC Asheville,,Dean E. Smith Center,"W, 93-81",93,81,20326.0
+2007-08,17,Jan 12(Sat),12:00 PM,NC State,,Dean E. Smith Center,"W, 93-62",93,62,21750.0
+2007-08,18,Jan 16(Wed),9:00 PM,Georgia Tech,,McCamish Pavilion,"W, 83-82",83,82,9191.0
+2007-08,19,Jan 19(Sat),3:30 PM,Maryland,,Dean E. Smith Center,"L, 80-82",80,82,21033.0
+2007-08,20,Jan 23(Wed),9:00 PM,Miami,,Watsco Center,"W, 98-82",98,82,7000.0
+2007-08,21,Jan 31(Thu),7:00 PM,Boston College,,Dean E. Smith Center,"W, 91-69",91,69,21247.0
+2007-08,22,Feb 3(Sun),2:00 PM,Florida State,,Donald L. Tucker Civic Center,"W, 84-73",84,73,11066.0
+2007-08,23,Feb 6(Wed),9:00 PM,Duke,,Dean E. Smith Center,"L, 78-89",78,89,21750.0
+2007-08,24,Feb 10(Sun),6:30 PM,Clemson,,Dean E. Smith Center,"W, 103-93",103,93,20767.0
+2007-08,25,Feb 12(Tue),8:00 PM,Virginia,,John Paul Jones Arena,"W, 75-74",75,74,13765.0
+2007-08,26,Feb 16(Sat),1:00 PM,Virginia Tech,,Dean E. Smith Center,"W, 92-53",92,53,20890.0
+2007-08,27,Feb 20(Wed),7:00 PM,NC State,,Lenovo Center,"W, 84-70",84,70,19700.0
+2007-08,28,Feb 24(Sun),6:30 PM,Wake Forest,,Dean E. Smith Center,"W, 89-73",89,73,21004.0
+2007-08,29,Mar 1(Sat),3:30 PM,Boston College,,Conte Forum,"W, 90-80",90,80,8606.0
+2007-08,30,Mar 4(Tue),8:00 PM,Florida State,,Dean E. Smith Center,"W, 90-77",90,77,20520.0
+2007-08,31,Mar 8(Sat),9:00 PM,Duke,,Cameron Indoor Stadium,"W, 76-68",76,68,9314.0
+2007-08,32,Mar 14(Fri),12:00 PM,Florida State,ACC Tournament,Spectrum Center,"W, 82-70",82,70,20035.0
+2007-08,33,Mar 15(Sat),1:30 PM,Virginia Tech,ACC Tournament,Spectrum Center,"W, 68-66",68,66,20035.0
+2007-08,34,Mar 16(Sun),1:00 PM,Clemson,ACC Tournament,Spectrum Center,"W, 86-81",86,81,20035.0
+2007-08,35,Mar 21(Fri),7:10 PM,Mount St. Mary's,NCAA Tournament,Lenovo Center,"W, 113-74",113,74,19477.0
+2007-08,36,Mar 23(Sun),5:20 PM,Arkansas,NCAA Tournament,Lenovo Center,"W, 108-77",108,77,19477.0
+2007-08,37,Mar 27(Thu),7:27 PM,Washington State,NCAA Tournament,Spectrum Center,"W, 68-47",68,47,19092.0
+2007-08,38,Mar 29(Sat),9:05 PM,Louisville,NCAA Tournament,Spectrum Center,"W, 83-73",83,73,19092.0
+2007-08,39,Apr 5(Sat),8:47 PM,Kansas,NCAA Tournament,AT&T Center,"L, 66-84",66,84,43718.0
+2008-09,1,Nov 15(Sat),4:00 PM,Penn,,Dean E. Smith Center,"W, 86-71",86,71,19623.0
+2008-09,2,Nov 18(Tue),9:00 PM,Kentucky,,Dean E. Smith Center,"W, 77-58",77,58,21538.0
+2008-09,3,Nov 21(Fri),10:00 PM,UC Santa Barbara,,Thunderdome,"W, 84-67",84,67,6000.0
+2008-09,4,Nov 24(Mon),9:30 PM,Chaminade,Maui Invitational,Lahaina Civic Center,"W, 115-70",115,70,2500.0
+2008-09,5,Nov 25(Tue),9:30 PM,Oregon,Maui Invitational,Lahaina Civic Center,"W, 98-69",98,69,2500.0
+2008-09,6,Nov 26(Wed),10:00 PM,Notre Dame,Maui Invitational,Lahaina Civic Center,"W, 102-87",102,87,2500.0
+2008-09,7,Nov 30(Sun),6:30 PM,UNC Asheville,,Dean E. Smith Center,"W, 116-48",116,48,18054.0
+2008-09,8,Dec 3(Wed),9:15 PM,Michigan State,ACC/Big Ten Challenge,Ford Field,"W, 98-63",98,63,25267.0
+2008-09,9,Dec 13(Sat),6:00 PM,Oral Roberts,,Dean E. Smith Center,"W, 100-84",100,84,21269.0
+2008-09,10,Dec 18(Thu),7:00 PM,Evansville,,Dean E. Smith Center,"W, 91-73",91,73,21291.0
+2008-09,11,Dec 20(Sat),2:00 PM,Valparaiso,CBE Hall of Fame Classic,United Center,"W, 85-63",85,63,10645.0
+2008-09,12,Dec 28(Sun),7:45 PM,Rutgers,,Dean E. Smith Center,"W, 97-75",97,75,21750.0
+2008-09,13,Dec 31(Wed),10:00 PM,Nevada,,Lawlor Events Center,"W, 84-61",84,61,10526.0
+2008-09,14,Jan 4(Sun),5:30 PM,Boston College,,Dean E. Smith Center,"L, 78-85",78,85,21750.0
+2008-09,15,Jan 7(Wed),9:00 PM,College of Charleston,,Dean E. Smith Center,"W, 108-70",108,70,20543.0
+2008-09,16,Jan 11(Sun),8:00 PM,Wake Forest,,Lawrence Joel Veterans Memorial Coliseum,"L, 89-92",89,92,14714.0
+2008-09,17,Jan 15(Thu),9:00 PM,Virginia,,John Paul Jones Arena,"W, 83-61",83,61,13811.0
+2008-09,18,Jan 17(Sat),9:00 PM,Miami,,Dean E. Smith Center,"W, 82-65",82,65,21750.0
+2008-09,19,Jan 21(Wed),9:00 PM,Clemson,,Dean E. Smith Center,"W, 94-70",94,70,21750.0
+2008-09,20,Jan 28(Wed),9:00 PM,Florida State,,Donald L. Tucker Civic Center,"W, 80-77",80,77,11333.0
+2008-09,21,Jan 31(Sat),3:30 PM,NC State,,Lenovo Center,"W, 93-76",93,76,19700.0
+2008-09,22,Feb 3(Tue),8:00 PM,Maryland,,Dean E. Smith Center,"W, 108-91",108,91,20863.0
+2008-09,23,Feb 7(Sat),4:00 PM,Virginia,,Dean E. Smith Center,"W, 76-61",76,61,20879.0
+2008-09,24,Feb 11(Wed),9:00 PM,Duke,,Cameron Indoor Stadium,"W, 101-87",101,87,9314.0
+2008-09,25,Feb 15(Sun),7:45 PM,Miami,,Watsco Center,"W, 69-65",69,65,7200.0
+2008-09,26,Feb 18(Wed),8:00 PM,NC State,,Dean E. Smith Center,"W, 89-80",89,80,21750.0
+2008-09,27,Feb 21(Sat),3:30 PM,Maryland,,Xfinity Center,"L, 85-88",85,88,17950.0
+2008-09,28,Feb 28(Sat),12:00 PM,Georgia Tech,,Dean E. Smith Center,"W, 104-74",104,74,20959.0
+2008-09,29,Mar 4(Wed),7:00 PM,Virginia Tech,,Cassell Coliseum,"W, 86-78",86,78,9847.0
+2008-09,30,Mar 8(Sun),4:00 PM,Duke,,Dean E. Smith Center,"W, 79-71",79,71,21750.0
+2008-09,31,Mar 13(Fri),12:00 PM,Virginia Tech,ACC Tournament,McCamish Pavilion,"W, 79-76",79,76,26352.0
+2008-09,32,Mar 14(Sat),1:30 PM,Florida State,ACC Tournament,McCamish Pavilion,"L, 70-73",70,73,26352.0
+2008-09,33,Mar 19(Thu),2:50 PM,Radford,NCAA Tournament,Greensboro Coliseum,"W, 101-58",101,58,20226.0
+2008-09,34,Mar 21(Sat),5:45 PM,LSU,NCAA Tournament,Greensboro Coliseum,"W, 84-70",84,70,22479.0
+2008-09,35,Mar 27(Fri),9:57 PM,Gonzaga,NCAA Tournament,FedExForum,"W, 98-77",98,77,17103.0
+2008-09,36,Mar 29(Sun),5:05 PM,Oklahoma,NCAA Tournament,FedExForum,"W, 72-60",72,60,17025.0
+2008-09,37,Apr 4(Sat),8:47 PM,Villanova,,Ford Field,"W, 83-69",83,69,72456.0
+2008-09,38,Apr 6(Mon),9:21 PM,Michigan State,,Ford Field,"W, 89-72",89,72,72922.0
+2009-10,1,Nov 9(Mon),7:00 PM,Florida International,,Dean E. Smith Center,"W, 88-72",88,72,16161.0
+2009-10,2,Nov 11(Wed),9:00 PM,NC Central,,Dean E. Smith Center,"W, 89-42",89,42,14576.0
+2009-10,3,Nov 15(Sun),4:00 PM,Valparaiso,,Dean E. Smith Center,"W, 88-77",88,77,17020.0
+2009-10,4,Nov 19(Thu),9:15 PM,Ohio State,Preseason NIT,Madison Square Garden,"W, 77-73",77,73,15635.0
+2009-10,5,Nov 20(Fri),7:00 PM,Syracuse,Preseason NIT,Madison Square Garden,"L, 71-87",71,87,15552.0
+2009-10,6,Nov 23(Mon),7:30 PM,Gardner-Webb,,Dean E. Smith Center,"W, 93-72",93,72,17005.0
+2009-10,7,Nov 29(Sun),6:45 PM,Nevada,,Dean E. Smith Center,"W, 80-73",80,73,17321.0
+2009-10,8,Dec 1(Tue),9:00 PM,Michigan State,,Dean E. Smith Center,"W, 89-82",89,82,21346.0
+2009-10,9,Dec 5(Sat),12:30 PM,Kentucky,,Rupp Arena,"L, 66-68",66,68,24468.0
+2009-10,10,Dec 12(Sat),7:30 PM,Presbyterian,,Dean E. Smith Center,"W, 103-64",103,64,18596.0
+2009-10,11,Dec 19(Sat),2:00 PM,Texas,,AT&T Stadium,"L, 90-103",90,103,38052.0
+2009-10,12,Dec 22(Tue),7:00 PM,Marshall,,Dean E. Smith Center,"W, 98-61",98,61,18842.0
+2009-10,13,Dec 28(Mon),8:30 PM,Rutgers,,Dean E. Smith Center,"W, 81-67",81,67,21023.0
+2009-10,14,Dec 30(Wed),7:00 PM,Albany,,Dean E. Smith Center,"W, 87-70",87,70,19225.0
+2009-10,15,Jan 4(Mon),7:00 PM,College of Charleston,,TD Arena,"L, 79-82",79,82,5072.0
+2009-10,16,Jan 10(Sun),7:45 PM,Virginia Tech,,Dean E. Smith Center,"W, 78-64",78,64,20581.0
+2009-10,17,Jan 13(Wed),9:00 PM,Clemson,,Littlejohn Coliseum,"L, 64-83",64,83,10000.0
+2009-10,18,Jan 16(Sat),2:00 PM,Georgia Tech,,Dean E. Smith Center,"L, 71-73",71,73,20704.0
+2009-10,19,Jan 20(Wed),7:00 PM,Wake Forest,,Dean E. Smith Center,"L, 69-82",69,82,20235.0
+2009-10,20,Jan 26(Tue),9:00 PM,NC State,,Lenovo Center,"W, 77-63",77,63,19700.0
+2009-10,21,Jan 31(Sun),7:45 PM,Virginia,,Dean E. Smith Center,"L, 60-75",60,75,14437.0
+2009-10,22,Feb 4(Thu),9:00 PM,Virginia Tech,,Cassell Coliseum,"L, 70-74",70,74,9847.0
+2009-10,23,Feb 7(Sun),2:00 PM,Maryland,,Xfinity Center,"L, 71-92",71,92,17950.0
+2009-10,24,Feb 10(Wed),9:00 PM,Duke,,Dean E. Smith Center,"L, 54-64",54,64,21750.0
+2009-10,25,Feb 13(Sat),4:00 PM,NC State,,Dean E. Smith Center,"W, 74-61",74,61,19786.0
+2009-10,26,Feb 16(Tue),9:00 PM,Georgia Tech,,McCamish Pavilion,"L, 51-68",51,68,9191.0
+2009-10,27,Feb 20(Sat),12:00 PM,Boston College,,Conte Forum,"L, 67-71",67,71,8128.0
+2009-10,28,Feb 24(Wed),7:00 PM,Florida State,,Dean E. Smith Center,"L, 67-77",67,77,15779.0
+2009-10,29,Feb 27(Sat),2:00 PM,Wake Forest,,Lawrence Joel Veterans Memorial Coliseum,"W, 77-68",77,68,14510.0
+2009-10,30,Mar 2(Tue),8:00 PM,Miami,,Dean E. Smith Center,"W, 69-62",69,62,16725.0
+2009-10,31,Mar 6(Sat),9:00 PM,Duke,,Cameron Indoor Stadium,"L, 50-82",50,82,9314.0
+2009-10,32,Mar 11(Thu),7:00 PM,Georgia Tech,ACC Tournament,Greensboro Coliseum,"L, 58-62",58,62,
+2009-10,33,Mar 16(Tue),9:30 PM,William & Mary,NIT,Dean E. Smith Center,"W, 80-72",80,72,6822.0
+2009-10,34,Mar 20(Sat),12:00 PM,Mississippi State,NIT,Humphrey Coliseum,"W, 76-74",76,74,9471.0
+2009-10,35,Mar 23(Tue),9:00 PM,UAB,NIT,Bartow Arena,"W, 60-55",60,55,8889.0
+2009-10,36,Mar 30(Tue),9:00 PM,Rhode Island,NIT,Madison Square Garden,"W, 68-67",68,67,11689.0
+2009-10,37,Apr 1(Thu),7:00 PM,Dayton,NIT,Madison Square Garden,"L, 68-79",68,79,9827.0
+2010-11,1,Nov 12(Fri),7:00 PM,Lipscomb,,Dean E. Smith Center,"W, 80-66",80,66,16432.0
+2010-11,2,Nov 18(Thu),5:00 PM,Hofstra,Puerto Rico Tip-Off,Coliseo Roberto Clemente,"W, 107-63",107,63,
+2010-11,3,Nov 19(Fri),8:30 PM,Minnesota,Puerto Rico Tip-Off,Coliseo Roberto Clemente,"L, 67-72",67,72,10127.0
+2010-11,4,Nov 21(Sun),5:30 PM,Vanderbilt,Puerto Rico Tip-Off,Coliseo Roberto Clemente,"L, 65-72",65,72,
+2010-11,5,Nov 23(Tue),7:00 PM,UNC Asheville,,Dean E. Smith Center,"W, 80-69",80,69,14428.0
+2010-11,6,Nov 28(Sun),5:30 PM,College of Charleston,,Dean E. Smith Center,"W, 74-69",74,69,15932.0
+2010-11,7,Nov 30(Tue),9:30 PM,Illinois,ACC/Big Ten Challenge,State Farm Center,"L, 67-79",67,79,16618.0
+2010-11,8,Dec 4(Sat),12:30 PM,Kentucky,,Dean E. Smith Center,"W, 75-73",75,73,20695.0
+2010-11,9,Dec 8(Wed),7:00 PM,Evansville,,Roberts Stadium,"W, 76-49",76,49,12116.0
+2010-11,10,Dec 11(Sat),7:00 PM,Long Beach State,,Dean E. Smith Center,"W, 96-91",96,91,16571.0
+2010-11,11,Dec 18(Sat),4:00 PM,Texas,,Greensboro Coliseum,"L, 76-78",76,78,20787.0
+2010-11,12,Dec 21(Tue),7:00 PM,William & Mary,,Dean E. Smith Center,"W, 85-60",85,60,17357.0
+2010-11,13,Dec 28(Tue),9:00 PM,Rutgers,,Madison Square Garden,"W, 78-55",78,55,9401.0
+2010-11,14,Jan 2(Sun),3:30 PM,Saint Francis,,Dean E. Smith Center,"W, 103-54",103,54,17613.0
+2010-11,15,Jan 8(Sat),12:00 PM,Virginia,,John Paul Jones Arena,"W, 62-56",62,56,14231.0
+2010-11,16,Jan 13(Thu),9:00 PM,Virginia Tech,,Dean E. Smith Center,"W, 64-61",64,61,21089.0
+2010-11,17,Jan 16(Sun),7:45 PM,Georgia Tech,,McCamish Pavilion,"L, 58-78",58,78,8125.0
+2010-11,18,Jan 18(Tue),8:00 PM,Clemson,,Dean E. Smith Center,"W, 75-65",75,65,20352.0
+2010-11,19,Jan 26(Wed),7:30 PM,Miami,,Watsco Center,"W, 74-71",74,71,6026.0
+2010-11,20,Jan 29(Sat),2:00 PM,NC State,,Dean E. Smith Center,"W, 84-64",84,64,21750.0
+2010-11,21,Feb 1(Tue),9:00 PM,Boston College,,Conte Forum,"W, 106-74",106,74,7883.0
+2010-11,22,Feb 6(Sun),2:00 PM,Florida State,,Dean E. Smith Center,"W, 89-69",89,69,20945.0
+2010-11,23,Feb 9(Wed),9:00 PM,Duke,,Cameron Indoor Stadium,"L, 73-79",73,79,9314.0
+2010-11,24,Feb 12(Sat),1:00 PM,Clemson,,Littlejohn Coliseum,"W, 64-62",64,62,10000.0
+2010-11,25,Feb 15(Tue),8:00 PM,Wake Forest,,Dean E. Smith Center,"W, 78-64",78,64,20229.0
+2010-11,26,Feb 19(Sat),4:00 PM,Boston College,,Dean E. Smith Center,"W, 48-46",48,46,21159.0
+2010-11,27,Feb 23(Wed),9:00 PM,NC State,,Lenovo Center,"W, 75-63",75,63,19700.0
+2010-11,28,Feb 27(Sun),7:45 PM,Maryland,,Dean E. Smith Center,"W, 87-76",87,76,20853.0
+2010-11,29,Mar 2(Wed),7:00 PM,Florida State,,Donald L. Tucker Civic Center,"W, 72-70",72,70,12030.0
+2010-11,30,Mar 5(Sat),8:00 PM,Duke,,Dean E. Smith Center,"W, 81-67",81,67,21750.0
+2010-11,31,Mar 11(Fri),12:00 PM,Miami,ACC Tournament,Greensboro Coliseum,"W, 61-59",61,59,23381.0
+2010-11,32,Mar 12(Sat),1:00 PM,Clemson,ACC Tournament,Greensboro Coliseum,"W, 92-87",92,87,23381.0
+2010-11,33,Mar 13(Sun),1:00 PM,Duke,ACC Tournament,Greensboro Coliseum,"L, 58-75",58,75,23381.0
+2010-11,34,Mar 18(Fri),7:15 PM,LIU,NCAA Tournament,Spectrum Center,"W, 102-87",102,87,
+2010-11,35,Mar 20(Sun),12:15 PM,Washington,NCAA Tournament,Spectrum Center,"W, 86-83",86,83,
+2010-11,36,Mar 25(Fri),7:15 PM,Marquette,NCAA Tournament,Prudential Center,"W, 81-63",81,63,
+2010-11,37,Mar 27(Sun),4:55 PM,Kentucky,NCAA Tournament,Prudential Center,"L, 69-76",69,76,18278.0
+2011-12,1,Nov 11(Fri),7:00 PM,Michigan State,Carrier Classic,Pechanga Arena San Diego,"W, 67-55",67,55,8111.0
+2011-12,2,Nov 13(Sun),4:00 PM,UNC Asheville,,Harrah's Cherokee Center,"W, 91-75",91,75,3280.0
+2011-12,3,Nov 20(Sun),2:00 PM,Mississippi Valley State,,Dean E. Smith Center,"W, 101-75",101,75,18160.0
+2011-12,4,Nov 22(Tue),7:30 PM,Tennessee State,,Dean E. Smith Center,"W, 102-69",102,69,17509.0
+2011-12,5,Nov 25(Fri),10:00 PM,South Carolina,Las Vegas Invitational,Thomas & Mack Center,"W, 87-62",87,62,
+2011-12,6,Nov 26(Sat),10:30 PM,Nevada-Las Vegas,Las Vegas Invitational,Thomas & Mack Center,"L, 80-90",80,90,7523.0
+2011-12,7,Nov 30(Wed),9:30 PM,Wisconsin,,Dean E. Smith Center,"W, 60-57",60,57,21750.0
+2011-12,8,Dec 3(Sat),12:00 PM,Kentucky,,Rupp Arena,"L, 72-73",72,73,24398.0
+2011-12,9,Dec 6(Tue),7:00 PM,Evansville,,Dean E. Smith Center,"W, 97-48",97,48,15623.0
+2011-12,10,Dec 10(Sat),7:00 PM,Long Beach State,,Dean E. Smith Center,"W, 84-78",84,78,20426.0
+2011-12,11,Dec 17(Sat),6:00 PM,Appalachian State,,Dean E. Smith Center,"W, 97-82",97,82,20892.0
+2011-12,12,Dec 19(Mon),7:00 PM,Nicholls State,,Dean E. Smith Center,"W, 99-49",99,49,18072.0
+2011-12,13,Dec 21(Wed),7:00 PM,Texas,,Dean E. Smith Center,"W, 82-63",82,63,21750.0
+2011-12,14,Dec 29(Thu),7:00 PM,Elon,,Dean E. Smith Center,"W, 100-62",100,62,20880.0
+2011-12,15,Jan 1(Sun),3:00 PM,Monmouth,,Dean E. Smith Center,"W, 102-65",102,65,18614.0
+2011-12,16,Jan 7(Sat),2:30 PM,Boston College,,Dean E. Smith Center,"W, 83-60",83,60,20582.0
+2011-12,17,Jan 10(Tue),9:00 PM,Miami,,Dean E. Smith Center,"W, 73-56",73,56,20096.0
+2011-12,18,Jan 14(Sat),2:00 PM,Florida State,,Donald L. Tucker Civic Center,"L, 57-90",57,90,12100.0
+2011-12,19,Jan 19(Thu),9:00 PM,Virginia Tech,,Cassell Coliseum,"W, 82-68",82,68,9847.0
+2011-12,20,Jan 26(Thu),7:00 PM,NC State,,Dean E. Smith Center,"W, 74-55",74,55,21750.0
+2011-12,21,Jan 29(Sun),6:00 PM,Georgia Tech,,Dean E. Smith Center,"W, 93-81",93,81,21017.0
+2011-12,22,Jan 31(Tue),9:00 PM,Wake Forest,,Lawrence Joel Veterans Memorial Coliseum,"W, 68-53",68,53,12865.0
+2011-12,23,Feb 4(Sat),4:00 PM,Maryland,,Xfinity Center,"W, 83-74",83,74,17950.0
+2011-12,24,Feb 8(Wed),9:00 PM,Duke,,Dean E. Smith Center,"L, 84-85",84,85,21750.0
+2011-12,25,Feb 11(Sat),1:00 PM,Virginia,,Dean E. Smith Center,"W, 70-52",70,52,20496.0
+2011-12,26,Feb 15(Wed),8:00 PM,Miami,,Watsco Center,"W, 73-64",73,64,7071.0
+2011-12,27,Feb 18(Sat),4:00 PM,Clemson,,Dean E. Smith Center,"W, 74-52",74,52,21750.0
+2011-12,28,Feb 21(Tue),8:00 PM,NC State,,Lenovo Center,"W, 86-74",86,74,19710.0
+2011-12,29,Feb 25(Sat),4:00 PM,Virginia,,John Paul Jones Arena,"W, 54-51",54,51,14273.0
+2011-12,30,Feb 29(Wed),7:00 PM,Maryland,,Dean E. Smith Center,"W, 88-64",88,64,21750.0
+2011-12,31,Mar 3(Sat),7:00 PM,Duke,,Cameron Indoor Stadium,"W, 88-70",88,70,9314.0
+2011-12,32,Mar 9(Fri),12:00 PM,Maryland,ACC Tournament,McCamish Pavilion,"W, 85-69",85,69,19520.0
+2011-12,33,Mar 10(Sat),1:00 PM,NC State,ACC Tournament,McCamish Pavilion,"W, 69-67",69,67,19520.0
+2011-12,34,Mar 11(Sun),1:00 PM,Florida State,ACC Tournament,McCamish Pavilion,"L, 82-85",82,85,19520.0
+2011-12,35,Mar 16(Fri),4:10 PM,Vermont,NCAA Tournament,Greensboro Coliseum,"W, 77-58",77,58,16422.0
+2011-12,36,Mar 18(Sun),5:15 PM,Creighton,NCAA Tournament,Greensboro Coliseum,"W, 87-73",87,73,
+2011-12,37,Mar 23(Fri),7:47 PM,Ohio,NCAA Tournament,Dome at America's Center,"W, 73-65",73,65,
+2011-12,38,Mar 25(Sun),5:05 PM,Kansas,NCAA Tournament,Dome at America's Center,"L, 67-80",67,80,24107.0
+2012-13,1,Nov 9(Fri),7:00 PM,Gardner-Webb,,Dean E. Smith Center,"W, 76-59",76,59,16430.0
+2012-13,2,Nov 11(Sun),2:30 PM,Florida Atlantic,,Dean E. Smith Center,"W, 80-56",80,56,15403.0
+2012-13,3,Nov 16(Fri),11:00 PM,Long Beach State,,Walter Pyramid,"W, 78-63",78,63,6912.0
+2012-13,4,Nov 19(Mon),6:00 PM,Mississippi State,Maui Invitational,Lahaina Civic Center,"W, 95-49",95,49,2400.0
+2012-13,5,Nov 20(Tue),8:00 PM,Butler,Maui Invitational,Lahaina Civic Center,"L, 71-82",71,82,2400.0
+2012-13,6,Nov 21(Wed),7:30 PM,Chaminade,Maui Invitational,Lahaina Civic Center,"W, 112-70",112,70,2400.0
+2012-13,7,Nov 27(Tue),9:30 PM,Indiana,ACC/Big Ten Challenge,Simon Skjodt Assembly Hall,"L, 59-83",59,83,17472.0
+2012-13,8,Dec 1(Sat),6:00 PM,UAB,,Dean E. Smith Center,"W, 102-84",102,84,15906.0
+2012-13,9,Dec 8(Sat),7:30 PM,East Tennessee State,,Dean E. Smith Center,"W, 78-55",78,55,17307.0
+2012-13,10,Dec 15(Sat),12:00 PM,East Carolina,,Dean E. Smith Center,"W, 93-87",93,87,19147.0
+2012-13,11,Dec 19(Wed),9:00 PM,Texas,,Frank Erwin Center,"L, 67-85",67,85,13134.0
+2012-13,12,Dec 22(Sat),12:00 PM,McNeese State,,Dean E. Smith Center,"W, 97-63",97,63,18258.0
+2012-13,13,Dec 29(Sat),2:00 PM,Nevada-Las Vegas,,Dean E. Smith Center,"W, 79-73",79,73,20888.0
+2012-13,14,Jan 6(Sun),8:00 PM,Virginia,,John Paul Jones Arena,"L, 52-61",52,61,12117.0
+2012-13,15,Jan 10(Thu),7:00 PM,Miami,,Dean E. Smith Center,"L, 59-68",59,68,20516.0
+2012-13,16,Jan 12(Sat),2:00 PM,Florida State,,Donald L. Tucker Civic Center,"W, 77-72",77,72,12060.0
+2012-13,17,Jan 19(Sat),12:00 PM,Maryland,,Dean E. Smith Center,"W, 62-52",62,52,20865.0
+2012-13,18,Jan 23(Wed),9:00 PM,Georgia Tech,,Dean E. Smith Center,"W, 79-63",79,63,19124.0
+2012-13,19,Jan 26(Sat),7:00 PM,NC State,,Lenovo Center,"L, 83-91",83,91,19577.0
+2012-13,20,Jan 29(Tue),9:00 PM,Boston College,,Conte Forum,"W, 82-70",82,70,7062.0
+2012-13,21,Feb 2(Sat),12:00 PM,Virginia Tech,,Dean E. Smith Center,"W, 72-60",72,60,20762.0
+2012-13,22,Feb 5(Tue),7:00 PM,Wake Forest,,Dean E. Smith Center,"W, 87-62",87,62,19653.0
+2012-13,23,Feb 9(Sat),2:00 PM,Miami,,Watsco Center,"L, 61-87",61,87,7972.0
+2012-13,24,Feb 13(Wed),9:00 PM,Duke,,Cameron Indoor Stadium,"L, 68-73",68,73,9314.0
+2012-13,25,Feb 16(Sat),12:00 PM,Virginia,,Dean E. Smith Center,"W, 93-81",93,81,20616.0
+2012-13,26,Feb 19(Tue),9:00 PM,Georgia Tech,,McCamish Pavilion,"W, 70-58",70,58,8600.0
+2012-13,27,Feb 23(Sat),4:00 PM,NC State,,Dean E. Smith Center,"W, 76-65",76,65,21750.0
+2012-13,28,Feb 28(Thu),7:00 PM,Clemson,,Littlejohn Coliseum,"W, 68-59",68,59,9778.0
+2012-13,29,Mar 3(Sun),2:00 PM,Florida State,,Dean E. Smith Center,"W, 79-58",79,58,21228.0
+2012-13,30,Mar 6(Wed),7:00 PM,Maryland,,Xfinity Center,"W, 79-68",79,68,16897.0
+2012-13,31,Mar 9(Sat),9:00 PM,Duke,,Dean E. Smith Center,"L, 53-69",53,69,21750.0
+2012-13,32,Mar 15(Fri),9:30 PM,Florida State,ACC Tournament,Greensboro Coliseum,"W, 83-62",83,62,
+2012-13,33,Mar 16(Sat),3:00 PM,Maryland,ACC Tournament,Greensboro Coliseum,"W, 79-76",79,76,22169.0
+2012-13,34,Mar 17(Sun),1:00 PM,Miami,ACC Tournament,Greensboro Coliseum,"L, 77-87",77,87,22169.0
+2012-13,35,Mar 22(Fri),7:20 PM,Villanova,NCAA Tournament,T-Mobile Center,"W, 78-71",78,71,
+2012-13,36,Mar 24(Sun),5:15 PM,Kansas,NCAA Tournament,T-Mobile Center,"L, 58-70",58,70,
+2013-14,1,Nov 8(Fri),9:00 PM,Oakland,,Dean E. Smith Center,"W, 84-61",84,61,15102.0
+2013-14,2,Nov 15(Fri),8:00 PM,Holy Cross,Hall of Fame Tipoff Tournament,Dean E. Smith Center,"W, 62-54",62,54,
+2013-14,3,Nov 17(Sun),4:00 PM,Belmont,Hall of Fame Tipoff Tournament,Dean E. Smith Center,"L, 80-83",80,83,15205.0
+2013-14,4,Nov 23(Sat),12:00 PM,Richmond,Hall of Fame Tipoff Tournament,Mohegan Sun Arena,"W, 82-72",82,72,8113.0
+2013-14,5,Nov 24(Sun),1:00 PM,Louisville,Hall of Fame Tipoff Tournament,Mohegan Sun Arena,"W, 93-84",93,84,
+2013-14,6,Dec 1(Sun),6:00 PM,UAB,,Bartow Arena,"L, 59-63",59,63,8313.0
+2013-14,7,Dec 4(Wed),9:00 PM,Michigan State,ACC/Big Ten Challenge,Breslin Center,"W, 79-65",79,65,14797.0
+2013-14,8,Dec 7(Sat),7:00 PM,UNC Greensboro,,Dean E. Smith Center,"W, 81-50",81,50,15676.0
+2013-14,9,Dec 14(Sat),5:15 PM,Kentucky,,Dean E. Smith Center,"W, 82-77",82,77,21750.0
+2013-14,10,Dec 18(Wed),7:00 PM,Texas,,Dean E. Smith Center,"L, 83-86",83,86,17143.0
+2013-14,11,Dec 21(Sat),5:00 PM,Davidson,,Dean E. Smith Center,"W, 97-85",97,85,18195.0
+2013-14,12,Dec 27(Fri),7:00 PM,Northern Kentucky,,Dean E. Smith Center,"W, 75-60",75,60,18842.0
+2013-14,13,Dec 31(Tue),5:00 PM,UNC Wilmington,,Dean E. Smith Center,"W, 84-51",84,51,16923.0
+2013-14,14,Jan 5(Sun),8:00 PM,Wake Forest,,Lawrence Joel Veterans Memorial Coliseum,"L, 67-73",67,73,12462.0
+2013-14,15,Jan 8(Wed),9:00 PM,Miami,,Dean E. Smith Center,"L, 57-63",57,63,17569.0
+2013-14,16,Jan 11(Sat),12:00 PM,Syracuse,,JMA Wireless Dome,"L, 45-57",45,57,32121.0
+2013-14,17,Jan 18(Sat),12:00 PM,Boston College,,Dean E. Smith Center,"W, 82-71",82,71,18115.0
+2013-14,18,Jan 20(Mon),7:00 PM,Virginia,,John Paul Jones Arena,"L, 61-76",61,76,13045.0
+2013-14,19,Jan 26(Sun),6:00 PM,Clemson,,Dean E. Smith Center,"W, 80-61",80,61,18616.0
+2013-14,20,Jan 29(Wed),7:00 PM,Georgia Tech,,McCamish Pavilion,"W, 78-65",78,65,5124.0
+2013-14,21,Feb 1(Sat),1:00 PM,NC State,,Dean E. Smith Center,"W, 84-70",84,70,21750.0
+2013-14,22,Feb 4(Tue),8:00 PM,Maryland,,Dean E. Smith Center,"W, 75-63",75,63,17225.0
+2013-14,23,Feb 8(Sat),12:00 PM,Notre Dame,,Purcell Pavilion,"W, 73-62",73,62,9149.0
+2013-14,24,Feb 15(Sat),1:00 PM,Pittsburgh,,Dean E. Smith Center,"W, 75-71",75,71,20341.0
+2013-14,25,Feb 17(Mon),7:00 PM,Florida State,,Donald L. Tucker Civic Center,"W, 81-75",81,75,7814.0
+2013-14,26,Feb 20(Thu),9:00 PM,Duke,,Dean E. Smith Center,"W, 74-66",74,66,21750.0
+2013-14,27,Feb 22(Sat),12:00 PM,Wake Forest,,Dean E. Smith Center,"W, 105-72",105,72,19248.0
+2013-14,28,Feb 26(Wed),8:00 PM,NC State,,Lenovo Center,"W, 85-84",85,84,19500.0
+2013-14,29,Mar 1(Sat),2:30 PM,Virginia Tech,,Cassell Coliseum,"W, 60-56",60,56,6546.0
+2013-14,30,Mar 3(Mon),7:00 PM,Notre Dame,,Dean E. Smith Center,"W, 63-61",63,61,15175.0
+2013-14,31,Mar 8(Sat),9:00 PM,Duke,,Cameron Indoor Stadium,"L, 81-93",81,93,9314.0
+2013-14,32,Mar 14(Fri),2:30 PM,Pittsburgh,ACC Tournament,Greensboro Coliseum,"L, 75-80",75,80,21533.0
+2013-14,33,Mar 21(Fri),7:20 PM,Providence,NCAA Tournament,AT&T Center,"W, 79-77",79,77,
+2013-14,34,Mar 23(Sun),5:15 PM,Iowa State,NCAA Tournament,AT&T Center,"L, 83-85",83,85,
+2014-15,1,Nov 14(Fri),8:00 PM,NC Central,,Dean E. Smith Center,"W, 76-60",76,60,17338.0
+2014-15,2,Nov 16(Sun),6:00 PM,Robert Morris,Battle 4 Atlantis,Dean E. Smith Center,"W, 103-59",103,59,13579.0
+2014-15,3,Nov 22(Sat),2:00 PM,Davidson,,Spectrum Center,"W, 90-72",90,72,11113.0
+2014-15,4,Nov 26(Wed),12:00 PM,Butler,Battle 4 Atlantis,Imperial Arena,"L, 66-74",66,74,3136.0
+2014-15,5,Nov 27(Thu),7:00 PM,UCLA,Battle 4 Atlantis,Imperial Arena,"W, 78-56",78,56,2940.0
+2014-15,6,Nov 28(Fri),8:00 PM,Florida,Battle 4 Atlantis,Imperial Arena,"W, 75-64",75,64,3298.0
+2014-15,7,Dec 3(Wed),7:30 PM,Iowa,ACC/Big Ten Challenge,Dean E. Smith Center,"L, 55-60",55,60,18040.0
+2014-15,8,Dec 7(Sun),3:00 PM,East Carolina,,Dean E. Smith Center,"W, 108-64",108,64,18741.0
+2014-15,9,Dec 13(Sat),12:00 PM,Kentucky,,Rupp Arena,"L, 70-84",70,84,24406.0
+2014-15,10,Dec 16(Tue),7:00 PM,UNC Greensboro,,Greensboro Coliseum,"W, 79-56",79,56,11108.0
+2014-15,11,Dec 20(Sat),1:00 PM,Ohio State,CBS Sports Classic,United Center,"W, 82-74",82,74,
+2014-15,12,Dec 27(Sat),4:00 PM,UAB,,Dean E. Smith Center,"W, 89-58",89,58,19124.0
+2014-15,13,Dec 30(Tue),7:00 PM,William & Mary,,Dean E. Smith Center,"W, 86-64",86,64,20053.0
+2014-15,14,Jan 3(Sat),8:15 PM,Clemson,,Littlejohn Coliseum,"W, 74-50",74,50,8404.0
+2014-15,15,Jan 5(Mon),7:00 PM,Notre Dame,,Dean E. Smith Center,"L, 70-71",70,71,20604.0
+2014-15,16,Jan 10(Sat),2:00 PM,Louisville,,Dean E. Smith Center,"W, 72-71",72,71,21750.0
+2014-15,17,Jan 14(Wed),7:00 PM,NC State,,Lenovo Center,"W, 81-79",81,79,19500.0
+2014-15,18,Jan 18(Sun),6:30 PM,Virginia Tech,,Dean E. Smith Center,"W, 68-53",68,53,19745.0
+2014-15,19,Jan 21(Wed),7:00 PM,Wake Forest,,Lawrence Joel Veterans Memorial Coliseum,"W, 87-71",87,71,13877.0
+2014-15,20,Jan 24(Sat),2:00 PM,Florida State,,Dean E. Smith Center,"W, 78-74",78,74,20512.0
+2014-15,21,Jan 26(Mon),7:00 PM,Syracuse,,Dean E. Smith Center,"W, 93-83",93,83,19856.0
+2014-15,22,Jan 31(Sat),4:00 PM,Louisville,,KFC Yum! Center,"L, 68-78",68,78,22418.0
+2014-15,23,Feb 2(Mon),7:00 PM,Virginia,,Dean E. Smith Center,"L, 64-75",64,75,20102.0
+2014-15,24,Feb 7(Sat),3:00 PM,Boston College,,Conte Forum,"W, 79-68",79,68,8263.0
+2014-15,25,Feb 14(Sat),12:00 PM,Pittsburgh,,Petersen Events Center,"L, 76-89",76,89,12508.0
+2014-15,26,Feb 18(Wed),9:00 PM,Duke,,Cameron Indoor Stadium,"L, 90-92",90,92,9314.0
+2014-15,27,Feb 21(Sat),12:00 PM,Georgia Tech,,Dean E. Smith Center,"W, 89-60",89,60,20779.0
+2014-15,28,Feb 24(Tue),8:00 PM,NC State,,Dean E. Smith Center,"L, 46-58",46,58,21750.0
+2014-15,29,Feb 28(Sat),2:00 PM,Miami,,Watsco Center,"W, 73-64",73,64,7972.0
+2014-15,30,Mar 3(Tue),7:00 PM,Georgia Tech,,McCamish Pavilion,"W, 81-49",81,49,6913.0
+2014-15,31,Mar 7(Sat),9:00 PM,Duke,,Dean E. Smith Center,"L, 77-84",77,84,21750.0
+2014-15,32,Mar 11(Wed),2:00 PM,Boston College,ACC Tournament,Greensboro Coliseum,"W, 81-63",81,63,22026.0
+2014-15,33,Mar 12(Thu),2:00 PM,Louisville,ACC Tournament,Greensboro Coliseum,"W, 70-60",70,60,22026.0
+2014-15,34,Mar 13(Fri),7:00 PM,Virginia,ACC Tournament,Greensboro Coliseum,"W, 71-67",71,67,22026.0
+2014-15,35,Mar 14(Sat),8:30 PM,Notre Dame,ACC Tournament,Greensboro Coliseum,"L, 82-90",82,90,22026.0
+2014-15,36,Mar 19(Thu),7:20 PM,Harvard,NCAA Tournament,VyStar Veterans Memorial Arena,"W, 67-65",67,65,
+2014-15,37,Mar 21(Sat),8:40 PM,Arkansas,NCAA Tournament,VyStar Veterans Memorial Arena,"W, 87-78",87,78,13687.0
+2014-15,38,Mar 26(Thu),7:47 PM,Wisconsin,NCAA Tournament,Pauley Pavilion,"L, 72-79",72,79,
+2015-16,1,Nov 13(Fri),7:00 PM,Temple,Veterans Classic,Alumni Hall,"W, 91-67",91,67,5710.0
+2015-16,2,Nov 15(Sun),4:00 PM,Fairfield,CBE Hall of Fame Classic,Dean E. Smith Center,"W, 92-65",92,65,13178.0
+2015-16,3,Nov 18(Wed),7:00 PM,Wofford,CBE Hall of Fame Classic,Dean E. Smith Center,"W, 78-58",78,58,12095.0
+2015-16,4,Nov 21(Sat),2:00 PM,Northern Iowa,,McLeod Center,"L, 67-71",67,71,7018.0
+2015-16,5,Nov 23(Mon),9:15 PM,Northwestern,CBE Hall of Fame Classic,T-Mobile Center,"W, 80-69",80,69,13598.0
+2015-16,6,Nov 24(Tue),10:00 PM,Kansas State,CBE Hall of Fame Classic,T-Mobile Center,"W, 80-70",80,70,13189.0
+2015-16,7,Dec 1(Tue),9:30 PM,Maryland,ACC/Big Ten Challenge,Dean E. Smith Center,"W, 89-81",89,81,21163.0
+2015-16,8,Dec 6(Sun),6:00 PM,Davidson,,Dean E. Smith Center,"W, 98-65",98,65,14805.0
+2015-16,9,Dec 12(Sat),5:15 PM,Texas,,Frank Erwin Center,"L, 82-84",82,84,16540.0
+2015-16,10,Dec 16(Wed),7:00 PM,Tulane,,Dean E. Smith Center,"W, 96-72",96,72,16199.0
+2015-16,11,Dec 19(Sat),1:00 PM,UCLA,CBS Sports Classic,Barclays Center,"W, 89-76",89,76,
+2015-16,12,Dec 21(Mon),7:00 PM,Appalachian State,,Dean E. Smith Center,"W, 94-70",94,70,18336.0
+2015-16,13,Dec 28(Mon),6:00 PM,UNC Greensboro,,Dean E. Smith Center,"W, 96-63",96,63,19246.0
+2015-16,14,Dec 30(Wed),7:00 PM,Clemson,,Dean E. Smith Center,"W, 80-69",80,69,17168.0
+2015-16,15,Jan 2(Sat),12:00 PM,Georgia Tech,,Dean E. Smith Center,"W, 86-78",86,78,17392.0
+2015-16,16,Jan 4(Mon),7:00 PM,Florida State,,Donald L. Tucker Civic Center,"W, 106-90",106,90,11095.0
+2015-16,17,Jan 9(Sat),8:00 PM,Syracuse,,JMA Wireless Dome,"W, 84-73",84,73,26811.0
+2015-16,18,Jan 16(Sat),12:00 PM,NC State,,Dean E. Smith Center,"W, 67-55",67,55,21750.0
+2015-16,19,Jan 20(Wed),7:00 PM,Wake Forest,,Dean E. Smith Center,"W, 83-68",83,68,19053.0
+2015-16,20,Jan 24(Sun),3:00 PM,Virginia Tech,,Cassell Coliseum,"W, 75-70",75,70,9567.0
+2015-16,21,Jan 30(Sat),4:00 PM,Boston College,,Dean E. Smith Center,"W, 89-62",89,62,20208.0
+2015-16,22,Feb 1(Mon),7:00 PM,Louisville,,KFC Yum! Center,"L, 65-71",65,71,22781.0
+2015-16,23,Feb 6(Sat),7:00 PM,Notre Dame,,Purcell Pavilion,"L, 76-80",76,80,9149.0
+2015-16,24,Feb 9(Tue),8:00 PM,Boston College,,Conte Forum,"W, 68-65",68,65,5126.0
+2015-16,25,Feb 14(Sun),1:00 PM,Pittsburgh,,Dean E. Smith Center,"W, 85-64",85,64,20011.0
+2015-16,26,Feb 17(Wed),9:00 PM,Duke,,Dean E. Smith Center,"L, 73-74",73,74,21750.0
+2015-16,27,Feb 20(Sat),1:00 PM,Miami,,Dean E. Smith Center,"W, 96-71",96,71,20151.0
+2015-16,28,Feb 24(Wed),8:00 PM,NC State,,Lenovo Center,"W, 80-68",80,68,19500.0
+2015-16,29,Feb 27(Sat),6:30 PM,Virginia,,John Paul Jones Arena,"L, 74-79",74,79,14593.0
+2015-16,30,Feb 29(Mon),7:00 PM,Syracuse,,Dean E. Smith Center,"W, 75-70",75,70,20714.0
+2015-16,31,Mar 5(Sat),6:30 PM,Duke,,Cameron Indoor Stadium,"W, 76-72",76,72,9314.0
+2015-16,32,Mar 10(Thu),12:00 PM,Pittsburgh,ACC Tournament,Capital One Arena,"W, 88-71",88,71,18561.0
+2015-16,33,Mar 11(Fri),7:00 PM,Notre Dame,ACC Tournament,Capital One Arena,"W, 78-47",78,47,20719.0
+2015-16,34,Mar 12(Sat),9:00 PM,Virginia,ACC Tournament,Capital One Arena,"W, 61-57",61,57,20719.0
+2015-16,35,Mar 17(Thu),7:20 PM,Florida Gulf Coast,NCAA Tournament,Lenovo Center,"W, 83-67",83,67,
+2015-16,36,Mar 19(Sat),9:40 PM,Providence,NCAA Tournament,Lenovo Center,"W, 85-66",85,66,19433.0
+2015-16,37,Mar 25(Fri),9:57 PM,Indiana,NCAA Tournament,Wells Fargo Center,"W, 101-86",101,86,20686.0
+2015-16,38,Mar 27(Sun),8:49 PM,Notre Dame,NCAA Tournament,Wells Fargo Center,"W, 88-74",88,74,20743.0
+2015-16,39,Apr 2(Sat),8:49 PM,Syracuse,NCAA Tournament,Toyota Center,"W, 83-66",83,66,75505.0
+2015-16,40,Apr 4(Mon),9:19 PM,Villanova,NCAA Tournament,Toyota Center,"L, 74-77",74,77,74340.0
+2016-17,1,Nov 11(Fri),9:00 PM,Tulane,,Smoothie King Center,"W, 95-75",95,75,6043.0
+2016-17,2,Nov 13(Sun),4:00 PM,Chattanooga,Maui Invitational,Dean E. Smith Center,"W, 97-57",97,57,13402.0
+2016-17,3,Nov 15(Tue),8:00 PM,Long Beach State,,Dean E. Smith Center,"W, 93-67",93,67,12581.0
+2016-17,4,Nov 18(Fri),1:00 PM,Hawai'i,,SimpliFi Arena at Stan Sheriff Center,"W, 83-68",83,68,10300.0
+2016-17,5,Nov 21(Mon),11:30 PM,Chaminade,Maui Invitational,Lahaina Civic Center,"W, 104-61",104,61,2400.0
+2016-17,6,Nov 22(Tue),10:30 PM,Oklahoma State,Maui Invitational,Lahaina Civic Center,"W, 107-75",107,75,2400.0
+2016-17,7,Nov 23(Wed),9:30 PM,Wisconsin,Maui Invitational,Lahaina Civic Center,"W, 71-56",71,56,2400.0
+2016-17,8,Nov 30(Wed),9:00 PM,Indiana,ACC/Big Ten Challenge,Simon Skjodt Assembly Hall,"L, 67-76",67,76,17222.0
+2016-17,9,Dec 4(Sun),2:00 PM,Radford,,Dean E. Smith Center,"W, 95-50",95,50,14230.0
+2016-17,10,Dec 7(Wed),9:00 PM,Davidson,,Dean E. Smith Center,"W, 83-74",83,74,13178.0
+2016-17,11,Dec 11(Sun),5:00 PM,Tennessee,,Dean E. Smith Center,"W, 73-71",73,71,18745.0
+2016-17,12,Dec 17(Sat),5:45 PM,Kentucky,CBS Sports Classic,T-Mobile Arena,"L, 100-103",100,103,19298.0
+2016-17,13,Dec 21(Wed),8:00 PM,Northern Iowa,,Dean E. Smith Center,"W, 85-42",85,42,18033.0
+2016-17,14,Dec 28(Wed),7:00 PM,Monmouth,,Dean E. Smith Center,"W, 102-74",102,74,20064.0
+2016-17,15,Dec 31(Sat),12:00 PM,Georgia Tech,,McCamish Pavilion,"L, 63-75",63,75,7754.0
+2016-17,16,Jan 3(Tue),7:00 PM,Clemson,,Littlejohn Coliseum,"W, 89-86",89,86,8716.0
+2016-17,17,Jan 8(Sun),1:00 PM,NC State,,Dean E. Smith Center,"W, 107-56",107,56,16133.0
+2016-17,18,Jan 11(Wed),8:00 PM,Wake Forest,,Lawrence Joel Veterans Memorial Coliseum,"W, 93-87",93,87,13159.0
+2016-17,19,Jan 14(Sat),2:00 PM,Florida State,,Dean E. Smith Center,"W, 96-83",96,83,21750.0
+2016-17,20,Jan 16(Mon),7:00 PM,Syracuse,,Dean E. Smith Center,"W, 85-68",85,68,20588.0
+2016-17,21,Jan 21(Sat),12:00 PM,Boston College,,Conte Forum,"W, 90-82",90,82,8606.0
+2016-17,22,Jan 26(Thu),8:00 PM,Virginia Tech,,Dean E. Smith Center,"W, 91-72",91,72,20113.0
+2016-17,23,Jan 28(Sat),1:00 PM,Miami,,Watsco Center,"L, 62-77",62,77,7563.0
+2016-17,24,Jan 31(Tue),7:00 PM,Pittsburgh,,Dean E. Smith Center,"W, 80-78",80,78,18438.0
+2016-17,25,Feb 5(Sun),1:00 PM,Notre Dame,,Greensboro Coliseum,"W, 83-76",83,76,17051.0
+2016-17,26,Feb 9(Thu),8:00 PM,Duke,,Cameron Indoor Stadium,"L, 78-86",78,86,9314.0
+2016-17,27,Feb 15(Wed),8:00 PM,NC State,,Lenovo Center,"W, 97-73",97,73,19500.0
+2016-17,28,Feb 18(Sat),8:20 PM,Virginia,,Dean E. Smith Center,"W, 65-41",65,41,21750.0
+2016-17,29,Feb 22(Wed),9:00 PM,Louisville,,Dean E. Smith Center,"W, 74-63",74,63,21269.0
+2016-17,30,Feb 25(Sat),12:00 PM,Pittsburgh,,Petersen Events Center,"W, 85-67",85,67,10704.0
+2016-17,31,Feb 27(Mon),7:00 PM,Virginia,,John Paul Jones Arena,"L, 43-53",43,53,14001.0
+2016-17,32,Mar 4(Sat),8:20 PM,Duke,,Dean E. Smith Center,"W, 90-83",90,83,21750.0
+2016-17,33,Mar 9(Thu),12:00 PM,Miami,ACC Tournament,Barclays Center,"W, 78-53",78,53,17732.0
+2016-17,34,Mar 10(Fri),7:00 PM,Duke,ACC Tournament,Barclays Center,"L, 83-93",83,93,18109.0
+2016-17,35,Mar 17(Fri),4:00 PM,Texas Southern,NCAA Tournament,Bon Secours Wellness Arena,"W, 103-64",103,64,14179.0
+2016-17,36,Mar 19(Sun),6:10 PM,Arkansas,NCAA Tournament,Bon Secours Wellness Arena,"W, 72-65",72,65,
+2016-17,37,Mar 24(Fri),7:09 PM,Butler,NCAA Tournament,FedExForum,"W, 92-80",92,80,
+2016-17,38,Mar 26(Sun),5:05 PM,Kentucky,NCAA Tournament,FedExForum,"W, 75-73",75,73,16412.0
+2016-17,39,Apr 1(Sat),8:49 PM,Oregon,NCAA Tournament,State Farm Stadium,"W, 77-76",77,76,77612.0
+2016-17,40,Apr 3(Mon),9:20 PM,Gonzaga,NCAA Tournament,State Farm Stadium,"W, 71-65",71,65,76168.0
+2017-18,1,Nov 10(Fri),7:00 PM,Northern Iowa,,Dean E. Smith Center,"W, 86-69",86,69,18926.0
+2017-18,2,Nov 15(Wed),8:00 PM,Bucknell,PK Invitational,Dean E. Smith Center,"W, 93-81",93,81,13941.0
+2017-18,3,Nov 20(Mon),11:30 PM,Stanford,,Maples Pavilion,"W, 96-72",96,72,7233.0
+2017-18,4,Nov 23(Thu),2:30 PM,Portland,PK Invitational,Veterans Memorial Coliseum,"W, 102-78",102,78,
+2017-18,5,Nov 24(Fri),3:30 PM,Arkansas,PK Invitational,Veterans Memorial Coliseum,"W, 87-68",87,68,
+2017-18,6,Nov 26(Sun),8:30 PM,Michigan State,PK Invitational,Moda Center,"L, 45-63",45,63,
+2017-18,7,Nov 29(Wed),7:30 PM,Michigan,ACC/Big Ten Challenge,Dean E. Smith Center,"W, 86-71",86,71,19036.0
+2017-18,8,Dec 1(Fri),8:00 PM,Davidson,,Spectrum Center,"W, 85-75",85,75,11395.0
+2017-18,9,Dec 3(Sun),2:00 PM,Tulane,,Dean E. Smith Center,"W, 97-73",97,73,14402.0
+2017-18,10,Dec 6(Wed),7:00 PM,Western Carolina,,Dean E. Smith Center,"W, 104-61",104,61,12720.0
+2017-18,11,Dec 17(Sun),3:00 PM,Tennessee,,Thompson-Boling Arena,"W, 78-73",78,73,21678.0
+2017-18,12,Dec 20(Wed),9:00 PM,Wofford,,Dean E. Smith Center,"L, 75-79",75,79,16017.0
+2017-18,13,Dec 23(Sat),1:30 PM,Ohio State,CBS Sports Classic,Smoothie King Center,"W, 86-72",86,72,8119.0
+2017-18,14,Dec 30(Sat),12:00 PM,Wake Forest,,Dean E. Smith Center,"W, 73-69",73,69,19578.0
+2017-18,15,Jan 3(Wed),7:00 PM,Florida State,,Donald L. Tucker Civic Center,"L, 80-81",80,81,8931.0
+2017-18,16,Jan 6(Sat),1:00 PM,Virginia,,John Paul Jones Arena,"L, 49-61",49,61,14401.0
+2017-18,17,Jan 9(Tue),8:00 PM,Boston College,,Dean E. Smith Center,"W, 96-66",96,66,17104.0
+2017-18,18,Jan 13(Sat),6:00 PM,Notre Dame,,Purcell Pavilion,"W, 69-68",69,68,9149.0
+2017-18,19,Jan 16(Tue),7:00 PM,Clemson,,Dean E. Smith Center,"W, 87-79",87,79,20155.0
+2017-18,20,Jan 20(Sat),2:00 PM,Georgia Tech,,Dean E. Smith Center,"W, 80-66",80,66,20334.0
+2017-18,21,Jan 22(Mon),7:00 PM,Virginia Tech,,Cassell Coliseum,"L, 69-80",69,80,9275.0
+2017-18,22,Jan 27(Sat),12:00 PM,NC State,,Dean E. Smith Center,"L, 91-95",91,95,21750.0
+2017-18,23,Jan 30(Tue),7:00 PM,Clemson,,Littlejohn Coliseum,"L, 78-82",78,82,9000.0
+2017-18,24,Feb 3(Sat),8:00 PM,Pittsburgh,,Dean E. Smith Center,"W, 96-65",96,65,20381.0
+2017-18,25,Feb 8(Thu),8:00 PM,Duke,,Dean E. Smith Center,"W, 82-78",82,78,21750.0
+2017-18,26,Feb 10(Sat),2:00 PM,NC State,,Lenovo Center,"W, 96-89",96,89,19500.0
+2017-18,27,Feb 12(Mon),7:00 PM,Notre Dame,,Dean E. Smith Center,"W, 83-66",83,66,19336.0
+2017-18,28,Feb 17(Sat),8:15 PM,Louisville,,KFC Yum! Center,"W, 93-76",93,76,21210.0
+2017-18,29,Feb 21(Wed),7:00 PM,Syracuse,,JMA Wireless Dome,"W, 78-74",78,74,27165.0
+2017-18,30,Feb 27(Tue),9:00 PM,Miami,,Dean E. Smith Center,"L, 88-91",88,91,20251.0
+2017-18,31,Mar 3(Sat),8:15 PM,Duke,,Cameron Indoor Stadium,"L, 64-74",64,74,9314.0
+2017-18,32,Mar 7(Wed),9:00 PM,Syracuse,ACC Tournament,Barclays Center,"W, 78-59",78,59,17732.0
+2017-18,33,Mar 8(Thu),9:00 PM,Miami,ACC Tournament,Barclays Center,"W, 82-65",82,65,17732.0
+2017-18,34,Mar 9(Fri),9:00 PM,Duke,ACC Tournament,Barclays Center,"W, 74-69",74,69,18157.0
+2017-18,35,Mar 10(Sat),8:30 PM,Virginia,ACC Tournament,Barclays Center,"L, 63-71",63,71,18157.0
+2017-18,36,Mar 16(Fri),2:45 PM,Lipscomb,NCAA Tournament,Spectrum Center,"W, 84-66",84,66,18489.0
+2017-18,37,Mar 18(Sun),5:15 PM,Texas A&M,NCAA Tournament,Spectrum Center,"L, 65-86",65,86,
+2018-19,1,Nov 6(Tue),7:00 PM,Wofford,,Jerry Richardson Indoor Stadium,"W, 78-67",78,67,3400.0
+2018-19,2,Nov 9(Fri),7:00 PM,Elon,,Schar Center,"W, 116-67",116,67,5245.0
+2018-19,3,Nov 12(Mon),7:00 PM,Stanford,,Dean E. Smith Center,"W, 90-72",90,72,19647.0
+2018-19,4,Nov 16(Fri),7:00 PM,Tennessee Tech,Las Vegas Invitational,Dean E. Smith Center,"W, 108-58",108,58,20816.0
+2018-19,5,Nov 19(Mon),8:00 PM,Saint Francis,Las Vegas Invitational,Dean E. Smith Center,"W, 101-76",101,76,20547.0
+2018-19,6,Nov 22(Thu),7:30 PM,Texas,Las Vegas Invitational,Orleans Arena,"L, 89-92",89,92,7489.0
+2018-19,7,Nov 23(Fri),4:00 PM,UCLA,Las Vegas Invitational,Orleans Arena,"W, 94-78",94,78,
+2018-19,8,Nov 28(Wed),9:30 PM,Michigan,ACC/Big Ten Challenge,Crisler Center,"L, 67-84",67,84,12707.0
+2018-19,9,Dec 5(Wed),9:00 PM,UNC Wilmington,,Dean E. Smith Center,"W, 97-69",97,69,20083.0
+2018-19,10,Dec 15(Sat),7:00 PM,Gonzaga,,Dean E. Smith Center,"W, 103-90",103,90,21750.0
+2018-19,11,Dec 22(Sat),5:15 PM,Kentucky,CBS Sports Classic,United Center,"L, 72-80",72,80,15124.0
+2018-19,12,Dec 29(Sat),12:00 PM,Davidson,,Dean E. Smith Center,"W, 82-60",82,60,21486.0
+2018-19,13,Jan 2(Wed),7:00 PM,Harvard,,Dean E. Smith Center,"W, 77-57",77,57,21329.0
+2018-19,14,Jan 5(Sat),12:00 PM,Pittsburgh,,Petersen Events Center,"W, 85-60",85,60,12508.0
+2018-19,15,Jan 8(Tue),9:00 PM,NC State,,Lenovo Center,"W, 90-82",90,82,19500.0
+2018-19,16,Jan 12(Sat),12:00 PM,Louisville,,Dean E. Smith Center,"L, 62-83",62,83,21243.0
+2018-19,17,Jan 15(Tue),9:00 PM,Notre Dame,,Dean E. Smith Center,"W, 75-69",75,69,20475.0
+2018-19,18,Jan 19(Sat),12:00 PM,Miami,,Watsco Center,"W, 85-76",85,76,7131.0
+2018-19,19,Jan 21(Mon),7:00 PM,Virginia Tech,,Dean E. Smith Center,"W, 103-82",103,82,21148.0
+2018-19,20,Jan 29(Tue),7:00 PM,Georgia Tech,,McCamish Pavilion,"W, 77-54",77,54,8600.0
+2018-19,21,Feb 2(Sat),2:00 PM,Louisville,,KFC Yum! Center,"W, 79-69",79,69,19985.0
+2018-19,22,Feb 5(Tue),8:00 PM,NC State,,Dean E. Smith Center,"W, 113-96",113,96,21124.0
+2018-19,23,Feb 9(Sat),12:00 PM,Miami,,Dean E. Smith Center,"W, 88-85",88,85,21383.0
+2018-19,24,Feb 11(Mon),7:00 PM,Virginia,,Dean E. Smith Center,"L, 61-69",61,69,
+2018-19,25,Feb 16(Sat),12:00 PM,Wake Forest,,Lawrence Joel Veterans Memorial Coliseum,"W, 95-57",95,57,14352.0
+2018-19,26,Feb 20(Wed),9:00 PM,Duke,,Cameron Indoor Stadium,"W, 88-72",88,72,9314.0
+2018-19,27,Feb 23(Sat),3:45 PM,Florida State,,Dean E. Smith Center,"W, 77-59",77,59,21520.0
+2018-19,28,Feb 26(Tue),9:00 PM,Syracuse,,Dean E. Smith Center,"W, 93-85",93,85,21135.0
+2018-19,29,Mar 2(Sat),6:00 PM,Clemson,,Littlejohn Coliseum,"W, 81-79",81,79,9248.0
+2018-19,30,Mar 5(Tue),8:00 PM,Boston College,,Conte Forum,"W, 79-66",79,66,7731.0
+2018-19,31,Mar 9(Sat),6:00 PM,Duke,,Dean E. Smith Center,"W, 79-70",79,70,21750.0
+2018-19,32,Mar 14(Thu),7:00 PM,Louisville,ACC Tournament,Spectrum Center,"W, 83-70",83,70,19691.0
+2018-19,33,Mar 15(Fri),9:20 PM,Duke,ACC Tournament,Spectrum Center,"L, 73-74",73,74,20116.0
+2018-19,34,Mar 22(Fri),9:20 PM,Iona,NCAA Tournament,Schottenstein Center,"W, 88-73",88,73,19426.0
+2018-19,35,Mar 24(Sun),2:40 PM,Washington,NCAA Tournament,Schottenstein Center,"W, 81-59",81,59,19610.0
+2018-19,36,Mar 29(Fri),7:29 PM,Auburn,NCAA Tournament,T-Mobile Center,"L, 80-97",80,97,
+2019-20,1,Nov 6(Wed),7:00 PM,Notre Dame,,Dean E. Smith Center,"W, 76-65",76,65,21750.0
+2019-20,2,Nov 8(Fri),7:00 PM,UNC Wilmington,,Trask Coliseum,"W, 78-62",78,62,5100.0
+2019-20,3,Nov 15(Fri),9:00 PM,Gardner-Webb,,Dean E. Smith Center,"W, 77-61",77,61,20374.0
+2019-20,4,Nov 20(Wed),8:30 PM,Elon,Battle 4 Atlantis,Dean E. Smith Center,"W, 75-61",75,61,20251.0
+2019-20,5,Nov 27(Wed),2:30 PM,Alabama,Battle 4 Atlantis,Imperial Arena,"W, 76-67",76,67,1405.0
+2019-20,6,Nov 28(Thu),1:30 PM,Michigan,Battle 4 Atlantis,Imperial Arena,"L, 64-73",64,73,1828.0
+2019-20,7,Nov 29(Fri),11:30 AM,Oregon,Battle 4 Atlantis,Imperial Arena,"W, 78-74",78,74,2110.0
+2019-20,8,Dec 4(Wed),9:30 PM,Ohio State,ACC/Big Ten Challenge,Dean E. Smith Center,"L, 49-74",49,74,21115.0
+2019-20,9,Dec 8(Sun),4:00 PM,Virginia,,John Paul Jones Arena,"L, 47-56",47,56,14629.0
+2019-20,10,Dec 15(Sun),4:00 PM,Wofford,,Carmichael Arena,"L, 64-68",64,68,6272.0
+2019-20,11,Dec 18(Wed),9:00 PM,Gonzaga,,McCarthey Athletic Center,"L, 81-94",81,94,6000.0
+2019-20,12,Dec 21(Sat),3:00 PM,UCLA,CBS Sports Classic,T-Mobile Arena,"W, 74-64",74,64,
+2019-20,13,Dec 30(Mon),7:00 PM,Yale,,Dean E. Smith Center,"W, 70-67",70,67,20765.0
+2019-20,14,Jan 4(Sat),6:00 PM,Georgia Tech,,Dean E. Smith Center,"L, 83-96",83,96,21099.0
+2019-20,15,Jan 8(Wed),7:00 PM,Pittsburgh,,Dean E. Smith Center,"L, 65-73",65,73,20798.0
+2019-20,16,Jan 11(Sat),4:30 PM,Clemson,,Dean E. Smith Center,"L, 76-79",76,79,21077.0
+2019-20,17,Jan 18(Sat),12:00 PM,Pittsburgh,,Petersen Events Center,"L, 52-66",52,66,12376.0
+2019-20,18,Jan 22(Wed),8:00 PM,Virginia Tech,,Cassell Coliseum,"L, 77-79",77,79,9275.0
+2019-20,19,Jan 25(Sat),12:00 PM,Miami,,Dean E. Smith Center,"W, 94-71",94,71,21125.0
+2019-20,20,Jan 27(Mon),7:00 PM,NC State,,Lenovo Center,"W, 75-65",75,65,19533.0
+2019-20,21,Feb 1(Sat),6:00 PM,Boston College,,Dean E. Smith Center,"L, 70-71",70,71,21492.0
+2019-20,22,Feb 3(Mon),7:00 PM,Florida State,,Donald L. Tucker Civic Center,"L, 59-65",59,65,10015.0
+2019-20,23,Feb 8(Sat),6:00 PM,Duke,,Dean E. Smith Center,"L, 96-98",96,98,21500.0
+2019-20,24,Feb 11(Tue),8:00 PM,Wake Forest,,Lawrence Joel Veterans Memorial Coliseum,"L, 57-74",57,74,10894.0
+2019-20,25,Feb 15(Sat),8:00 PM,Virginia,,Dean E. Smith Center,"L, 62-64",62,64,21308.0
+2019-20,26,Feb 17(Mon),7:00 PM,Notre Dame,,Purcell Pavilion,"L, 76-77",76,77,8150.0
+2019-20,27,Feb 22(Sat),4:00 PM,Louisville,,KFC Yum! Center,"L, 55-72",55,72,21079.0
+2019-20,28,Feb 25(Tue),9:00 PM,NC State,,Dean E. Smith Center,"W, 85-79",85,79,21338.0
+2019-20,29,Feb 29(Sat),4:00 PM,Syracuse,,JMA Wireless Dome,"W, 92-79",92,79,29312.0
+2019-20,30,Mar 3(Tue),7:00 PM,Wake Forest,,Dean E. Smith Center,"W, 93-83",93,83,21280.0
+2019-20,31,Mar 7(Sat),6:00 PM,Duke,,Cameron Indoor Stadium,"L, 76-89",76,89,9314.0
+2019-20,32,Mar 10(Tue),7:00 PM,Virginia Tech,ACC Tournament,Greensboro Coliseum,"W, 78-56",78,56,13310.0
+2019-20,33,Mar 11(Wed),9:20 PM,Syracuse,ACC Tournament,Greensboro Coliseum,"L, 53-81",53,81,20809.0
+2020-21,1,Nov 25(Wed),6:00 PM,College of Charleston,,Dean E. Smith Center,"W, 79-60",79,60,
+2020-21,2,Nov 30(Mon),7:00 PM,Nevada-Las Vegas,Maui Invitational,Harrah's Cherokee Center,"W, 78-51",78,51,
+2020-21,3,Dec 1(Tue),4:00 PM,Stanford,Maui Invitational,Harrah's Cherokee Center,"W, 67-63",67,63,
+2020-21,4,Dec 2(Wed),4:00 PM,Texas,Maui Invitational,Harrah's Cherokee Center,"L, 67-69",67,69,
+2020-21,5,Dec 8(Tue),7:30 PM,Iowa,ACC/Big Ten Challenge,Carver-Hawkeye Arena,"L, 80-93",80,93,583.0
+2020-21,6,Dec 12(Sat),2:00 PM,NC Central,,Dean E. Smith Center,"W, 73-67",73,67,
+2020-21,7,Dec 19(Sat),2:00 PM,Kentucky,CBS Sports Classic,Rocket Mortgage FieldHouse,"W, 75-63",75,63,
+2020-21,8,Dec 22(Tue),7:00 PM,NC State,,Lenovo Center,"L, 76-79",76,79,
+2020-21,9,Dec 30(Wed),8:00 PM,Georgia Tech,,McCamish Pavilion,"L, 67-72",67,72,1200.0
+2020-21,10,Jan 2(Sat),4:00 PM,Notre Dame,,Dean E. Smith Center,"W, 66-65",66,65,
+2020-21,11,Jan 5(Tue),8:00 PM,Miami,,Watsco Center,"W, 67-65",67,65,
+2020-21,12,Jan 12(Tue),9:00 PM,Syracuse,,Dean E. Smith Center,"W, 81-75",81,75,
+2020-21,13,Jan 16(Sat),12:00 PM,Florida State,,Donald L. Tucker Civic Center,"L, 75-82",75,82,2850.0
+2020-21,14,Jan 20(Wed),7:00 PM,Wake Forest,,Dean E. Smith Center,"W, 80-73",80,73,
+2020-21,15,Jan 23(Sat),2:00 PM,NC State,,Dean E. Smith Center,"W, 86-76",86,76,
+2020-21,16,Jan 26(Tue),7:00 PM,Pittsburgh,,Petersen Events Center,"W, 75-65",75,65,500.0
+2020-21,17,Feb 2(Tue),7:00 PM,Clemson,,Littlejohn Coliseum,"L, 50-63",50,63,1876.0
+2020-21,18,Feb 6(Sat),6:00 PM,Duke,,Cameron Indoor Stadium,"W, 91-87",91,87,
+2020-21,19,Feb 13(Sat),6:00 PM,Virginia,,John Paul Jones Arena,"L, 48-60",48,60,250.0
+2020-21,20,Feb 17(Wed),7:00 PM,Northeastern,,Dean E. Smith Center,"W, 82-62",82,62,
+2020-21,21,Feb 20(Sat),6:00 PM,Louisville,,Dean E. Smith Center,"W, 99-54",99,54,
+2020-21,22,Feb 24(Wed),7:00 PM,Marquette,,Dean E. Smith Center,"L, 70-83",70,83,
+2020-21,23,Feb 27(Sat),4:00 PM,Florida State,,Dean E. Smith Center,"W, 78-70",78,70,3263.0
+2020-21,24,Mar 1(Mon),7:00 PM,Syracuse,,JMA Wireless Dome,"L, 70-72",70,72,
+2020-21,25,Mar 6(Sat),6:00 PM,Duke,,Dean E. Smith Center,"W, 91-73",91,73,3263.0
+2020-21,26,Mar 10(Wed),8:30 PM,Notre Dame,ACC Tournament,Greensboro Coliseum,"W, 101-59",101,59,2820.0
+2020-21,27,Mar 11(Thu),8:30 PM,Virginia Tech,ACC Tournament,Greensboro Coliseum,"W, 81-73",81,73,2820.0
+2020-21,28,Mar 12(Fri),8:30 PM,Florida State,ACC Tournament,Greensboro Coliseum,"L, 66-69",66,69,2820.0
+2020-21,29,Mar 19(Fri),7:10 PM,Wisconsin,NCAA Tournament,Mackey Arena,"L, 62-85",62,85,
+2021-22,1,Nov 9(Tue),7:00 PM,Loyola Marymount,,Dean E. Smith Center,"W, 83-67",83,67,14992.0
+2021-22,2,Nov 12(Fri),9:00 PM,Brown,,Dean E. Smith Center,"W, 94-87",94,87,16854.0
+2021-22,3,Nov 16(Tue),8:30 PM,College of Charleston,,TD Arena,"W, 94-83",94,83,5203.0
+2021-22,4,Nov 20(Sat),4:00 PM,Purdue,Hall of Fame Tipoff Tournament,Mohegan Sun Arena,"L, 84-93",84,93,9176.0
+2021-22,5,Nov 21(Sun),3:30 PM,Tennessee,Hall of Fame Tipoff Tournament,Mohegan Sun Arena,"L, 72-89",72,89,9100.0
+2021-22,6,Nov 23(Tue),7:00 PM,UNC Asheville,,Dean E. Smith Center,"W, 72-53",72,53,15710.0
+2021-22,7,Dec 1(Wed),9:15 PM,Michigan,ACC/Big Ten Challenge,Dean E. Smith Center,"W, 72-51",72,51,19938.0
+2021-22,8,Dec 5(Sun),3:00 PM,Georgia Tech,,McCamish Pavilion,"W, 79-62",79,62,6217.0
+2021-22,9,Dec 11(Sat),8:00 PM,Elon,,Dean E. Smith Center,"W, 80-63",80,63,16607.0
+2021-22,10,Dec 14(Tue),7:00 PM,Furman,,Dean E. Smith Center,"W, 74-61",74,61,14342.0
+2021-22,11,Dec 18(Sat),5:30 PM,Kentucky,CBS Sports Classic,T-Mobile Arena,"L, 69-98",69,98,12117.0
+2021-22,12,Dec 21(Tue),7:00 PM,Appalachian State,,Dean E. Smith Center,"W, 70-50",70,50,19386.0
+2021-22,13,Jan 2(Sun),1:00 PM,Boston College,,Conte Forum,"W, 91-65",91,65,5516.0
+2021-22,14,Jan 5(Wed),9:00 PM,Notre Dame,,Purcell Pavilion,"L, 73-78",73,78,6259.0
+2021-22,15,Jan 8(Sat),1:00 PM,Virginia,,Dean E. Smith Center,"W, 74-58",74,58,20638.0
+2021-22,16,Jan 15(Sat),8:00 PM,Georgia Tech,,Dean E. Smith Center,"W, 88-65",88,65,18568.0
+2021-22,17,Jan 18(Tue),7:00 PM,Miami,,Watsco Center,"L, 57-85",57,85,5979.0
+2021-22,18,Jan 22(Sat),8:00 PM,Wake Forest,,Lawrence Joel Veterans Memorial Coliseum,"L, 76-98",76,98,11898.0
+2021-22,19,Jan 24(Mon),8:00 PM,Virginia Tech,,Dean E. Smith Center,"W, 78-68",78,68,19357.0
+2021-22,20,Jan 26(Wed),7:00 PM,Boston College,,Dean E. Smith Center,"W, 58-47",58,47,17237.0
+2021-22,21,Jan 29(Sat),2:00 PM,NC State,,Dean E. Smith Center,"W, 100-80",100,80,21750.0
+2021-22,22,Feb 1(Tue),8:00 PM,Louisville,,KFC Yum! Center,"W, 90-83",90,83,13386.0
+2021-22,23,Feb 5(Sat),6:00 PM,Duke,,Dean E. Smith Center,"L, 67-87",67,87,21750.0
+2021-22,24,Feb 8(Tue),6:00 PM,Clemson,,Littlejohn Coliseum,"W, 79-77",79,77,7470.0
+2021-22,25,Feb 12(Sat),2:00 PM,Florida State,,Dean E. Smith Center,"W, 94-74",94,74,20348.0
+2021-22,26,Feb 16(Wed),8:00 PM,Pittsburgh,,Dean E. Smith Center,"L, 67-76",67,76,17270.0
+2021-22,27,Feb 19(Sat),4:00 PM,Virginia Tech,,Cassell Coliseum,"W, 65-57",65,57,9825.0
+2021-22,28,Feb 21(Mon),7:00 PM,Louisville,,Dean E. Smith Center,"W, 70-63",70,63,18618.0
+2021-22,29,Feb 26(Sat),2:00 PM,NC State,,Lenovo Center,"W, 84-74",84,74,16704.0
+2021-22,30,Feb 28(Mon),7:00 PM,Syracuse,,Dean E. Smith Center,"W, 88-79",88,79,21750.0
+2021-22,31,Mar 5(Sat),6:00 PM,Duke,,Cameron Indoor Stadium,"W, 94-81",94,81,9314.0
+2021-22,32,Mar 10(Thu),9:30 PM,Virginia,ACC Tournament,Barclays Center,"W, 63-43",63,43,
+2021-22,33,Mar 11(Fri),9:30 PM,Virginia Tech,ACC Tournament,Barclays Center,"L, 59-72",59,72,15994.0
+2021-22,34,Mar 17(Thu),4:30 PM,Marquette,NCAA Tournament,Dickies Arena,"W, 95-63",95,63,12964.0
+2021-22,35,Mar 19(Sat),12:10 PM,Baylor,NCAA Tournament,Dickies Arena,"W, 93-86",93,86,
+2021-22,36,Mar 25(Fri),9:30 PM,UCLA,NCAA Tournament,Wells Fargo Center,"W, 73-66",73,66,20136.0
+2021-22,37,Mar 27(Sun),5:05 PM,Saint Peter's,NCAA Tournament,Wells Fargo Center,"W, 69-49",69,49,20235.0
+2021-22,38,Apr 2(Sat),8:49 PM,Duke,NCAA Tournament,Caesars Superdome,"W, 81-77",81,77,70602.0
+2021-22,39,Apr 4(Mon),9:20 PM,Kansas,NCAA Tournament,Caesars Superdome,"L, 69-72",69,72,69423.0
+2022-23,1,Nov 7(Mon),9:00 PM,UNC Wilmington,,Dean E. Smith Center,"W, 69-56",69,56,19744.0
+2022-23,2,Nov 11(Fri),7:00 PM,College of Charleston,,Dean E. Smith Center,"W, 102-86",102,86,17892.0
+2022-23,3,Nov 15(Tue),8:00 PM,Gardner-Webb,,Dean E. Smith Center,"W, 72-66",72,66,17200.0
+2022-23,4,Nov 20(Sun),12:00 PM,James Madison,,Dean E. Smith Center,"W, 80-64",80,64,19942.0
+2022-23,5,Nov 24(Thu),1:00 PM,Portland,PK Invitational,Moda Center,"W, 89-81",89,81,
+2022-23,6,Nov 25(Fri),5:30 PM,Iowa State,PK Invitational,Veterans Memorial Coliseum,"L, 65-70",65,70,4431.0
+2022-23,7,Nov 27(Sun),3:30 PM,Alabama,PK Invitational,Veterans Memorial Coliseum,"L, 101-103",101,103,1921.0
+2022-23,8,Nov 30(Wed),9:15 PM,Indiana,ACC/Big Ten Challenge,Simon Skjodt Assembly Hall,"L, 65-77",65,77,17222.0
+2022-23,9,Dec 4(Sun),3:00 PM,Virginia Tech,,Cassell Coliseum,"L, 72-80",72,80,8925.0
+2022-23,10,Dec 10(Sat),3:15 PM,Georgia Tech,,Dean E. Smith Center,"W, 75-59",75,59,19410.0
+2022-23,11,Dec 13(Tue),7:00 PM,The Citadel,,Dean E. Smith Center,"W, 100-67",100,67,16926.0
+2022-23,12,Dec 17(Sat),3:00 PM,Ohio State,CBS Sports Classic,Madison Square Garden,"W, 89-84",89,84,
+2022-23,13,Dec 21(Wed),7:00 PM,Michigan,Jumpman Invitational,Spectrum Center,"W, 80-76",80,76,
+2022-23,14,Dec 30(Fri),12:00 PM,Pittsburgh,,Petersen Events Center,"L, 74-76",74,76,10215.0
+2022-23,15,Jan 4(Wed),9:00 PM,Wake Forest,,Dean E. Smith Center,"W, 88-79",88,79,19031.0
+2022-23,16,Jan 7(Sat),11:30 AM,Notre Dame,,Dean E. Smith Center,"W, 81-64",81,64,21750.0
+2022-23,17,Jan 10(Tue),9:00 PM,Virginia,,John Paul Jones Arena,"L, 58-65",58,65,14629.0
+2022-23,18,Jan 14(Sat),2:00 PM,Louisville,,KFC Yum! Center,"W, 80-59",80,59,14842.0
+2022-23,19,Jan 17(Tue),7:00 PM,Boston College,,Dean E. Smith Center,"W, 72-64",72,64,19121.0
+2022-23,20,Jan 21(Sat),5:00 PM,NC State,,Dean E. Smith Center,"W, 80-69",80,69,21750.0
+2022-23,21,Jan 24(Tue),9:00 PM,Syracuse,,JMA Wireless Dome,"W, 72-68",72,68,20761.0
+2022-23,22,Feb 1(Wed),7:00 PM,Pittsburgh,,Dean E. Smith Center,"L, 64-65",64,65,20421.0
+2022-23,23,Feb 4(Sat),6:30 PM,Duke,,Cameron Indoor Stadium,"L, 57-63",57,63,9314.0
+2022-23,24,Feb 7(Tue),7:00 PM,Wake Forest,,Lawrence Joel Veterans Memorial Coliseum,"L, 85-92",85,92,11318.0
+2022-23,25,Feb 11(Sat),2:00 PM,Clemson,,Dean E. Smith Center,"W, 91-71",91,71,21750.0
+2022-23,26,Feb 13(Mon),7:00 PM,Miami,,Dean E. Smith Center,"L, 72-80",72,80,19907.0
+2022-23,27,Feb 19(Sun),1:00 PM,NC State,,Lenovo Center,"L, 69-77",69,77,19500.0
+2022-23,28,Feb 22(Wed),9:00 PM,Notre Dame,,Purcell Pavilion,"W, 63-59",63,59,8183.0
+2022-23,29,Feb 25(Sat),6:00 PM,Virginia,,Dean E. Smith Center,"W, 71-63",71,63,21750.0
+2022-23,30,Feb 27(Mon),7:00 PM,Florida State,,Donald L. Tucker Civic Center,"W, 77-66",77,66,7791.0
+2022-23,31,Mar 4(Sat),6:30 PM,Duke,,Dean E. Smith Center,"L, 57-62",57,62,21750.0
+2022-23,32,Mar 8(Wed),7:00 PM,Boston College,ACC Tournament,Greensboro Coliseum,"W, 85-61",85,61,
+2022-23,33,Mar 9(Thu),7:00 PM,Virginia,ACC Tournament,Greensboro Coliseum,"L, 59-68",59,68,
+2023-24,1,Nov 6(Mon),7:00 PM,Radford,,Dean E. Smith Center,"W, 86-70",86,70,17331.0
+2023-24,2,Nov 12(Sun),2:00 PM,Lehigh,,Dean E. Smith Center,"W, 90-68",90,68,18608.0
+2023-24,3,Nov 17(Fri),8:00 PM,UC Riverside,,Dean E. Smith Center,"W, 77-52",77,52,18226.0
+2023-24,4,Nov 22(Wed),12:00 PM,Northern Iowa,Battle 4 Atlantis,Imperial Arena,"W, 91-69",91,69,1342.0
+2023-24,5,Nov 23(Thu),2:30 PM,Villanova,Battle 4 Atlantis,Imperial Arena,"L, 81-83",81,83,1500.0
+2023-24,6,Nov 24(Fri),1:00 PM,Arkansas,Battle 4 Atlantis,Imperial Arena,"W, 87-72",87,72,1456.0
+2023-24,7,Nov 29(Wed),7:15 PM,Tennessee,ACC/SEC Challenge,Dean E. Smith Center,"W, 100-92",100,92,20756.0
+2023-24,8,Dec 2(Sat),2:00 PM,Florida State,,Dean E. Smith Center,"W, 78-70",78,70,20285.0
+2023-24,9,Dec 5(Tue),9:00 PM,Connecticut,Jimmy V Classic,Madison Square Garden,"L, 76-87",76,87,17873.0
+2023-24,10,Dec 16(Sat),5:30 PM,Kentucky,CBS Sports Classic,State Farm Arena,"L, 83-87",83,87,17058.0
+2023-24,11,Dec 20(Wed),9:00 PM,Oklahoma,Jumpman Invitational,Spectrum Center,"W, 81-69",81,69,16344.0
+2023-24,12,Dec 29(Fri),8:00 PM,Charleston Southern,,Dean E. Smith Center,"W, 105-60",105,60,21750.0
+2023-24,13,Jan 2(Tue),7:00 PM,Pittsburgh,,Petersen Events Center,"W, 70-57",70,57,9770.0
+2023-24,14,Jan 6(Sat),12:00 PM,Clemson,,Littlejohn Coliseum,"W, 65-55",65,55,9000.0
+2023-24,15,Jan 10(Wed),8:00 PM,NC State,,Lenovo Center,"W, 67-54",67,54,19500.0
+2023-24,16,Jan 13(Sat),12:00 PM,Syracuse,,Dean E. Smith Center,"W, 103-67",103,67,21750.0
+2023-24,17,Jan 17(Wed),9:00 PM,Louisville,,Dean E. Smith Center,"W, 86-70",86,70,20298.0
+2023-24,18,Jan 20(Sat),2:15 PM,Boston College,,Conte Forum,"W, 76-66",76,66,8606.0
+2023-24,19,Jan 22(Mon),7:00 PM,Wake Forest,,Dean E. Smith Center,"W, 85-64",85,64,21175.0
+2023-24,20,Jan 27(Sat),2:00 PM,Florida State,,Donald L. Tucker Civic Center,"W, 75-68",75,68,10092.0
+2023-24,21,Jan 30(Tue),7:00 PM,Georgia Tech,,McCamish Pavilion,"L, 73-74",73,74,8600.0
+2023-24,22,Feb 3(Sat),6:30 PM,Duke,,Dean E. Smith Center,"W, 93-84",93,84,21750.0
+2023-24,23,Feb 6(Tue),7:00 PM,Clemson,,Dean E. Smith Center,"L, 76-80",76,80,20689.0
+2023-24,24,Feb 10(Sat),4:00 PM,Miami,,Watsco Center,"W, 75-72",75,72,7972.0
+2023-24,25,Feb 13(Tue),7:00 PM,Syracuse,,JMA Wireless Dome,"L, 79-86",79,86,21275.0
+2023-24,26,Feb 17(Sat),2:00 PM,Virginia Tech,,Dean E. Smith Center,"W, 96-81",96,81,21750.0
+2023-24,27,Feb 24(Sat),4:00 PM,Virginia,,John Paul Jones Arena,"W, 54-44",54,44,14637.0
+2023-24,28,Feb 26(Mon),7:00 PM,Miami,,Dean E. Smith Center,"W, 75-71",75,71,21027.0
+2023-24,29,Mar 2(Sat),4:00 PM,NC State,,Dean E. Smith Center,"W, 79-70",79,70,21750.0
+2023-24,30,Mar 5(Tue),7:00 PM,Notre Dame,,Dean E. Smith Center,"W, 84-51",84,51,21750.0
+2023-24,31,Mar 9(Sat),6:30 PM,Duke,,Cameron Indoor Stadium,"W, 84-79",84,79,9314.0
+2023-24,32,Mar 14(Thu),12:00 PM,Florida State,ACC Tournament,Capital One Arena,"W, 92-67",92,67,
+2023-24,33,Mar 15(Fri),7:00 PM,Pittsburgh,ACC Tournament,Capital One Arena,"W, 72-65",72,65,
+2023-24,34,Mar 16(Sat),8:30 PM,NC State,ACC Tournament,Capital One Arena,"L, 76-84",76,84,19218.0
+2023-24,35,Mar 21(Thu),2:45 PM,Wagner,NCAA Tournament,Spectrum Center,"W, 90-62",90,62,18223.0
+2023-24,36,Mar 23(Sat),5:45 PM,Michigan State,NCAA Tournament,Spectrum Center,"W, 85-69",85,69,
+2023-24,37,Mar 28(Thu),9:39 PM,Alabama,NCAA Tournament,Crypto.com Arena,"L, 87-89",87,89,19625.0
+2024-25,1,Nov 4(Mon),9:00 PM,Elon,,Dean E. Smith Center,"W, 90-76",90,76,17242.0
+2024-25,2,Nov 8(Fri),7:00 PM,Kansas,,Allen Fieldhouse,"L, 89-92",89,92,15300.0
+2024-25,3,Nov 15(Fri),8:00 PM,American,,Dean E. Smith Center,"W, 107-55",107,55,19555.0
+2024-25,4,Nov 23(Sat),7:30 PM,Hawai'i,,SimpliFi Arena at Stan Sheriff Center,"W, 87-69",87,69,8948.0
+2024-25,5,Nov 25(Mon),11:30 PM,Dayton,Maui Invitational,Lahaina Civic Center,"W, 92-90",92,90,2400.0
+2024-25,6,Nov 26(Tue),11:00 PM,Auburn,Maui Invitational,Lahaina Civic Center,"L, 72-85",72,85,2400.0
+2024-25,7,Nov 27(Wed),9:30 PM,Michigan State,Maui Invitational,Lahaina Civic Center,"L, 91-94",91,94,2400.0
+2024-25,8,Dec 4(Wed),7:15 PM,Alabama,ACC/SEC Challenge,Dean E. Smith Center,"L, 79-94",79,94,21750.0
+2024-25,9,Dec 7(Sat),2:00 PM,Georgia Tech,,Dean E. Smith Center,"W, 68-65",68,65,19020.0
+2024-25,10,Dec 14(Sat),4:00 PM,La Salle,,Dean E. Smith Center,"W, 93-67",93,67,18420.0
+2024-25,11,Dec 17(Tue),7:00 PM,Florida,Jumpman Invitational,Spectrum Center,"L, 84-90",84,90,
+2024-25,12,Dec 21(Sat),3:00 PM,UCLA,CBS Sports Classic,Madison Square Garden,"W, 76-74",76,74,
+2024-25,13,Dec 29(Sun),8:00 PM,Campbell,,Dean E. Smith Center,"W, 97-81",97,81,19959.0
+2024-25,14,Jan 1(Wed),6:00 PM,Louisville,,KFC Yum! Center,"L, 70-83",70,83,14248.0
+2024-25,15,Jan 4(Sat),12:00 PM,Notre Dame,,Purcell Pavilion,"W, 74-73",74,73,9149.0
+2024-25,16,Jan 7(Tue),9:00 PM,SMU,,Dean E. Smith Center,"W, 82-67",82,67,19594.0
+2024-25,17,Jan 11(Sat),4:00 PM,NC State,,Lenovo Center,"W, 63-61",63,61,19500.0
+2024-25,18,Jan 15(Wed),7:00 PM,California,,Dean E. Smith Center,"W, 79-53",79,53,20031.0
+2024-25,19,Jan 18(Sat),2:15 PM,Stanford,,Dean E. Smith Center,"L, 71-72",71,72,21750.0
+2024-25,20,Jan 21(Tue),9:00 PM,Wake Forest,,Lawrence Joel Veterans Memorial Coliseum,"L, 66-67",66,67,12799.0
+2024-25,21,Jan 25(Sat),2:15 PM,Boston College,,Dean E. Smith Center,"W, 102-96",102,96,21750.0
+2024-25,22,Jan 28(Tue),9:00 PM,Pittsburgh,,Petersen Events Center,"L, 65-73",65,73,11277.0
+2024-25,23,Feb 1(Sat),6:30 PM,Duke,,Cameron Indoor Stadium,"L, 70-87",70,87,9314.0
+2024-25,24,Feb 8(Sat),4:00 PM,Pittsburgh,,Dean E. Smith Center,"W, 67-66",67,66,21750.0
+2024-25,25,Feb 10(Mon),7:00 PM,Clemson,,Littlejohn Coliseum,"L, 65-85",65,85,8704.0
+2024-25,26,Feb 15(Sat),6:00 PM,Syracuse,,JMA Wireless Dome,"W, 88-82",88,82,22340.0
+2024-25,27,Feb 19(Wed),7:00 PM,NC State,,Dean E. Smith Center,"W, 97-73",97,73,21750.0
+2024-25,28,Feb 22(Sat),4:00 PM,Virginia,,Dean E. Smith Center,"W, 81-66",81,66,21750.0
+2024-25,29,Feb 24(Mon),7:00 PM,Florida State,,Donald L. Tucker Civic Center,"W, 96-85",96,85,7922.0
+2024-25,30,Mar 1(Sat),12:00 PM,Miami,,Dean E. Smith Center,"W, 92-73",92,73,21750.0
+2024-25,31,Mar 4(Tue),7:00 PM,Virginia Tech,,Cassell Coliseum,"W, 91-59",91,59,8925.0
+2024-25,32,Mar 8(Sat),6:30 PM,Duke,,Dean E. Smith Center,"L, 69-82",69,82,21750.0
+2024-25,33,Mar 12(Wed),2:30 PM,Notre Dame,ACC Tournament,Spectrum Center,"W, 76-56",76,56,9722.0
+2024-25,34,Mar 13(Thu),2:30 PM,Wake Forest,ACC Tournament,Spectrum Center,"W, 68-59",68,59,14116.0
+2024-25,35,Mar 14(Fri),7:00 PM,Duke,ACC Tournament,Spectrum Center,"L, 71-74",71,74,
+2024-25,36,Mar 18(Tue),9:10 PM,San Diego State,NCAA Tournament,University of Dayton Arena,"W, 95-68",95,68,12561.0
+2024-25,37,Mar 21(Fri),4:05 PM,Ole Miss,NCAA Tournament,Fiserv Forum,"L, 64-71",64,71,16899.0
+2025-26,1,Nov 3(Mon),7:00 PM,Central Arkansas,,Dean E. Smith Center,"W, 94-54",94,54,16079.0
+2025-26,2,Nov 7(Fri),7:00 PM,Kansas,,Dean E. Smith Center,"W, 87-74",87,74,21750.0
+2025-26,3,Nov 11(Tue),7:00 PM,Radford,,Dean E. Smith Center,"W, 89-74",89,74,16613.0
+2025-26,4,Nov 14(Fri),9:00 PM,NC Central,,Dean E. Smith Center,"W, 97-53",97,53,17522.0
+2025-26,5,Nov 18(Tue),7:00 PM,Navy,,Dean E. Smith Center,"W, 73-61",73,61,16869.0
+2025-26,6,Nov 25(Tue),6:00 PM,St. Bonaventure,Fort Myers Tip-Off,Suncoast Credit Union Arena,"W, 85-70",85,70,3500.0
+2025-26,7,Nov 27(Thu),4:30 PM,Michigan State,Fort Myers Tip-Off,Suncoast Credit Union Arena,"L, 58-74",58,74,3500.0
+2025-26,8,Dec 2(Tue),9:30 PM,Kentucky,ACC/SEC Challenge,Rupp Arena,"W, 67-64",67,64,20029.0
+2025-26,9,Dec 7(Sun),5:00 PM,Georgetown,,Dean E. Smith Center,"W, 81-61",81,61,18583.0
+2025-26,10,Dec 13(Sat),2:00 PM,USC Upstate,,Dean E. Smith Center,"W, 80-62",80,62,17759.0
+2025-26,11,Dec 16(Tue),8:00 PM,East Tennessee State,,Dean E. Smith Center,"W, 77-58",77,58,16548.0
+2025-26,12,Dec 20(Sat),3:00 PM,Ohio State,CBS Sports Classic,State Farm Arena,"W, 71-70",71,70,16951.0
+2025-26,13,Dec 22(Mon),8:00 PM,East Carolina,,Dean E. Smith Center,"W, 99-51",99,51,20479.0
+2025-26,14,Dec 30(Tue),7:00 PM,Florida State,,Dean E. Smith Center,"W, 79-66",79,66,20618.0
+2025-26,15,Jan 3(Sat),2:15 PM,SMU,,Moody Coliseum,"L, 83-97",83,97,6698.0
+2025-26,16,Jan 10(Sat),6:00 PM,Wake Forest,,Dean E. Smith Center,"W, 87-84",87,84,21750.0
+2025-26,17,Jan 14(Wed),9:00 PM,Stanford,,Maples Pavilion,"L, 90-95",90,95,5369.0
+2025-26,18,Jan 17(Sat),4:00 PM,California,,Haas Pavilion,"L, 78-84",78,84,8077.0
+2025-26,19,Jan 21(Wed),7:00 PM,Notre Dame,,Dean E. Smith Center,"W, 91-69",91,69,19686.0
+2025-26,20,Jan 24(Sat),12:00 PM,Virginia,,John Paul Jones Arena,"W, 85-80",85,80,14637.0
+2025-26,21,Jan 31(Sat),2:00 PM,Georgia Tech,,McCamish Pavilion,"W, 91-75",91,75,8700.0
+2025-26,22,Feb 2(Mon),7:00 PM,Syracuse,,Dean E. Smith Center,"W, 87-77",87,77,20152.0
+2025-26,23,Feb 7(Sat),6:30 PM,Duke,,Dean E. Smith Center,"W, 71-68",71,68,21750.0
+2025-26,24,Feb 10(Tue),7:00 PM,Miami,,Watsco Center,"L, 66-75",66,75,7355.0
+2025-26,25,Feb 14(Sat),2:00 PM,Pittsburgh,,Dean E. Smith Center,"W, 79-65",79,65,21750.0
+2025-26,26,Feb 17(Tue),7:00 PM,NC State,,Lenovo Center,"L, 58-82",58,82,19367.0
+2025-26,27,Feb 21(Sat),1:00 PM,Syracuse,,JMA Wireless Dome,"W, 77-64",77,64,23606.0
+2025-26,28,Feb 23(Mon),7:00 PM,Louisville,,Dean E. Smith Center,"W, 77-74",77,74,20577.0
+2025-26,29,Feb 28(Sat),8:30 PM,Virginia Tech,,Dean E. Smith Center,"W, 89-82",89,82,21750.0
+2025-26,30,Mar 3(Tue),7:00 PM,Clemson,,Dean E. Smith Center,"W, 67-63",67,63,20753.0
+2025-26,31,Mar 7(Sat),6:30 PM,Duke,,Cameron Indoor Stadium,"L, 61-76",61,76,9314.0
+2025-26,32,Mar 12(Thu),9:30 PM,Clemson,ACC Tournament,Spectrum Center,"L, 79-80",79,80,17627.0
+2025-26,33,Mar 19(Thu),6:50 PM,Virginia Commonwealth,NCAA Tournament,Bon Secours Wellness Arena,"L, 78-82",78,82,

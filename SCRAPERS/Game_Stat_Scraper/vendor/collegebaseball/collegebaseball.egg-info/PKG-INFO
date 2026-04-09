@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: collegebaseball
+Version: 1.3.0a0
+Summary: A college baseball analysis package for Python. Includes functionality for data acquisition and calculation of advanced metrics.
+Home-page: https://github.com/nathanblumenfeld/collegebaseball
+Author: Nathan Blumenfeld
+Author-email: nathanblumenfeld@gmail.com
+License: UNKNOWN
+Keywords: baseball,ncaa,ncaa_baseball,college_baseball,college_sports
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+License-File: LICENSE
+
+# collegebaseball
+A college baseball analysis package for Python. Includes functionality for data acquisition and calculation of advanced metrics.
+
+

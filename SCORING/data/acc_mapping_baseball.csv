@@ -1,0 +1,348 @@
+season,team
+1999,Clemson
+1999,Duke
+1999,Florida State
+1999,Georgia Tech
+1999,Maryland
+1999,NC State
+1999,North Carolina
+1999,Virginia
+1999,Wake Forest
+2000,Clemson
+2000,Duke
+2000,Florida State
+2000,Georgia Tech
+2000,Maryland
+2000,NC State
+2000,North Carolina
+2000,Virginia
+2000,Wake Forest
+2001,Clemson
+2001,Duke
+2001,Florida State
+2001,Georgia Tech
+2001,Maryland
+2001,NC State
+2001,North Carolina
+2001,Virginia
+2001,Wake Forest
+2002,Clemson
+2002,Duke
+2002,Florida State
+2002,Georgia Tech
+2002,Maryland
+2002,NC State
+2002,North Carolina
+2002,Virginia
+2002,Wake Forest
+2003,Clemson
+2003,Duke
+2003,Florida State
+2003,Georgia Tech
+2003,Maryland
+2003,NC State
+2003,North Carolina
+2003,Virginia
+2003,Wake Forest
+2004,Clemson
+2004,Duke
+2004,Florida State
+2004,Georgia Tech
+2004,Maryland
+2004,NC State
+2004,North Carolina
+2004,Virginia
+2004,Wake Forest
+2005,Clemson
+2005,Duke
+2005,Florida State
+2005,Georgia Tech
+2005,Maryland
+2005,Miami
+2005,NC State
+2005,North Carolina
+2005,Virginia
+2005,Virginia Tech
+2005,Wake Forest
+2006,Boston College
+2006,Clemson
+2006,Duke
+2006,Florida State
+2006,Georgia Tech
+2006,Maryland
+2006,Miami
+2006,NC State
+2006,North Carolina
+2006,Virginia
+2006,Virginia Tech
+2006,Wake Forest
+2007,Boston College
+2007,Clemson
+2007,Duke
+2007,Florida State
+2007,Georgia Tech
+2007,Maryland
+2007,Miami
+2007,NC State
+2007,North Carolina
+2007,Virginia
+2007,Virginia Tech
+2007,Wake Forest
+2008,Boston College
+2008,Clemson
+2008,Duke
+2008,Florida State
+2008,Georgia Tech
+2008,Maryland
+2008,Miami
+2008,NC State
+2008,North Carolina
+2008,Virginia
+2008,Virginia Tech
+2008,Wake Forest
+2009,Boston College
+2009,Clemson
+2009,Duke
+2009,Florida State
+2009,Georgia Tech
+2009,Maryland
+2009,Miami
+2009,NC State
+2009,North Carolina
+2009,Virginia
+2009,Virginia Tech
+2009,Wake Forest
+2010,Boston College
+2010,Clemson
+2010,Duke
+2010,Florida State
+2010,Georgia Tech
+2010,Maryland
+2010,Miami
+2010,NC State
+2010,North Carolina
+2010,Virginia
+2010,Virginia Tech
+2010,Wake Forest
+2011,Boston College
+2011,Clemson
+2011,Duke
+2011,Florida State
+2011,Georgia Tech
+2011,Maryland
+2011,Miami
+2011,NC State
+2011,North Carolina
+2011,Virginia
+2011,Virginia Tech
+2011,Wake Forest
+2012,Boston College
+2012,Clemson
+2012,Duke
+2012,Florida State
+2012,Georgia Tech
+2012,Maryland
+2012,Miami
+2012,NC State
+2012,North Carolina
+2012,Virginia
+2012,Virginia Tech
+2012,Wake Forest
+2013,Boston College
+2013,Clemson
+2013,Duke
+2013,Florida State
+2013,Georgia Tech
+2013,Maryland
+2013,Miami
+2013,NC State
+2013,North Carolina
+2013,Virginia
+2013,Virginia Tech
+2013,Wake Forest
+2014,Boston College
+2014,Clemson
+2014,Duke
+2014,Florida State
+2014,Georgia Tech
+2014,Maryland
+2014,Miami
+2014,NC State
+2014,North Carolina
+2014,Notre Dame
+2014,Pittsburgh
+2014,Virginia
+2014,Virginia Tech
+2014,Wake Forest
+2015,Boston College
+2015,Clemson
+2015,Duke
+2015,Florida State
+2015,Georgia Tech
+2015,Louisville
+2015,Miami
+2015,NC State
+2015,North Carolina
+2015,Notre Dame
+2015,Pittsburgh
+2015,Virginia
+2015,Virginia Tech
+2015,Wake Forest
+2016,Boston College
+2016,Clemson
+2016,Duke
+2016,Florida State
+2016,Georgia Tech
+2016,Louisville
+2016,Miami
+2016,NC State
+2016,North Carolina
+2016,Notre Dame
+2016,Pittsburgh
+2016,Virginia
+2016,Virginia Tech
+2016,Wake Forest
+2017,Boston College
+2017,Clemson
+2017,Duke
+2017,Florida State
+2017,Georgia Tech
+2017,Louisville
+2017,Miami
+2017,NC State
+2017,North Carolina
+2017,Notre Dame
+2017,Pittsburgh
+2017,Virginia
+2017,Virginia Tech
+2017,Wake Forest
+2018,Boston College
+2018,Clemson
+2018,Duke
+2018,Florida State
+2018,Georgia Tech
+2018,Louisville
+2018,Miami
+2018,NC State
+2018,North Carolina
+2018,Notre Dame
+2018,Pittsburgh
+2018,Virginia
+2018,Virginia Tech
+2018,Wake Forest
+2019,Boston College
+2019,Clemson
+2019,Duke
+2019,Florida State
+2019,Georgia Tech
+2019,Louisville
+2019,Miami
+2019,NC State
+2019,North Carolina
+2019,Notre Dame
+2019,Pittsburgh
+2019,Virginia
+2019,Virginia Tech
+2019,Wake Forest
+2020,Boston College
+2020,Clemson
+2020,Duke
+2020,Florida State
+2020,Georgia Tech
+2020,Louisville
+2020,Miami
+2020,NC State
+2020,North Carolina
+2020,Notre Dame
+2020,Pittsburgh
+2020,Virginia
+2020,Virginia Tech
+2020,Wake Forest
+2021,Boston College
+2021,Clemson
+2021,Duke
+2021,Florida State
+2021,Georgia Tech
+2021,Louisville
+2021,Miami
+2021,NC State
+2021,North Carolina
+2021,Notre Dame
+2021,Pittsburgh
+2021,Virginia
+2021,Virginia Tech
+2021,Wake Forest
+2022,Boston College
+2022,Clemson
+2022,Duke
+2022,Florida State
+2022,Georgia Tech
+2022,Louisville
+2022,Miami
+2022,NC State
+2022,North Carolina
+2022,Notre Dame
+2022,Pittsburgh
+2022,Virginia
+2022,Virginia Tech
+2022,Wake Forest
+2023,Boston College
+2023,Clemson
+2023,Duke
+2023,Florida State
+2023,Georgia Tech
+2023,Louisville
+2023,Miami
+2023,NC State
+2023,North Carolina
+2023,Notre Dame
+2023,Pittsburgh
+2023,Virginia
+2023,Virginia Tech
+2023,Wake Forest
+2024,Boston College
+2024,Clemson
+2024,Duke
+2024,Florida State
+2024,Georgia Tech
+2024,Louisville
+2024,Miami
+2024,NC State
+2024,North Carolina
+2024,Notre Dame
+2024,Pittsburgh
+2024,Virginia
+2024,Virginia Tech
+2024,Wake Forest
+2025,Boston College
+2025,California
+2025,Clemson
+2025,Duke
+2025,Florida State
+2025,Georgia Tech
+2025,Louisville
+2025,Miami
+2025,NC State
+2025,North Carolina
+2025,Notre Dame
+2025,Pittsburgh
+2025,Stanford
+2025,Virginia
+2025,Virginia Tech
+2025,Wake Forest
+2026,Boston College
+2026,California
+2026,Clemson
+2026,Duke
+2026,Florida State
+2026,Georgia Tech
+2026,Louisville
+2026,Miami
+2026,NC State
+2026,North Carolina
+2026,Notre Dame
+2026,Pittsburgh
+2026,Stanford
+2026,Virginia
+2026,Virginia Tech
+2026,Wake Forest
