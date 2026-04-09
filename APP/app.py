@@ -13,7 +13,8 @@ import streamlit as st
 # ==========================================================
 # Prediction bundle configuration
 # ==========================================================
-DATA_DIR = Path("data")
+APP_DIR = Path(__file__).resolve().parent
+DATA_DIR = APP_DIR / "data"
 DEFAULT_MONTHS = [2, 3, 4, 5, 6]  # Feb-Jun
 
 MODEL_CONFIGS = {
