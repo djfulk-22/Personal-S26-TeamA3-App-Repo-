@@ -1,0 +1,35 @@
+# ----------------------------
+# macOS noise
+# ----------------------------
+.DS_Store
+
+# ----------------------------
+# Jupyter / IPython noise
+# ----------------------------
+**/.ipynb_checkpoints/
+
+# ----------------------------
+# Refresh runner outputs
+# ----------------------------
+SCRAPERS/refresh_runs/
+
+# ----------------------------
+# Large scraper cache
+# ----------------------------
+SCRAPERS/Game_Stat_Scraper/vendor/collegebaseball/cache/
+SCRAPERS/GoHeels_Attendance_Scraper/cache/
+
+# ----------------------------
+# Intermediate attendance scraper outputs
+# ----------------------------
+SCRAPERS/GoHeels_Attendance_Scraper/unc_baseball_raw.csv
+SCRAPERS/GoHeels_Attendance_Scraper/unc_baseball_final.csv
+
+# ----------------------------
+# Intermediate performance scraper outputs
+# ----------------------------
+SCRAPERS/Game_Stat_Scraper/exports/uncbaseball_season_performance_0331.csv
+SCRAPERS/Game_Stat_Scraper/data/unc_baseball_final.csv
+
+# final feature set for game performance stats, used for data viz but doesn't need to be pushed
+SCRAPERS/Game_Stat_Scraper/data/final_goheels_with_features.csv
