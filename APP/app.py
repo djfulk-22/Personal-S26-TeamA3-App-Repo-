@@ -593,7 +593,12 @@ def make_game_chip(row: pd.Series, pred_col: str, colmap: Dict[str, Optional[str
             tags.append("Doubleheader")
 
     series_col = colmap.get("series_game_number")
-    if series_col and series_col in row.index and pd.notna(row[series_col]):
+    if (
+        series_col
+        and series_col in row.index
+        and pd.notna(row[series_col])
+        and float(row[series_col]) > 0
+    ):
         tags.append(f"Series {int(float(row[series_col]))}")
 
     suffix = row["_dup_suffix"]
