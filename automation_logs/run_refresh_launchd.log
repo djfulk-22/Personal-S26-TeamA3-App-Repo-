@@ -444,3 +444,65 @@ Committing and pushing updated app data files...
 Refresh pipeline completed successfully.
 Finished refresh: Fri Apr 10 14:34:45 EDT 2026
 ==================================================
+==================================================
+Starting refresh: Fri Apr 10 14:39:04 EDT 2026
+Repo: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+
+ERROR: Expected app midseason outputs not found: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv, /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv
+PROJECT_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+SCRAPERS_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS
+APP_DATA_DIR: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data
+Attendance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/GoHeels_Attendance_Scraper/unc_baseball_final.csv
+Copied refreshed GoHeels CSV -> /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/data/unc_baseball_final.csv
+Performance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/exports/uncbaseball_season_performance_0331.csv
+==================================================
+Starting refresh: Fri Apr 10 14:48:37 EDT 2026
+Repo: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+[main 68fa2ad] Automated midseason refresh 2026-04-10 14:52:27
+ 2 files changed, 208 insertions(+)
+ create mode 100644 APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv
+ create mode 100644 APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv
+To github.com:djfulk-22/Personal-S26-TeamA3-App-Repo-.git
+   057d925..68fa2ad  main -> main
+PROJECT_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+SCRAPERS_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS
+APP_DATA_DIR: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data
+Attendance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/GoHeels_Attendance_Scraper/unc_baseball_final.csv
+Copied refreshed GoHeels CSV -> /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/data/unc_baseball_final.csv
+Performance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/exports/uncbaseball_season_performance_0331.csv
+Midseason scoring refresh complete.
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_full_df.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv
+
+Running sanity checks...
+db_predictions_2024_2026_full_df.csv: shape=(103, 133)
+season_year
+2024.0    40
+2025.0    38
+2026.0    25
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_raw_tier_cols.csv: shape=(103, 92)
+season_year
+2024.0    40
+2025.0    38
+2026.0    25
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_final_feats_export.csv: shape=(103, 40)
+season_year
+2024.0    40
+2025.0    38
+2026.0    25
+Name: count, dtype: int64
+
+Committing and pushing updated app data files...
+
+>>> Running: git add APP/data/db_predictions_2024_2026_full_df.csv APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv
+
+>>> Running: git commit -m Automated midseason refresh 2026-04-10 14:52:27
+
+>>> Running: git push origin main
+
+Refresh pipeline completed successfully.
+Finished refresh: Fri Apr 10 14:52:29 EDT 2026
+==================================================
