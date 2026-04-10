@@ -21,14 +21,14 @@ MODEL_CONFIGS = {
     "predicted_midseason": {
         "label": "Midseason",
         "full": "db_predictions_2024_2026_full_df.csv",
-        "raw": "db_predictions_2024_2026_tier3_raw_tier_cols.csv",
-        "final": "db_predictions_2024_2026_tier3_final_feats_export.csv",
+        "raw": "db_predictions_2024_2026_tier5_raw_tier_cols.csv",
+        "final": "db_predictions_2024_2026_tier5_final_feats_export.csv",
     },
     "predicted_preseason": {
         "label": "Preseason",
         "full": "preseason_predictions_2024_2026_full_df.csv",
-        "raw": "preseason_predictions_2024_2026_tier2_raw_tier_cols.csv",
-        "final": "preseason_predictions_2024_2026_tier2_final_feats_export.csv",
+        "raw": "preseason_predictions_2024_2026_tier4_raw_tier_cols.csv",
+        "final": "preseason_predictions_2024_2026_tier4_final_feats_export.csv",
     },
 }
 

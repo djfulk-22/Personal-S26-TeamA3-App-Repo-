@@ -84,3 +84,363 @@ No changes detected in staged app data files. Nothing to commit.
 Refresh pipeline completed successfully.
 Finished refresh: Thu Apr  9 05:34:01 EDT 2026
 ==================================================
+==================================================
+Starting refresh: Fri Apr 10 05:30:02 EDT 2026
+Repo: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+PROJECT_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+SCRAPERS_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS
+APP_DATA_DIR: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data
+Attendance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/GoHeels_Attendance_Scraper/unc_baseball_final.csv
+Copied refreshed GoHeels CSV -> /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/data/unc_baseball_final.csv
+Performance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/exports/uncbaseball_season_performance_0331.csv
+Midseason scoring refresh complete.
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_full_df.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier3_raw_tier_cols.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier3_final_feats_export.csv
+
+Running sanity checks...
+db_predictions_2024_2026_full_df.csv: shape=(103, 132)
+season_year
+2024.0    40
+2025.0    38
+2026.0    25
+Name: count, dtype: int64
+db_predictions_2024_2026_tier3_raw_tier_cols.csv: shape=(103, 78)
+season_year
+2024.0    40
+2025.0    38
+2026.0    25
+Name: count, dtype: int64
+db_predictions_2024_2026_tier3_final_feats_export.csv: shape=(103, 43)
+season_year
+2024.0    40
+2025.0    38
+2026.0    25
+Name: count, dtype: int64
+
+Committing and pushing updated app data files...
+
+>>> Running: git add APP/data/db_predictions_2024_2026_full_df.csv APP/data/db_predictions_2024_2026_tier3_raw_tier_cols.csv APP/data/db_predictions_2024_2026_tier3_final_feats_export.csv
+
+No changes detected in staged app data files. Nothing to commit.
+
+Refresh pipeline completed successfully.
+Finished refresh: Fri Apr 10 05:34:31 EDT 2026
+==================================================
+==================================================
+Starting refresh: Fri Apr 10 14:18:51 EDT 2026
+Repo: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+
+ERROR: An error occurred while executing the following cell:
+------------------
+### SCORE 2026 WITH FROZEN DAY-BEFORE ARTIFACT AND UPDATE APP MIDSEASON FILES
+
+def score_2026_with_daybefore_frozen_artifact(source_df, artifact):
+    pred_tier = source_df.loc[
+        (source_df['season_year'] >= artifact['start_train_year']) &
+        (source_df['season_year'] <= artifact['deployment_season']),
+        [c for c in artifact['tier_input_cols'] if c in source_df.columns]
+    ].copy()
+
+    X_pred_full, meta_pred_full = prep_pred_tier(pred_tier)
+    X_pred_full = X_pred_full.reindex(columns=artifact['feature_columns'])
+
+    for col in X_pred_full.columns:
+        if pd.api.types.is_string_dtype(X_pred_full[col]) or X_pred_full[col].dtype == 'object':
+            X_pred_full[col] = X_pred_full[col].fillna("none").astype(str)
+        else:
+            X_pred_full[col] = X_pred_full[col].fillna(0)
+
+    target_year = artifact['deployment_season']
+    score_mask = meta_pred_full['season_year'] == target_year
+
+    played_mask = score_mask & meta_pred_full['attendance'].notna()
+    unplayed_mask = score_mask & meta_pred_full['attendance'].isna()
+
+    # Build a usable game datetime for deciding whether the next unplayed game
+    # is within the 1-day scoring window.
+    game_dt = pd.to_datetime(meta_pred_full.get('exact_time'), errors='coerce')
+
+    if game_dt.isna().all():
+        combined_dt = (
+            meta_pred_full['date'].astype(str).fillna('').str.strip()
+            + ' '
+            + meta_pred_full.get('time', pd.Series('', index=meta_pred_full.index)).astype(str).fillna('').str.strip()
+        ).str.strip()
+        game_dt = pd.to_datetime(combined_dt, errors='coerce')
+
+    now_ts = pd.Timestamp.now().tz_localize(None)
+
+    next_game_mask = pd.Series(False, index=score_mask.index)
+
+    future_unplayed = meta_pred_full.loc[
+        unplayed_mask & game_dt.notna() & (game_dt > now_ts)
+    ].copy()
+
+    if not future_unplayed.empty:
+        future_unplayed = future_unplayed.assign(_game_dt=game_dt.loc[future_unplayed.index])
+        next_idx = future_unplayed.sort_values('_game_dt').index[0]
+        next_game_dt = future_unplayed.loc[next_idx, '_game_dt']
+
+        run_date = now_ts.normalize()
+        next_game_date = pd.Timestamp(next_game_dt).normalize()
+
+        if next_game_date == (run_date + pd.Timedelta(days=1)):
+            next_game_mask.loc[next_idx] = True
+
+    score_mask = played_mask | next_game_mask
+
+    X_score = X_pred_full.loc[score_mask].copy()
+    meta_score = meta_pred_full.loc[score_mask].reset_index(drop=True)
+
+    preds = artifact['pipeline'].predict(X_score)
+
+    out = meta_score.copy()
+    out['predicted_raw'] = preds
+    out['predicted'] = np.round(preds).astype(int)
+
+    out['error'] = np.nan
+    out['abs_error'] = np.nan
+    out['pct_error'] = np.nan
+
+    scored_mask = out['attendance'].notna()
+    metrics_row = None
+
+    if scored_mask.any():
+        out.loc[scored_mask, 'error'] = (
+            out.loc[scored_mask, 'attendance'] - out.loc[scored_mask, 'predicted_raw']
+        )
+        out.loc[scored_mask, 'abs_error'] = np.abs(out.loc[scored_mask, 'error'])
+
+        nonzero_mask = scored_mask & (out['attendance'] != 0)
+        if nonzero_mask.any():
+            out.loc[nonzero_mask, 'pct_error'] = (
+                np.abs(out.loc[nonzero_mask, 'attendance'] - out.loc[nonzero_mask, 'predicted_raw'])
+                / out.loc[nonzero_mask, 'attendance'] * 100
+            )
+
+        scored = out.loc[scored_mask].copy()
+        metrics_row = {
+            'season': target_year,
+            'games': len(scored),
+            'rmse': np.sqrt(mean_squared_error(scored['attendance'], scored['predicted_raw'])),
+            'mae': mean_absolute_error(scored['attendance'], scored['predicted_raw']),
+            'r2': r2_score(scored['attendance'], scored['predicted_raw']),
+            'mape': scored['pct_error'].mean(skipna=True),
+            'within_500': (scored['abs_error'] <= 500).mean() * 100,
+        }
+
+    return out, metrics_row
+
+
+def replace_season_rows(template_df, new_df, season_col='season_year', target_year=2026):
+    template = template_df.copy()
+    new = new_df.copy()
+
+    template[season_col] = pd.to_numeric(template[season_col], errors='coerce')
+    new[season_col] = pd.to_numeric(new[season_col], errors='coerce')
+
+    keep_old = template.loc[template[season_col] != float(target_year)].copy()
+
+    ordered_cols = list(template.columns) + [c for c in new.columns if c not in template.columns]
+    combined = pd.concat([keep_old, new], ignore_index=True, sort=False)
+    combined = combined.reindex(columns=ordered_cols)
+
+    sort_cols = [c for c in ['season_year', 'date', 'game_number', 'opponent'] if c in combined.columns]
+    if sort_cols:
+        combined = combined.sort_values(sort_cols, kind='mergesort').reset_index(drop=True)
+
+    return combined
+
+
+artifact = joblib.load(DB_ARTIFACT_PATH)
+print("loaded artifact:", DB_ARTIFACT_PATH)
+print("artifact tier:", artifact['pred_tier_name'])
+print("artifact model:", artifact['winning_model'])
+
+db_2026_preds, db_2026_metrics = score_2026_with_daybefore_frozen_artifact(df, artifact)
+db_2026_preds['predicted_raw'] = db_2026_preds['predicted_raw'].astype(float)
+
+if db_2026_metrics is not None:
+    print(pd.DataFrame([db_2026_metrics]))
+
+db_merge_key = ['event_id', 'season_year', 'date', 'opponent']
+db_pred_merge_cols = db_merge_key + ['predicted', 'predicted_raw', 'error', 'abs_error', 'pct_error']
+
+### 2026 FILE 1: full_df slice
+db_2026_export_full = df.loc[df['season_year'] == artifact['deployment_season']].merge(
+    db_2026_preds[db_pred_merge_cols],
+    on=db_merge_key,
+    how='inner'
+)
+db_2026_export_full = db_2026_export_full.rename(columns={'attendance': 'attendance_pred'})
+db_front = ['event_id', 'season_year', 'game_number', 'date', 'opponent',
+            'attendance_pred', 'predicted', 'error', 'abs_error', 'pct_error']
+db_front = [c for c in db_front if c in db_2026_export_full.columns]
+db_2026_export_full = db_2026_export_full[db_front + [c for c in db_2026_export_full.columns if c not in db_front]]
+
+### 2026 FILE 2: raw tier slice
+db_raw_tier_cols = [c for c in artifact['tier_input_cols'] if c in df.columns]
+db_2026_raw_tier_df = df.loc[df['season_year'] == artifact['deployment_season'], db_raw_tier_cols].copy()
+db_2026_raw_tier_df = db_2026_raw_tier_df.merge(db_2026_preds[db_pred_merge_cols], on=db_merge_key, how='inner')
+
+db_raw_front = ['event_id', 'season_year', 'game_number', 'date', 'opponent',
+                'attendance', 'predicted', 'predicted_raw', 'error', 'abs_error', 'pct_error']
+db_raw_front = [c for c in db_raw_front if c in db_2026_raw_tier_df.columns]
+db_2026_raw_tier_df = db_2026_raw_tier_df[db_raw_front + [c for c in db_2026_raw_tier_df.columns if c not in db_raw_front]]
+
+### 2026 FILE 3: final features slice
+db_reduced_features = [c for c in artifact['feature_columns'] if c in db_2026_raw_tier_df.columns]
+db_meta = ['event_id', 'season_year', 'game_number', 'date', 'opponent',
+           'attendance', 'predicted', 'predicted_raw', 'error', 'abs_error', 'pct_error']
+db_meta = [c for c in db_meta if c in db_2026_raw_tier_df.columns]
+db_feat = [c for c in db_reduced_features if c not in db_meta]
+db_2026_final_feats_df = db_2026_raw_tier_df[db_meta + db_feat]
+
+### Load templates from the full unified run and replace only the 2026 rows
+db_template_full = pd.read_csv(DB_TEMPLATE_FULL)
+db_template_raw = pd.read_csv(DB_TEMPLATE_RAW)
+db_template_final = pd.read_csv(DB_TEMPLATE_FINAL)
+
+db_export_full = replace_season_rows(db_template_full, db_2026_export_full, target_year=artifact['deployment_season'])
+db_raw_tier_df = replace_season_rows(db_template_raw, db_2026_raw_tier_df, target_year=artifact['deployment_season'])
+db_final_feats_df = replace_season_rows(db_template_final, db_2026_final_feats_df, target_year=artifact['deployment_season'])
+
+### Write the three midseason files directly into the app data folder
+db_export_full.to_csv(APP_DATA_DIR / "db_predictions_2024_2026_full_df.csv", index=False)
+db_raw_tier_df.to_csv(APP_DATA_DIR / "db_predictions_2024_2026_tier3_raw_tier_cols.csv", index=False)
+db_final_feats_df.to_csv(APP_DATA_DIR / "db_predictions_2024_2026_tier3_final_feats_export.csv", index=False)
+
+print(f"wrote -> {APP_DATA_DIR / 'db_predictions_2024_2026_full_df.csv'} ({db_export_full.shape[0]} rows)")
+print(f"wrote -> {APP_DATA_DIR / 'db_predictions_2024_2026_tier3_raw_tier_cols.csv'} ({db_raw_tier_df.shape[0]} rows)")
+print(f"wrote -> {APP_DATA_DIR / 'db_predictions_2024_2026_tier3_final_feats_export.csv'} ({db_final_feats_df.shape[0]} rows)")
+------------------
+
+----- stdout -----
+loaded artifact: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCORING/artifacts/db_frozen_model_for_2026.joblib
+artifact tier: tier5
+artifact model: elastic_net
+   season  games        rmse         mae        r2       mape  within_500
+0    2026     25  480.410447  369.828288  0.103955  12.097574        72.0
+------------------
+
+[31m---------------------------------------------------------------------------[39m
+[31mFileNotFoundError[39m                         Traceback (most recent call last)
+[36mCell[39m[36m [39m[32mIn[64][39m[32m, line 167[39m
+[32m    165[39m [38;5;66;03m### Load templates from the full unified run and replace only the 2026 rows[39;00m
+[32m    166[39m db_template_full = pd.read_csv(DB_TEMPLATE_FULL)
+[32m--> [39m[32m167[39m db_template_raw = [43mpd[49m[43m.[49m[43mread_csv[49m[43m([49m[43mDB_TEMPLATE_RAW[49m[43m)[49m
+[32m    168[39m db_template_final = pd.read_csv(DB_TEMPLATE_FINAL)
+[32m    170[39m db_export_full = replace_season_rows(db_template_full, db_2026_export_full, target_year=artifact[[33m'[39m[33mdeployment_season[39m[33m'[39m])
+
+[36mFile [39m[32m~/Downloads/miniconda3/envs/tfenv/lib/python3.11/site-packages/pandas/io/parsers/readers.py:1026[39m, in [36mread_csv[39m[34m(filepath_or_buffer, sep, delimiter, header, names, index_col, usecols, dtype, engine, converters, true_values, false_values, skipinitialspace, skiprows, skipfooter, nrows, na_values, keep_default_na, na_filter, verbose, skip_blank_lines, parse_dates, infer_datetime_format, keep_date_col, date_parser, date_format, dayfirst, cache_dates, iterator, chunksize, compression, thousands, decimal, lineterminator, quotechar, quoting, doublequote, escapechar, comment, encoding, encoding_errors, dialect, on_bad_lines, delim_whitespace, low_memory, memory_map, float_precision, storage_options, dtype_backend)[39m
+[32m   1013[39m kwds_defaults = _refine_defaults_read(
+[32m   1014[39m     dialect,
+[32m   1015[39m     delimiter,
+[32m   (...)[39m[32m   1022[39m     dtype_backend=dtype_backend,
+[32m   1023[39m )
+[32m   1024[39m kwds.update(kwds_defaults)
+[32m-> [39m[32m1026[39m [38;5;28;01mreturn[39;00m [43m_read[49m[43m([49m[43mfilepath_or_buffer[49m[43m,[49m[43m [49m[43mkwds[49m[43m)[49m
+
+[36mFile [39m[32m~/Downloads/miniconda3/envs/tfenv/lib/python3.11/site-packages/pandas/io/parsers/readers.py:620[39m, in [36m_read[39m[34m(filepath_or_buffer, kwds)[39m
+[32m    617[39m _validate_names(kwds.get([33m"[39m[33mnames[39m[33m"[39m, [38;5;28;01mNone[39;00m))
+[32m    619[39m [38;5;66;03m# Create the parser.[39;00m
+[32m--> [39m[32m620[39m parser = [43mTextFileReader[49m[43m([49m[43mfilepath_or_buffer[49m[43m,[49m[43m [49m[43m*[49m[43m*[49m[43mkwds[49m[43m)[49m
+[32m    622[39m [38;5;28;01mif[39;00m chunksize [38;5;129;01mor[39;00m iterator:
+[32m    623[39m     [38;5;28;01mreturn[39;00m parser
+
+[36mFile [39m[32m~/Downloads/miniconda3/envs/tfenv/lib/python3.11/site-packages/pandas/io/parsers/readers.py:1620[39m, in [36mTextFileReader.__init__[39m[34m(self, f, engine, **kwds)[39m
+[32m   1617[39m     [38;5;28mself[39m.options[[33m"[39m[33mhas_index_names[39m[33m"[39m] = kwds[[33m"[39m[33mhas_index_names[39m[33m"[39m]
+[32m   1619[39m [38;5;28mself[39m.handles: IOHandles | [38;5;28;01mNone[39;00m = [38;5;28;01mNone[39;00m
+[32m-> [39m[32m1620[39m [38;5;28mself[39m._engine = [38;5;28;43mself[39;49m[43m.[49m[43m_make_engine[49m[43m([49m[43mf[49m[43m,[49m[43m [49m[38;5;28;43mself[39;49m[43m.[49m[43mengine[49m[43m)[49m
+
+[36mFile [39m[32m~/Downloads/miniconda3/envs/tfenv/lib/python3.11/site-packages/pandas/io/parsers/readers.py:1880[39m, in [36mTextFileReader._make_engine[39m[34m(self, f, engine)[39m
+[32m   1878[39m     [38;5;28;01mif[39;00m [33m"[39m[33mb[39m[33m"[39m [38;5;129;01mnot[39;00m [38;5;129;01min[39;00m mode:
+[32m   1879[39m         mode += [33m"[39m[33mb[39m[33m"[39m
+[32m-> [39m[32m1880[39m [38;5;28mself[39m.handles = [43mget_handle[49m[43m([49m
+[32m   1881[39m [43m    [49m[43mf[49m[43m,[49m
+[32m   1882[39m [43m    [49m[43mmode[49m[43m,[49m
+[32m   1883[39m [43m    [49m[43mencoding[49m[43m=[49m[38;5;28;43mself[39;49m[43m.[49m[43moptions[49m[43m.[49m[43mget[49m[43m([49m[33;43m"[39;49m[33;43mencoding[39;49m[33;43m"[39;49m[43m,[49m[43m [49m[38;5;28;43;01mNone[39;49;00m[43m)[49m[43m,[49m
+[32m   1884[39m [43m    [49m[43mcompression[49m[43m=[49m[38;5;28;43mself[39;49m[43m.[49m[43moptions[49m[43m.[49m[43mget[49m[43m([49m[33;43m"[39;49m[33;43mcompression[39;49m[33;43m"[39;49m[43m,[49m[43m [49m[38;5;28;43;01mNone[39;49;00m[43m)[49m[43m,[49m
+[32m   1885[39m [43m    [49m[43mmemory_map[49m[43m=[49m[38;5;28;43mself[39;49m[43m.[49m[43moptions[49m[43m.[49m[43mget[49m[43m([49m[33;43m"[39;49m[33;43mmemory_map[39;49m[33;43m"[39;49m[43m,[49m[43m [49m[38;5;28;43;01mFalse[39;49;00m[43m)[49m[43m,[49m
+[32m   1886[39m [43m    [49m[43mis_text[49m[43m=[49m[43mis_text[49m[43m,[49m
+[32m   1887[39m [43m    [49m[43merrors[49m[43m=[49m[38;5;28;43mself[39;49m[43m.[49m[43moptions[49m[43m.[49m[43mget[49m[43m([49m[33;43m"[39;49m[33;43mencoding_errors[39;49m[33;43m"[39;49m[43m,[49m[43m [49m[33;43m"[39;49m[33;43mstrict[39;49m[33;43m"[39;49m[43m)[49m[43m,[49m
+[32m   1888[39m [43m    [49m[43mstorage_options[49m[43m=[49m[38;5;28;43mself[39;49m[43m.[49m[43moptions[49m[43m.[49m[43mget[49m[43m([49m[33;43m"[39;49m[33;43mstorage_options[39;49m[33;43m"[39;49m[43m,[49m[43m [49m[38;5;28;43;01mNone[39;49;00m[43m)[49m[43m,[49m
+[32m   1889[39m [43m[49m[43m)[49m
+[32m   1890[39m [38;5;28;01massert[39;00m [38;5;28mself[39m.handles [38;5;129;01mis[39;00m [38;5;129;01mnot[39;00m [38;5;28;01mNone[39;00m
+[32m   1891[39m f = [38;5;28mself[39m.handles.handle
+
+[36mFile [39m[32m~/Downloads/miniconda3/envs/tfenv/lib/python3.11/site-packages/pandas/io/common.py:873[39m, in [36mget_handle[39m[34m(path_or_buf, mode, encoding, compression, memory_map, is_text, errors, storage_options)[39m
+[32m    868[39m [38;5;28;01melif[39;00m [38;5;28misinstance[39m(handle, [38;5;28mstr[39m):
+[32m    869[39m     [38;5;66;03m# Check whether the filename is to be opened in binary mode.[39;00m
+[32m    870[39m     [38;5;66;03m# Binary mode does not support 'encoding' and 'newline'.[39;00m
+[32m    871[39m     [38;5;28;01mif[39;00m ioargs.encoding [38;5;129;01mand[39;00m [33m"[39m[33mb[39m[33m"[39m [38;5;129;01mnot[39;00m [38;5;129;01min[39;00m ioargs.mode:
+[32m    872[39m         [38;5;66;03m# Encoding[39;00m
+[32m--> [39m[32m873[39m         handle = [38;5;28mopen[39m(
+[32m    874[39m             handle,
+[32m    875[39m             ioargs.mode,
+[32m    876[39m             encoding=ioargs.encoding,
+[32m    877[39m             errors=errors,
+[32m    878[39m             newline=[33m"[39m[33m"[39m,
+[32m    879[39m         )
+[32m    880[39m     [38;5;28;01melse[39;00m:
+[32m    881[39m         [38;5;66;03m# Binary mode[39;00m
+[32m    882[39m         handle = [38;5;28mopen[39m(handle, ioargs.mode)
+
+[31mFileNotFoundError[39m: [Errno 2] No such file or directory: '/Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCORING/templates/db_predictions_2024_2026_tier3_raw_tier_cols.csv'
+
+PROJECT_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+SCRAPERS_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS
+APP_DATA_DIR: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data
+Attendance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/GoHeels_Attendance_Scraper/unc_baseball_final.csv
+Copied refreshed GoHeels CSV -> /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/data/unc_baseball_final.csv
+Performance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/exports/uncbaseball_season_performance_0331.csv
+==================================================
+Starting refresh: Fri Apr 10 14:30:17 EDT 2026
+Repo: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+[main 4f29833] Automated midseason refresh 2026-04-10 14:34:44
+ 3 files changed, 312 insertions(+), 312 deletions(-)
+To github.com:djfulk-22/Personal-S26-TeamA3-App-Repo-.git
+   39321fc..4f29833  main -> main
+PROJECT_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+SCRAPERS_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS
+APP_DATA_DIR: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data
+Attendance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/GoHeels_Attendance_Scraper/unc_baseball_final.csv
+Copied refreshed GoHeels CSV -> /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/data/unc_baseball_final.csv
+Performance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/exports/uncbaseball_season_performance_0331.csv
+Midseason scoring refresh complete.
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_full_df.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier3_raw_tier_cols.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier3_final_feats_export.csv
+
+Running sanity checks...
+db_predictions_2024_2026_full_df.csv: shape=(103, 133)
+season_year
+2024.0    40
+2025.0    38
+2026.0    25
+Name: count, dtype: int64
+db_predictions_2024_2026_tier3_raw_tier_cols.csv: shape=(103, 92)
+season_year
+2024.0    40
+2025.0    38
+2026.0    25
+Name: count, dtype: int64
+db_predictions_2024_2026_tier3_final_feats_export.csv: shape=(103, 40)
+season_year
+2024.0    40
+2025.0    38
+2026.0    25
+Name: count, dtype: int64
+
+Committing and pushing updated app data files...
+
+>>> Running: git add APP/data/db_predictions_2024_2026_full_df.csv APP/data/db_predictions_2024_2026_tier3_raw_tier_cols.csv APP/data/db_predictions_2024_2026_tier3_final_feats_export.csv
+
+>>> Running: git commit -m Automated midseason refresh 2026-04-10 14:34:44
+
+>>> Running: git push origin main
+
+Refresh pipeline completed successfully.
+Finished refresh: Fri Apr 10 14:34:45 EDT 2026
+==================================================

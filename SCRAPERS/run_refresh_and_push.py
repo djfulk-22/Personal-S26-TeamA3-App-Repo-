@@ -47,8 +47,8 @@ APP_DATA_DIR = APP_ROOT / "data"
 
 MIDSEASON_APP_FILES = [
     APP_DATA_DIR / "db_predictions_2024_2026_full_df.csv",
-    APP_DATA_DIR / "db_predictions_2024_2026_tier3_raw_tier_cols.csv",
-    APP_DATA_DIR / "db_predictions_2024_2026_tier3_final_feats_export.csv",
+    APP_DATA_DIR / "db_predictions_2024_2026_tier5_raw_tier_cols.csv",
+    APP_DATA_DIR / "db_predictions_2024_2026_tier5_final_feats_export.csv",
 ]
 
 REFRESH_RUNS_DIR = SCRAPERS_ROOT / "refresh_runs"
