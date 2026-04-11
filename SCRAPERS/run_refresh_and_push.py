@@ -5,6 +5,7 @@ import sys
 import time
 
 import nbformat
+import numpy as np
 import pandas as pd
 from nbconvert.preprocessors import ExecutePreprocessor
 
@@ -45,11 +46,16 @@ PERFORMANCE_OUTPUT_CSV = PERFORMANCE_EXPORTS_DIR / "uncbaseball_season_performan
 
 APP_DATA_DIR = APP_ROOT / "data"
 
+MIDSEASON_FULL_FILE = APP_DATA_DIR / "db_predictions_2024_2026_full_df.csv"
+PRESEASON_FULL_FILE = APP_DATA_DIR / "preseason_predictions_2024_2026_full_df.csv"
+
 MIDSEASON_APP_FILES = [
-    APP_DATA_DIR / "db_predictions_2024_2026_full_df.csv",
+    MIDSEASON_FULL_FILE,
     APP_DATA_DIR / "db_predictions_2024_2026_tier5_raw_tier_cols.csv",
     APP_DATA_DIR / "db_predictions_2024_2026_tier5_final_feats_export.csv",
 ]
+
+APP_FILES_TO_STAGE = MIDSEASON_APP_FILES + [PRESEASON_FULL_FILE]
 
 REFRESH_RUNS_DIR = SCRAPERS_ROOT / "refresh_runs"
 REFRESH_RUNS_DIR.mkdir(parents=True, exist_ok=True)
@@ -106,13 +112,92 @@ def ensure_repo_root():
         raise FileNotFoundError(f"Did not find .git at expected project root: {PROJECT_ROOT}")
 
 
+def _shared_key_columns(mid_df: pd.DataFrame, pre_df: pd.DataFrame):
+    if "event_id" in mid_df.columns and "event_id" in pre_df.columns:
+        return ["event_id"]
+
+    fallback = [
+        c for c in ["season_year", "date", "opponent", "game_number", "dh_game_number"]
+        if c in mid_df.columns and c in pre_df.columns
+    ]
+
+    if len(fallback) < 3:
+        raise ValueError(
+            "Could not find enough shared key columns to sync preseason actuals."
+        )
+
+    return fallback
+
+
+def sync_preseason_actuals_from_midseason():
+    if not MIDSEASON_FULL_FILE.exists():
+        raise FileNotFoundError(f"Missing midseason full file: {MIDSEASON_FULL_FILE}")
+
+    if not PRESEASON_FULL_FILE.exists():
+        raise FileNotFoundError(f"Missing preseason full file: {PRESEASON_FULL_FILE}")
+
+    mid = pd.read_csv(MIDSEASON_FULL_FILE)
+    pre = pd.read_csv(PRESEASON_FULL_FILE)
+
+    key_cols = _shared_key_columns(mid, pre)
+
+    mid_actual_source = None
+    for candidate in ["actual", "attendance", "attendance_pred"]:
+        if candidate in mid.columns:
+            mid_actual_source = candidate
+            break
+
+    if mid_actual_source is None:
+        raise ValueError(
+            "Midseason full file is missing an actual attendance source column."
+        )
+
+    lookup = (
+        mid[key_cols + [mid_actual_source]]
+        .drop_duplicates(subset=key_cols, keep="last")
+        .rename(columns={mid_actual_source: "__actual_src"})
+        .copy()
+    )
+
+    merged = pre.merge(lookup, on=key_cols, how="left")
+
+    if "actual" not in merged.columns:
+        merged["actual"] = np.nan
+
+    old_actual = pd.to_numeric(merged["actual"], errors="coerce")
+    new_actual = pd.to_numeric(merged["__actual_src"], errors="coerce")
+
+    rows_with_new_actual = int(new_actual.notna().sum())
+    rows_changed = int(((new_actual.notna()) & (~old_actual.eq(new_actual))).sum())
+
+    merged["actual"] = new_actual.where(new_actual.notna(), old_actual)
+
+    pred_base_col = "predicted_raw" if "predicted_raw" in merged.columns else "predicted"
+    pred_base = pd.to_numeric(merged[pred_base_col], errors="coerce")
+    actual = pd.to_numeric(merged["actual"], errors="coerce")
+
+    valid = actual.notna() & pred_base.notna()
+    error = actual - pred_base
+
+    merged["error"] = np.where(valid, error, np.nan)
+    merged["abs_error"] = np.where(valid, np.abs(error), np.nan)
+    merged["pct_error"] = np.where(valid & (actual != 0), np.abs(error) / actual * 100.0, np.nan)
+
+    merged = merged.drop(columns=["__actual_src"])
+    merged.to_csv(PRESEASON_FULL_FILE, index=False)
+
+    print("Preseason actual sync complete:", PRESEASON_FULL_FILE)
+    print(f"  Midseason source column used: {mid_actual_source}")
+    print(f"  Join keys used: {key_cols}")
+    print(f"  Rows with refreshed actuals available: {rows_with_new_actual}")
+    print(f"  Rows whose preseason actual changed: {rows_changed}")
+
+
 def git_commit_and_push():
-    # Only stage the three app data files
-    rel_paths = [str(p.relative_to(PROJECT_ROOT)) for p in MIDSEASON_APP_FILES]
+    rel_paths = [str(p.relative_to(PROJECT_ROOT)) for p in APP_FILES_TO_STAGE]
 
     run_command(["git", "add", *rel_paths], cwd=PROJECT_ROOT)
 
-    # Check whether the staged files actually changed
     diff_result = subprocess.run(
         ["git", "diff", "--cached", "--quiet", "--", *rel_paths],
         cwd=PROJECT_ROOT,
@@ -122,7 +207,7 @@ def git_commit_and_push():
         print("\nNo changes detected in staged app data files. Nothing to commit.")
         return
 
-    commit_message = f"Automated midseason refresh {time.strftime('%Y-%m-%d %H:%M:%S')}"
+    commit_message = f"Automated app data refresh {time.strftime('%Y-%m-%d %H:%M:%S')}"
     run_command(["git", "commit", "-m", commit_message], cwd=PROJECT_ROOT)
     run_command(["git", "push", "origin", "main"], cwd=PROJECT_ROOT)
 
@@ -190,12 +275,16 @@ def main():
     for p in MIDSEASON_APP_FILES:
         print("  wrote:", p)
 
-    # 5) Sanity checks
+    # 5) Sync refreshed actual attendance into preseason full file
+    sync_preseason_actuals_from_midseason()
+
+    # 6) Sanity checks
     print("\nRunning sanity checks...")
     for p in MIDSEASON_APP_FILES:
         sanity_check_output(p)
+    sanity_check_output(PRESEASON_FULL_FILE)
 
-    # 6) Commit and push only app data files
+    # 7) Commit and push app data files
     print("\nCommitting and pushing updated app data files...")
     git_commit_and_push()
 
