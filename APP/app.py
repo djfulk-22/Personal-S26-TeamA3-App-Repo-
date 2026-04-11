@@ -858,7 +858,9 @@ extreme_descriptions = describe_prediction_extremes(season_games, selected_pred_
 st.caption(f"Highest prediction game: {extreme_descriptions['Highest prediction game']}")
 st.caption(f"Lowest prediction game: {extreme_descriptions['Lowest prediction game']}")
 
-calendar_tab, detail_tab, data_tab = st.tabs(["Season calendar", "Game detail", "Data explorer"])
+calendar_tab, detail_tab, data_tab, help_tab = st.tabs(
+    ["Season calendar", "Game detail", "Data explorer", "How to use this app"]
+)
 
 with calendar_tab:
     st.subheader(f"{selected_season} planning calendar")
@@ -956,4 +958,59 @@ with data_tab:
             use_container_width=True,
             hide_index=True,
         )
+
+with help_tab:
+    st.subheader("How to use this app")
+
+    st.markdown("""
+### Quick start
+1. Open the app and wait for it to load.
+2. In the top-right corner, click the three-dot menu.
+3. Click **Clear cache**.
+4. Click **Rerun**.
+5. Use the controls on the left to choose the season, prediction type, and months you want to review.
+
+### Sidebar controls
+- **Season**: Choose the year you want to review.
+- **Prediction column**: Switch between **Midseason** and **Preseason** predictions.
+- **Months to display**: Limit the app to the part of the season you want to see.
+
+### Game selector
+Use the **Game to inspect in detail** dropdown near the top of the page to choose one specific game.
+
+### Season calendar tab
+This tab shows the selected games in a calendar format.
+- Darker dates indicate higher projected attendance.
+- Lighter dates indicate lower projected attendance.
+- If more than one game appears on a date, the games are stacked in the same cell.
+
+Use this tab for a quick season planning view.
+
+### Game detail tab
+This tab gives more detail for the game selected in the dropdown.
+It shows:
+- opponent
+- date
+- start time
+- selected prediction
+- recorded attendance, when available
+- error metrics, when available
+- a feature snapshot for that game
+
+Use this tab when you want to focus on one game.
+
+### Data explorer tab
+This tab shows the filtered game data in table form.
+You can choose which columns to display and compare games side by side.
+
+Use this tab when you want a spreadsheet-style view.
+
+### Refresh tip
+If the app seems outdated or does not look correct:
+1. Click the three-dot menu in the top-right corner.
+2. Click **Clear cache**.
+3. Click **Rerun**.
+
+That will help ensure the app is showing the most recent available data.
+""")
 
