@@ -555,3 +555,1245 @@ Committing and pushing updated app data files...
 Refresh pipeline completed successfully.
 Finished refresh: Sat Apr 11 05:34:31 EDT 2026
 ==================================================
+==================================================
+Starting refresh: Sat Apr 11 14:36:07 EDT 2026
+Repo: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+[main b072792] Automated app data refresh 2026-04-11 14:41:06
+ 1 file changed, 99 insertions(+), 99 deletions(-)
+To github.com:djfulk-22/Personal-S26-TeamA3-App-Repo-.git
+   7a60ca8..b072792  main -> main
+PROJECT_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+SCRAPERS_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS
+APP_DATA_DIR: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data
+Attendance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/GoHeels_Attendance_Scraper/unc_baseball_final.csv
+Copied refreshed GoHeels CSV -> /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/data/unc_baseball_final.csv
+Performance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/exports/uncbaseball_season_performance_0331.csv
+Midseason scoring refresh complete.
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_full_df.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv
+Preseason actual sync complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/preseason_predictions_2024_2026_full_df.csv
+  Midseason source column used: attendance_pred
+  Join keys used: ['event_id']
+  Rows with refreshed actuals available: 90
+  Rows whose preseason actual changed: 5
+
+Running sanity checks...
+db_predictions_2024_2026_full_df.csv: shape=(103, 133)
+season_year
+2024.0    40
+2025.0    38
+2026.0    25
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_raw_tier_cols.csv: shape=(103, 92)
+season_year
+2024.0    40
+2025.0    38
+2026.0    25
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_final_feats_export.csv: shape=(103, 40)
+season_year
+2024.0    40
+2025.0    38
+2026.0    25
+Name: count, dtype: int64
+preseason_predictions_2024_2026_full_df.csv: shape=(102, 136)
+season_year
+2024.0    34
+2025.0    31
+2026.0    37
+Name: count, dtype: int64
+
+Committing and pushing updated app data files...
+
+>>> Running: git add APP/data/db_predictions_2024_2026_full_df.csv APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv APP/data/preseason_predictions_2024_2026_full_df.csv
+
+>>> Running: git commit -m Automated app data refresh 2026-04-11 14:41:06
+
+>>> Running: git push origin main
+
+Refresh pipeline completed successfully.
+Finished refresh: Sat Apr 11 14:41:08 EDT 2026
+==================================================
+==================================================
+Starting refresh: Sun Apr 12 05:30:02 EDT 2026
+Repo: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+[main e84b5f1] Automated app data refresh 2026-04-12 05:34:21
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+To github.com:djfulk-22/Personal-S26-TeamA3-App-Repo-.git
+   b072792..e84b5f1  main -> main
+PROJECT_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+SCRAPERS_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS
+APP_DATA_DIR: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data
+Attendance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/GoHeels_Attendance_Scraper/unc_baseball_final.csv
+Copied refreshed GoHeels CSV -> /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/data/unc_baseball_final.csv
+Performance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/exports/uncbaseball_season_performance_0331.csv
+Midseason scoring refresh complete.
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_full_df.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv
+Preseason actual sync complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/preseason_predictions_2024_2026_full_df.csv
+  Midseason source column used: attendance_pred
+  Join keys used: ['event_id']
+  Rows with refreshed actuals available: 90
+  Rows whose preseason actual changed: 0
+
+Running sanity checks...
+db_predictions_2024_2026_full_df.csv: shape=(103, 133)
+season_year
+2024.0    40
+2025.0    38
+2026.0    25
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_raw_tier_cols.csv: shape=(103, 92)
+season_year
+2024.0    40
+2025.0    38
+2026.0    25
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_final_feats_export.csv: shape=(103, 40)
+season_year
+2024.0    40
+2025.0    38
+2026.0    25
+Name: count, dtype: int64
+preseason_predictions_2024_2026_full_df.csv: shape=(102, 136)
+season_year
+2024.0    34
+2025.0    31
+2026.0    37
+Name: count, dtype: int64
+
+Committing and pushing updated app data files...
+
+>>> Running: git add APP/data/db_predictions_2024_2026_full_df.csv APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv APP/data/preseason_predictions_2024_2026_full_df.csv
+
+>>> Running: git commit -m Automated app data refresh 2026-04-12 05:34:21
+
+>>> Running: git push origin main
+
+Refresh pipeline completed successfully.
+Finished refresh: Sun Apr 12 05:34:22 EDT 2026
+==================================================
+==================================================
+Starting refresh: Mon Apr 13 05:30:03 EDT 2026
+Repo: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+[main 8f9194b] Automated app data refresh 2026-04-13 05:34:32
+ 3 files changed, 3 insertions(+)
+To github.com:djfulk-22/Personal-S26-TeamA3-App-Repo-.git
+   e84b5f1..8f9194b  main -> main
+PROJECT_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+SCRAPERS_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS
+APP_DATA_DIR: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data
+Attendance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/GoHeels_Attendance_Scraper/unc_baseball_final.csv
+Copied refreshed GoHeels CSV -> /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/data/unc_baseball_final.csv
+Performance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/exports/uncbaseball_season_performance_0331.csv
+Midseason scoring refresh complete.
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_full_df.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv
+Preseason actual sync complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/preseason_predictions_2024_2026_full_df.csv
+  Midseason source column used: attendance_pred
+  Join keys used: ['event_id']
+  Rows with refreshed actuals available: 90
+  Rows whose preseason actual changed: 0
+
+Running sanity checks...
+db_predictions_2024_2026_full_df.csv: shape=(104, 133)
+season_year
+2024.0    40
+2025.0    38
+2026.0    26
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_raw_tier_cols.csv: shape=(104, 92)
+season_year
+2024.0    40
+2025.0    38
+2026.0    26
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_final_feats_export.csv: shape=(104, 40)
+season_year
+2024.0    40
+2025.0    38
+2026.0    26
+Name: count, dtype: int64
+preseason_predictions_2024_2026_full_df.csv: shape=(102, 136)
+season_year
+2024.0    34
+2025.0    31
+2026.0    37
+Name: count, dtype: int64
+
+Committing and pushing updated app data files...
+
+>>> Running: git add APP/data/db_predictions_2024_2026_full_df.csv APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv APP/data/preseason_predictions_2024_2026_full_df.csv
+
+>>> Running: git commit -m Automated app data refresh 2026-04-13 05:34:32
+
+>>> Running: git push origin main
+
+Refresh pipeline completed successfully.
+Finished refresh: Mon Apr 13 05:34:33 EDT 2026
+==================================================
+==================================================
+Starting refresh: Tue Apr 14 05:30:05 EDT 2026
+Repo: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+[main f2d5f05] Automated app data refresh 2026-04-14 05:34:20
+ 3 files changed, 3 deletions(-)
+To github.com:djfulk-22/Personal-S26-TeamA3-App-Repo-.git
+   8f9194b..f2d5f05  main -> main
+PROJECT_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+SCRAPERS_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS
+APP_DATA_DIR: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data
+Attendance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/GoHeels_Attendance_Scraper/unc_baseball_final.csv
+Copied refreshed GoHeels CSV -> /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/data/unc_baseball_final.csv
+Performance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/exports/uncbaseball_season_performance_0331.csv
+Midseason scoring refresh complete.
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_full_df.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv
+Preseason actual sync complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/preseason_predictions_2024_2026_full_df.csv
+  Midseason source column used: attendance_pred
+  Join keys used: ['event_id']
+  Rows with refreshed actuals available: 90
+  Rows whose preseason actual changed: 0
+
+Running sanity checks...
+db_predictions_2024_2026_full_df.csv: shape=(103, 133)
+season_year
+2024.0    40
+2025.0    38
+2026.0    25
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_raw_tier_cols.csv: shape=(103, 92)
+season_year
+2024.0    40
+2025.0    38
+2026.0    25
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_final_feats_export.csv: shape=(103, 40)
+season_year
+2024.0    40
+2025.0    38
+2026.0    25
+Name: count, dtype: int64
+preseason_predictions_2024_2026_full_df.csv: shape=(102, 136)
+season_year
+2024.0    34
+2025.0    31
+2026.0    37
+Name: count, dtype: int64
+
+Committing and pushing updated app data files...
+
+>>> Running: git add APP/data/db_predictions_2024_2026_full_df.csv APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv APP/data/preseason_predictions_2024_2026_full_df.csv
+
+>>> Running: git commit -m Automated app data refresh 2026-04-14 05:34:20
+
+>>> Running: git push origin main
+
+Refresh pipeline completed successfully.
+Finished refresh: Tue Apr 14 05:34:21 EDT 2026
+==================================================
+==================================================
+Starting refresh: Wed Apr 15 05:30:05 EDT 2026
+Repo: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+[main 2a520f3] Automated app data refresh 2026-04-15 05:34:28
+ 4 files changed, 4 insertions(+), 1 deletion(-)
+To github.com:djfulk-22/Personal-S26-TeamA3-App-Repo-.git
+   f2d5f05..2a520f3  main -> main
+PROJECT_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+SCRAPERS_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS
+APP_DATA_DIR: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data
+Attendance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/GoHeels_Attendance_Scraper/unc_baseball_final.csv
+Copied refreshed GoHeels CSV -> /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/data/unc_baseball_final.csv
+Performance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/exports/uncbaseball_season_performance_0331.csv
+Midseason scoring refresh complete.
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_full_df.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv
+Preseason actual sync complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/preseason_predictions_2024_2026_full_df.csv
+  Midseason source column used: attendance_pred
+  Join keys used: ['event_id']
+  Rows with refreshed actuals available: 91
+  Rows whose preseason actual changed: 1
+
+Running sanity checks...
+db_predictions_2024_2026_full_df.csv: shape=(104, 133)
+season_year
+2024.0    40
+2025.0    38
+2026.0    26
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_raw_tier_cols.csv: shape=(104, 92)
+season_year
+2024.0    40
+2025.0    38
+2026.0    26
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_final_feats_export.csv: shape=(104, 40)
+season_year
+2024.0    40
+2025.0    38
+2026.0    26
+Name: count, dtype: int64
+preseason_predictions_2024_2026_full_df.csv: shape=(102, 136)
+season_year
+2024.0    34
+2025.0    31
+2026.0    37
+Name: count, dtype: int64
+
+Committing and pushing updated app data files...
+
+>>> Running: git add APP/data/db_predictions_2024_2026_full_df.csv APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv APP/data/preseason_predictions_2024_2026_full_df.csv
+
+>>> Running: git commit -m Automated app data refresh 2026-04-15 05:34:28
+
+>>> Running: git push origin main
+
+Refresh pipeline completed successfully.
+Finished refresh: Wed Apr 15 05:34:30 EDT 2026
+==================================================
+==================================================
+Starting refresh: Thu Apr 16 05:30:05 EDT 2026
+Repo: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+[main 2cebd4d] Automated app data refresh 2026-04-16 05:34:38
+ 3 files changed, 3 insertions(+)
+To github.com:djfulk-22/Personal-S26-TeamA3-App-Repo-.git
+   2a520f3..2cebd4d  main -> main
+PROJECT_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+SCRAPERS_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS
+APP_DATA_DIR: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data
+Attendance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/GoHeels_Attendance_Scraper/unc_baseball_final.csv
+Copied refreshed GoHeels CSV -> /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/data/unc_baseball_final.csv
+Performance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/exports/uncbaseball_season_performance_0331.csv
+Midseason scoring refresh complete.
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_full_df.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv
+Preseason actual sync complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/preseason_predictions_2024_2026_full_df.csv
+  Midseason source column used: attendance_pred
+  Join keys used: ['event_id']
+  Rows with refreshed actuals available: 91
+  Rows whose preseason actual changed: 0
+
+Running sanity checks...
+db_predictions_2024_2026_full_df.csv: shape=(105, 133)
+season_year
+2024.0    40
+2025.0    38
+2026.0    27
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_raw_tier_cols.csv: shape=(105, 92)
+season_year
+2024.0    40
+2025.0    38
+2026.0    27
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_final_feats_export.csv: shape=(105, 40)
+season_year
+2024.0    40
+2025.0    38
+2026.0    27
+Name: count, dtype: int64
+preseason_predictions_2024_2026_full_df.csv: shape=(102, 136)
+season_year
+2024.0    34
+2025.0    31
+2026.0    37
+Name: count, dtype: int64
+
+Committing and pushing updated app data files...
+
+>>> Running: git add APP/data/db_predictions_2024_2026_full_df.csv APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv APP/data/preseason_predictions_2024_2026_full_df.csv
+
+>>> Running: git commit -m Automated app data refresh 2026-04-16 05:34:38
+
+>>> Running: git push origin main
+
+Refresh pipeline completed successfully.
+Finished refresh: Thu Apr 16 05:34:39 EDT 2026
+==================================================
+==================================================
+Starting refresh: Fri Apr 17 05:30:05 EDT 2026
+Repo: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+[main aab2f93] Automated app data refresh 2026-04-17 05:34:35
+ 3 files changed, 3 deletions(-)
+To github.com:djfulk-22/Personal-S26-TeamA3-App-Repo-.git
+   2cebd4d..aab2f93  main -> main
+PROJECT_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+SCRAPERS_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS
+APP_DATA_DIR: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data
+Attendance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/GoHeels_Attendance_Scraper/unc_baseball_final.csv
+Copied refreshed GoHeels CSV -> /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/data/unc_baseball_final.csv
+Performance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/exports/uncbaseball_season_performance_0331.csv
+Midseason scoring refresh complete.
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_full_df.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv
+Preseason actual sync complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/preseason_predictions_2024_2026_full_df.csv
+  Midseason source column used: attendance_pred
+  Join keys used: ['event_id']
+  Rows with refreshed actuals available: 91
+  Rows whose preseason actual changed: 0
+
+Running sanity checks...
+db_predictions_2024_2026_full_df.csv: shape=(104, 133)
+season_year
+2024.0    40
+2025.0    38
+2026.0    26
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_raw_tier_cols.csv: shape=(104, 92)
+season_year
+2024.0    40
+2025.0    38
+2026.0    26
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_final_feats_export.csv: shape=(104, 40)
+season_year
+2024.0    40
+2025.0    38
+2026.0    26
+Name: count, dtype: int64
+preseason_predictions_2024_2026_full_df.csv: shape=(102, 136)
+season_year
+2024.0    34
+2025.0    31
+2026.0    37
+Name: count, dtype: int64
+
+Committing and pushing updated app data files...
+
+>>> Running: git add APP/data/db_predictions_2024_2026_full_df.csv APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv APP/data/preseason_predictions_2024_2026_full_df.csv
+
+>>> Running: git commit -m Automated app data refresh 2026-04-17 05:34:35
+
+>>> Running: git push origin main
+
+Refresh pipeline completed successfully.
+Finished refresh: Fri Apr 17 05:34:36 EDT 2026
+==================================================
+==================================================
+Starting refresh: Sat Apr 18 05:30:04 EDT 2026
+Repo: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+[main fecc73b] Automated app data refresh 2026-04-18 05:34:32
+ 4 files changed, 4 insertions(+), 1 deletion(-)
+To github.com:djfulk-22/Personal-S26-TeamA3-App-Repo-.git
+   aab2f93..fecc73b  main -> main
+PROJECT_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+SCRAPERS_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS
+APP_DATA_DIR: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data
+Attendance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/GoHeels_Attendance_Scraper/unc_baseball_final.csv
+Copied refreshed GoHeels CSV -> /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/data/unc_baseball_final.csv
+Performance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/exports/uncbaseball_season_performance_0331.csv
+Midseason scoring refresh complete.
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_full_df.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv
+Preseason actual sync complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/preseason_predictions_2024_2026_full_df.csv
+  Midseason source column used: attendance_pred
+  Join keys used: ['event_id']
+  Rows with refreshed actuals available: 92
+  Rows whose preseason actual changed: 1
+
+Running sanity checks...
+db_predictions_2024_2026_full_df.csv: shape=(105, 133)
+season_year
+2024.0    40
+2025.0    38
+2026.0    27
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_raw_tier_cols.csv: shape=(105, 92)
+season_year
+2024.0    40
+2025.0    38
+2026.0    27
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_final_feats_export.csv: shape=(105, 40)
+season_year
+2024.0    40
+2025.0    38
+2026.0    27
+Name: count, dtype: int64
+preseason_predictions_2024_2026_full_df.csv: shape=(102, 136)
+season_year
+2024.0    34
+2025.0    31
+2026.0    37
+Name: count, dtype: int64
+
+Committing and pushing updated app data files...
+
+>>> Running: git add APP/data/db_predictions_2024_2026_full_df.csv APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv APP/data/preseason_predictions_2024_2026_full_df.csv
+
+>>> Running: git commit -m Automated app data refresh 2026-04-18 05:34:32
+
+>>> Running: git push origin main
+
+Refresh pipeline completed successfully.
+Finished refresh: Sat Apr 18 05:34:34 EDT 2026
+==================================================
+==================================================
+Starting refresh: Sun Apr 19 05:30:05 EDT 2026
+Repo: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+[main 9bc70bd] Automated app data refresh 2026-04-19 05:34:41
+ 4 files changed, 4 insertions(+), 1 deletion(-)
+To github.com:djfulk-22/Personal-S26-TeamA3-App-Repo-.git
+   fecc73b..9bc70bd  main -> main
+PROJECT_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+SCRAPERS_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS
+APP_DATA_DIR: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data
+Attendance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/GoHeels_Attendance_Scraper/unc_baseball_final.csv
+Copied refreshed GoHeels CSV -> /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/data/unc_baseball_final.csv
+Performance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/exports/uncbaseball_season_performance_0331.csv
+Midseason scoring refresh complete.
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_full_df.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv
+Preseason actual sync complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/preseason_predictions_2024_2026_full_df.csv
+  Midseason source column used: attendance_pred
+  Join keys used: ['event_id']
+  Rows with refreshed actuals available: 93
+  Rows whose preseason actual changed: 1
+
+Running sanity checks...
+db_predictions_2024_2026_full_df.csv: shape=(106, 133)
+season_year
+2024.0    40
+2025.0    38
+2026.0    28
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_raw_tier_cols.csv: shape=(106, 92)
+season_year
+2024.0    40
+2025.0    38
+2026.0    28
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_final_feats_export.csv: shape=(106, 40)
+season_year
+2024.0    40
+2025.0    38
+2026.0    28
+Name: count, dtype: int64
+preseason_predictions_2024_2026_full_df.csv: shape=(102, 136)
+season_year
+2024.0    34
+2025.0    31
+2026.0    37
+Name: count, dtype: int64
+
+Committing and pushing updated app data files...
+
+>>> Running: git add APP/data/db_predictions_2024_2026_full_df.csv APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv APP/data/preseason_predictions_2024_2026_full_df.csv
+
+>>> Running: git commit -m Automated app data refresh 2026-04-19 05:34:41
+
+>>> Running: git push origin main
+
+Refresh pipeline completed successfully.
+Finished refresh: Sun Apr 19 05:34:43 EDT 2026
+==================================================
+==================================================
+Starting refresh: Mon Apr 20 05:30:03 EDT 2026
+Repo: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+[main 88f0f47] Automated app data refresh 2026-04-20 05:34:46
+ 4 files changed, 13 insertions(+), 7 deletions(-)
+To github.com:djfulk-22/Personal-S26-TeamA3-App-Repo-.git
+   9bc70bd..88f0f47  main -> main
+PROJECT_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+SCRAPERS_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS
+APP_DATA_DIR: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data
+Attendance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/GoHeels_Attendance_Scraper/unc_baseball_final.csv
+Copied refreshed GoHeels CSV -> /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/data/unc_baseball_final.csv
+Performance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/exports/uncbaseball_season_performance_0331.csv
+Midseason scoring refresh complete.
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_full_df.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv
+Preseason actual sync complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/preseason_predictions_2024_2026_full_df.csv
+  Midseason source column used: attendance_pred
+  Join keys used: ['event_id']
+  Rows with refreshed actuals available: 94
+  Rows whose preseason actual changed: 1
+
+Running sanity checks...
+db_predictions_2024_2026_full_df.csv: shape=(108, 133)
+season_year
+2024.0    40
+2025.0    38
+2026.0    30
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_raw_tier_cols.csv: shape=(108, 92)
+season_year
+2024.0    40
+2025.0    38
+2026.0    30
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_final_feats_export.csv: shape=(108, 40)
+season_year
+2024.0    40
+2025.0    38
+2026.0    30
+Name: count, dtype: int64
+preseason_predictions_2024_2026_full_df.csv: shape=(102, 136)
+season_year
+2024.0    34
+2025.0    31
+2026.0    37
+Name: count, dtype: int64
+
+Committing and pushing updated app data files...
+
+>>> Running: git add APP/data/db_predictions_2024_2026_full_df.csv APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv APP/data/preseason_predictions_2024_2026_full_df.csv
+
+>>> Running: git commit -m Automated app data refresh 2026-04-20 05:34:46
+
+>>> Running: git push origin main
+
+Refresh pipeline completed successfully.
+Finished refresh: Mon Apr 20 05:34:47 EDT 2026
+==================================================
+==================================================
+Starting refresh: Tue Apr 21 05:30:02 EDT 2026
+Repo: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+[main 613e135] Automated app data refresh 2026-04-21 05:34:54
+ 3 files changed, 3 deletions(-)
+To github.com:djfulk-22/Personal-S26-TeamA3-App-Repo-.git
+   88f0f47..613e135  main -> main
+PROJECT_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+SCRAPERS_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS
+APP_DATA_DIR: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data
+Attendance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/GoHeels_Attendance_Scraper/unc_baseball_final.csv
+Copied refreshed GoHeels CSV -> /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/data/unc_baseball_final.csv
+Performance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/exports/uncbaseball_season_performance_0331.csv
+Midseason scoring refresh complete.
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_full_df.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv
+Preseason actual sync complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/preseason_predictions_2024_2026_full_df.csv
+  Midseason source column used: attendance_pred
+  Join keys used: ['event_id']
+  Rows with refreshed actuals available: 94
+  Rows whose preseason actual changed: 0
+
+Running sanity checks...
+db_predictions_2024_2026_full_df.csv: shape=(107, 133)
+season_year
+2024.0    40
+2025.0    38
+2026.0    29
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_raw_tier_cols.csv: shape=(107, 92)
+season_year
+2024.0    40
+2025.0    38
+2026.0    29
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_final_feats_export.csv: shape=(107, 40)
+season_year
+2024.0    40
+2025.0    38
+2026.0    29
+Name: count, dtype: int64
+preseason_predictions_2024_2026_full_df.csv: shape=(102, 136)
+season_year
+2024.0    34
+2025.0    31
+2026.0    37
+Name: count, dtype: int64
+
+Committing and pushing updated app data files...
+
+>>> Running: git add APP/data/db_predictions_2024_2026_full_df.csv APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv APP/data/preseason_predictions_2024_2026_full_df.csv
+
+>>> Running: git commit -m Automated app data refresh 2026-04-21 05:34:54
+
+>>> Running: git push origin main
+
+Refresh pipeline completed successfully.
+Finished refresh: Tue Apr 21 05:34:56 EDT 2026
+==================================================
+==================================================
+Starting refresh: Wed Apr 22 05:40:51 EDT 2026
+Repo: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+[main 5874469] Automated app data refresh 2026-04-22 06:06:11
+ 4 files changed, 4 insertions(+), 1 deletion(-)
+To github.com:djfulk-22/Personal-S26-TeamA3-App-Repo-.git
+   613e135..5874469  main -> main
+PROJECT_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+SCRAPERS_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS
+APP_DATA_DIR: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data
+Attendance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/GoHeels_Attendance_Scraper/unc_baseball_final.csv
+Copied refreshed GoHeels CSV -> /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/data/unc_baseball_final.csv
+Performance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/exports/uncbaseball_season_performance_0331.csv
+Midseason scoring refresh complete.
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_full_df.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv
+Preseason actual sync complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/preseason_predictions_2024_2026_full_df.csv
+  Midseason source column used: attendance_pred
+  Join keys used: ['event_id']
+  Rows with refreshed actuals available: 95
+  Rows whose preseason actual changed: 1
+
+Running sanity checks...
+db_predictions_2024_2026_full_df.csv: shape=(108, 133)
+season_year
+2024.0    40
+2025.0    38
+2026.0    30
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_raw_tier_cols.csv: shape=(108, 92)
+season_year
+2024.0    40
+2025.0    38
+2026.0    30
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_final_feats_export.csv: shape=(108, 40)
+season_year
+2024.0    40
+2025.0    38
+2026.0    30
+Name: count, dtype: int64
+preseason_predictions_2024_2026_full_df.csv: shape=(102, 136)
+season_year
+2024.0    34
+2025.0    31
+2026.0    37
+Name: count, dtype: int64
+
+Committing and pushing updated app data files...
+
+>>> Running: git add APP/data/db_predictions_2024_2026_full_df.csv APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv APP/data/preseason_predictions_2024_2026_full_df.csv
+
+>>> Running: git commit -m Automated app data refresh 2026-04-22 06:06:11
+
+>>> Running: git push origin main
+
+Refresh pipeline completed successfully.
+Finished refresh: Wed Apr 22 06:06:13 EDT 2026
+==================================================
+==================================================
+Starting refresh: Thu Apr 23 05:30:05 EDT 2026
+Repo: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+PROJECT_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+SCRAPERS_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS
+APP_DATA_DIR: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data
+Attendance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/GoHeels_Attendance_Scraper/unc_baseball_final.csv
+Copied refreshed GoHeels CSV -> /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/data/unc_baseball_final.csv
+Performance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/exports/uncbaseball_season_performance_0331.csv
+Midseason scoring refresh complete.
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_full_df.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv
+Preseason actual sync complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/preseason_predictions_2024_2026_full_df.csv
+  Midseason source column used: attendance_pred
+  Join keys used: ['event_id']
+  Rows with refreshed actuals available: 95
+  Rows whose preseason actual changed: 0
+
+Running sanity checks...
+db_predictions_2024_2026_full_df.csv: shape=(108, 133)
+season_year
+2024.0    40
+2025.0    38
+2026.0    30
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_raw_tier_cols.csv: shape=(108, 92)
+season_year
+2024.0    40
+2025.0    38
+2026.0    30
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_final_feats_export.csv: shape=(108, 40)
+season_year
+2024.0    40
+2025.0    38
+2026.0    30
+Name: count, dtype: int64
+preseason_predictions_2024_2026_full_df.csv: shape=(102, 136)
+season_year
+2024.0    34
+2025.0    31
+2026.0    37
+Name: count, dtype: int64
+
+Committing and pushing updated app data files...
+
+>>> Running: git add APP/data/db_predictions_2024_2026_full_df.csv APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv APP/data/preseason_predictions_2024_2026_full_df.csv
+
+No changes detected in staged app data files. Nothing to commit.
+
+Refresh pipeline completed successfully.
+Finished refresh: Thu Apr 23 05:34:39 EDT 2026
+==================================================
+==================================================
+Starting refresh: Fri Apr 24 05:30:05 EDT 2026
+Repo: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+PROJECT_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+SCRAPERS_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS
+APP_DATA_DIR: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data
+Attendance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/GoHeels_Attendance_Scraper/unc_baseball_final.csv
+Copied refreshed GoHeels CSV -> /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/data/unc_baseball_final.csv
+Performance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/exports/uncbaseball_season_performance_0331.csv
+Midseason scoring refresh complete.
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_full_df.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv
+Preseason actual sync complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/preseason_predictions_2024_2026_full_df.csv
+  Midseason source column used: attendance_pred
+  Join keys used: ['event_id']
+  Rows with refreshed actuals available: 95
+  Rows whose preseason actual changed: 0
+
+Running sanity checks...
+db_predictions_2024_2026_full_df.csv: shape=(108, 133)
+season_year
+2024.0    40
+2025.0    38
+2026.0    30
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_raw_tier_cols.csv: shape=(108, 92)
+season_year
+2024.0    40
+2025.0    38
+2026.0    30
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_final_feats_export.csv: shape=(108, 40)
+season_year
+2024.0    40
+2025.0    38
+2026.0    30
+Name: count, dtype: int64
+preseason_predictions_2024_2026_full_df.csv: shape=(102, 136)
+season_year
+2024.0    34
+2025.0    31
+2026.0    37
+Name: count, dtype: int64
+
+Committing and pushing updated app data files...
+
+>>> Running: git add APP/data/db_predictions_2024_2026_full_df.csv APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv APP/data/preseason_predictions_2024_2026_full_df.csv
+
+No changes detected in staged app data files. Nothing to commit.
+
+Refresh pipeline completed successfully.
+Finished refresh: Fri Apr 24 05:34:51 EDT 2026
+==================================================
+==================================================
+Starting refresh: Sat Apr 25 05:30:04 EDT 2026
+Repo: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+PROJECT_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+SCRAPERS_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS
+APP_DATA_DIR: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data
+Attendance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/GoHeels_Attendance_Scraper/unc_baseball_final.csv
+Copied refreshed GoHeels CSV -> /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/data/unc_baseball_final.csv
+Performance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/exports/uncbaseball_season_performance_0331.csv
+Midseason scoring refresh complete.
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_full_df.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv
+Preseason actual sync complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/preseason_predictions_2024_2026_full_df.csv
+  Midseason source column used: attendance_pred
+  Join keys used: ['event_id']
+  Rows with refreshed actuals available: 95
+  Rows whose preseason actual changed: 0
+
+Running sanity checks...
+db_predictions_2024_2026_full_df.csv: shape=(108, 133)
+season_year
+2024.0    40
+2025.0    38
+2026.0    30
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_raw_tier_cols.csv: shape=(108, 92)
+season_year
+2024.0    40
+2025.0    38
+2026.0    30
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_final_feats_export.csv: shape=(108, 40)
+season_year
+2024.0    40
+2025.0    38
+2026.0    30
+Name: count, dtype: int64
+preseason_predictions_2024_2026_full_df.csv: shape=(102, 136)
+season_year
+2024.0    34
+2025.0    31
+2026.0    37
+Name: count, dtype: int64
+
+Committing and pushing updated app data files...
+
+>>> Running: git add APP/data/db_predictions_2024_2026_full_df.csv APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv APP/data/preseason_predictions_2024_2026_full_df.csv
+
+No changes detected in staged app data files. Nothing to commit.
+
+Refresh pipeline completed successfully.
+Finished refresh: Sat Apr 25 05:34:33 EDT 2026
+==================================================
+==================================================
+Starting refresh: Sun Apr 26 05:30:04 EDT 2026
+Repo: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+[main e989855] Automated app data refresh 2026-04-26 05:43:20
+ 1 file changed, 6 insertions(+), 6 deletions(-)
+To github.com:djfulk-22/Personal-S26-TeamA3-App-Repo-.git
+   5874469..e989855  main -> main
+PROJECT_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+SCRAPERS_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS
+APP_DATA_DIR: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data
+Attendance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/GoHeels_Attendance_Scraper/unc_baseball_final.csv
+Copied refreshed GoHeels CSV -> /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/data/unc_baseball_final.csv
+Performance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/exports/uncbaseball_season_performance_0331.csv
+Midseason scoring refresh complete.
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_full_df.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv
+Preseason actual sync complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/preseason_predictions_2024_2026_full_df.csv
+  Midseason source column used: attendance_pred
+  Join keys used: ['event_id']
+  Rows with refreshed actuals available: 95
+  Rows whose preseason actual changed: 0
+
+Running sanity checks...
+db_predictions_2024_2026_full_df.csv: shape=(108, 133)
+season_year
+2024.0    40
+2025.0    38
+2026.0    30
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_raw_tier_cols.csv: shape=(108, 92)
+season_year
+2024.0    40
+2025.0    38
+2026.0    30
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_final_feats_export.csv: shape=(108, 40)
+season_year
+2024.0    40
+2025.0    38
+2026.0    30
+Name: count, dtype: int64
+preseason_predictions_2024_2026_full_df.csv: shape=(102, 136)
+season_year
+2024.0    34
+2025.0    31
+2026.0    37
+Name: count, dtype: int64
+
+Committing and pushing updated app data files...
+
+>>> Running: git add APP/data/db_predictions_2024_2026_full_df.csv APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv APP/data/preseason_predictions_2024_2026_full_df.csv
+
+>>> Running: git commit -m Automated app data refresh 2026-04-26 05:43:20
+
+>>> Running: git push origin main
+
+Refresh pipeline completed successfully.
+Finished refresh: Sun Apr 26 05:43:22 EDT 2026
+==================================================
+==================================================
+Starting refresh: Mon Apr 27 05:30:02 EDT 2026
+Repo: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+[main 12293c9] Automated app data refresh 2026-04-27 05:34:43
+ 3 files changed, 3 insertions(+)
+To github.com:djfulk-22/Personal-S26-TeamA3-App-Repo-.git
+   e989855..12293c9  main -> main
+PROJECT_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+SCRAPERS_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS
+APP_DATA_DIR: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data
+Attendance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/GoHeels_Attendance_Scraper/unc_baseball_final.csv
+Copied refreshed GoHeels CSV -> /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/data/unc_baseball_final.csv
+Performance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/exports/uncbaseball_season_performance_0331.csv
+Midseason scoring refresh complete.
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_full_df.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv
+Preseason actual sync complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/preseason_predictions_2024_2026_full_df.csv
+  Midseason source column used: attendance_pred
+  Join keys used: ['event_id']
+  Rows with refreshed actuals available: 95
+  Rows whose preseason actual changed: 0
+
+Running sanity checks...
+db_predictions_2024_2026_full_df.csv: shape=(109, 133)
+season_year
+2024.0    40
+2025.0    38
+2026.0    31
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_raw_tier_cols.csv: shape=(109, 92)
+season_year
+2024.0    40
+2025.0    38
+2026.0    31
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_final_feats_export.csv: shape=(109, 40)
+season_year
+2024.0    40
+2025.0    38
+2026.0    31
+Name: count, dtype: int64
+preseason_predictions_2024_2026_full_df.csv: shape=(102, 136)
+season_year
+2024.0    34
+2025.0    31
+2026.0    37
+Name: count, dtype: int64
+
+Committing and pushing updated app data files...
+
+>>> Running: git add APP/data/db_predictions_2024_2026_full_df.csv APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv APP/data/preseason_predictions_2024_2026_full_df.csv
+
+>>> Running: git commit -m Automated app data refresh 2026-04-27 05:34:43
+
+>>> Running: git push origin main
+
+Refresh pipeline completed successfully.
+Finished refresh: Mon Apr 27 05:34:44 EDT 2026
+==================================================
+==================================================
+Starting refresh: Tue Apr 28 05:30:04 EDT 2026
+Repo: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+[main 12c794b] Automated app data refresh 2026-04-28 05:34:41
+ 3 files changed, 3 deletions(-)
+To github.com:djfulk-22/Personal-S26-TeamA3-App-Repo-.git
+   12293c9..12c794b  main -> main
+PROJECT_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+SCRAPERS_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS
+APP_DATA_DIR: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data
+Attendance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/GoHeels_Attendance_Scraper/unc_baseball_final.csv
+Copied refreshed GoHeels CSV -> /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/data/unc_baseball_final.csv
+Performance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/exports/uncbaseball_season_performance_0331.csv
+Midseason scoring refresh complete.
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_full_df.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv
+Preseason actual sync complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/preseason_predictions_2024_2026_full_df.csv
+  Midseason source column used: attendance_pred
+  Join keys used: ['event_id']
+  Rows with refreshed actuals available: 95
+  Rows whose preseason actual changed: 0
+
+Running sanity checks...
+db_predictions_2024_2026_full_df.csv: shape=(108, 133)
+season_year
+2024.0    40
+2025.0    38
+2026.0    30
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_raw_tier_cols.csv: shape=(108, 92)
+season_year
+2024.0    40
+2025.0    38
+2026.0    30
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_final_feats_export.csv: shape=(108, 40)
+season_year
+2024.0    40
+2025.0    38
+2026.0    30
+Name: count, dtype: int64
+preseason_predictions_2024_2026_full_df.csv: shape=(102, 136)
+season_year
+2024.0    34
+2025.0    31
+2026.0    37
+Name: count, dtype: int64
+
+Committing and pushing updated app data files...
+
+>>> Running: git add APP/data/db_predictions_2024_2026_full_df.csv APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv APP/data/preseason_predictions_2024_2026_full_df.csv
+
+>>> Running: git commit -m Automated app data refresh 2026-04-28 05:34:41
+
+>>> Running: git push origin main
+
+Refresh pipeline completed successfully.
+Finished refresh: Tue Apr 28 05:34:43 EDT 2026
+==================================================
+==================================================
+Starting refresh: Wed Apr 29 05:30:01 EDT 2026
+Repo: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+[main ee031c4] Automated app data refresh 2026-04-29 05:35:06
+ 4 files changed, 4 insertions(+), 1 deletion(-)
+To github.com:djfulk-22/Personal-S26-TeamA3-App-Repo-.git
+   12c794b..ee031c4  main -> main
+PROJECT_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+SCRAPERS_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS
+APP_DATA_DIR: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data
+Attendance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/GoHeels_Attendance_Scraper/unc_baseball_final.csv
+Copied refreshed GoHeels CSV -> /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/data/unc_baseball_final.csv
+Performance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/exports/uncbaseball_season_performance_0331.csv
+Midseason scoring refresh complete.
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_full_df.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv
+Preseason actual sync complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/preseason_predictions_2024_2026_full_df.csv
+  Midseason source column used: attendance_pred
+  Join keys used: ['event_id']
+  Rows with refreshed actuals available: 96
+  Rows whose preseason actual changed: 1
+
+Running sanity checks...
+db_predictions_2024_2026_full_df.csv: shape=(109, 133)
+season_year
+2024.0    40
+2025.0    38
+2026.0    31
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_raw_tier_cols.csv: shape=(109, 92)
+season_year
+2024.0    40
+2025.0    38
+2026.0    31
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_final_feats_export.csv: shape=(109, 40)
+season_year
+2024.0    40
+2025.0    38
+2026.0    31
+Name: count, dtype: int64
+preseason_predictions_2024_2026_full_df.csv: shape=(102, 136)
+season_year
+2024.0    34
+2025.0    31
+2026.0    37
+Name: count, dtype: int64
+
+Committing and pushing updated app data files...
+
+>>> Running: git add APP/data/db_predictions_2024_2026_full_df.csv APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv APP/data/preseason_predictions_2024_2026_full_df.csv
+
+>>> Running: git commit -m Automated app data refresh 2026-04-29 05:35:06
+
+>>> Running: git push origin main
+
+Refresh pipeline completed successfully.
+Finished refresh: Wed Apr 29 05:35:07 EDT 2026
+==================================================
+==================================================
+Starting refresh: Thu Apr 30 05:30:05 EDT 2026
+Repo: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+[main e21456c] Automated app data refresh 2026-04-30 05:35:20
+ 3 files changed, 40 insertions(+), 40 deletions(-)
+To github.com:djfulk-22/Personal-S26-TeamA3-App-Repo-.git
+   ee031c4..e21456c  main -> main
+PROJECT_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+SCRAPERS_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS
+APP_DATA_DIR: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data
+Attendance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/GoHeels_Attendance_Scraper/unc_baseball_final.csv
+Copied refreshed GoHeels CSV -> /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/data/unc_baseball_final.csv
+Performance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/exports/uncbaseball_season_performance_0331.csv
+Midseason scoring refresh complete.
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_full_df.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv
+Preseason actual sync complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/preseason_predictions_2024_2026_full_df.csv
+  Midseason source column used: attendance_pred
+  Join keys used: ['event_id']
+  Rows with refreshed actuals available: 96
+  Rows whose preseason actual changed: 0
+
+Running sanity checks...
+db_predictions_2024_2026_full_df.csv: shape=(109, 133)
+season_year
+2024.0    40
+2025.0    38
+2026.0    31
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_raw_tier_cols.csv: shape=(109, 92)
+season_year
+2024.0    40
+2025.0    38
+2026.0    31
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_final_feats_export.csv: shape=(109, 40)
+season_year
+2024.0    40
+2025.0    38
+2026.0    31
+Name: count, dtype: int64
+preseason_predictions_2024_2026_full_df.csv: shape=(102, 136)
+season_year
+2024.0    34
+2025.0    31
+2026.0    37
+Name: count, dtype: int64
+
+Committing and pushing updated app data files...
+
+>>> Running: git add APP/data/db_predictions_2024_2026_full_df.csv APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv APP/data/preseason_predictions_2024_2026_full_df.csv
+
+>>> Running: git commit -m Automated app data refresh 2026-04-30 05:35:20
+
+>>> Running: git push origin main
+
+Refresh pipeline completed successfully.
+Finished refresh: Thu Apr 30 05:35:21 EDT 2026
+==================================================
+==================================================
+Starting refresh: Fri May  1 05:30:05 EDT 2026
+Repo: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+[main 2f68a84] Automated app data refresh 2026-05-01 05:34:55
+ 3 files changed, 40 insertions(+), 40 deletions(-)
+To github.com:djfulk-22/Personal-S26-TeamA3-App-Repo-.git
+   e21456c..2f68a84  main -> main
+PROJECT_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-
+SCRAPERS_ROOT: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS
+APP_DATA_DIR: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data
+Attendance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/GoHeels_Attendance_Scraper/unc_baseball_final.csv
+Copied refreshed GoHeels CSV -> /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/data/unc_baseball_final.csv
+Performance refresh complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/SCRAPERS/Game_Stat_Scraper/exports/uncbaseball_season_performance_0331.csv
+Midseason scoring refresh complete.
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_full_df.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv
+  wrote: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv
+Preseason actual sync complete: /Users/danielfulk/GitHub/Personal-S26-TeamA3-App-Repo-/APP/data/preseason_predictions_2024_2026_full_df.csv
+  Midseason source column used: attendance_pred
+  Join keys used: ['event_id']
+  Rows with refreshed actuals available: 96
+  Rows whose preseason actual changed: 0
+
+Running sanity checks...
+db_predictions_2024_2026_full_df.csv: shape=(109, 133)
+season_year
+2024.0    40
+2025.0    38
+2026.0    31
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_raw_tier_cols.csv: shape=(109, 92)
+season_year
+2024.0    40
+2025.0    38
+2026.0    31
+Name: count, dtype: int64
+db_predictions_2024_2026_tier5_final_feats_export.csv: shape=(109, 40)
+season_year
+2024.0    40
+2025.0    38
+2026.0    31
+Name: count, dtype: int64
+preseason_predictions_2024_2026_full_df.csv: shape=(102, 136)
+season_year
+2024.0    34
+2025.0    31
+2026.0    37
+Name: count, dtype: int64
+
+Committing and pushing updated app data files...
+
+>>> Running: git add APP/data/db_predictions_2024_2026_full_df.csv APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv APP/data/preseason_predictions_2024_2026_full_df.csv
+
+>>> Running: git commit -m Automated app data refresh 2026-05-01 05:34:55
+
+>>> Running: git push origin main
+
+Refresh pipeline completed successfully.
+Finished refresh: Fri May  1 05:34:57 EDT 2026
+==================================================

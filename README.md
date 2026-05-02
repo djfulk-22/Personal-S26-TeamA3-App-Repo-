@@ -67,8 +67,8 @@ This folder stores the CSV files used directly by the app.
 
 The automated refresh pipeline currently updates these three midseason files:
 - `db_predictions_2024_2026_full_df.csv`
-- `db_predictions_2024_2026_tier3_raw_tier_cols.csv`
-- `db_predictions_2024_2026_tier3_final_feats_export.csv`
+- `db_predictions_2024_2026_tier5_raw_tier_cols.csv`
+- `db_predictions_2024_2026_tier5_final_feats_export.csv`
 
 The app is also configured to support preseason files if they are present in the same folder.
 
@@ -202,8 +202,8 @@ The intended daily refresh mechanism is:
 
 ### App-facing midseason outputs
 - `APP/data/db_predictions_2024_2026_full_df.csv`
-- `APP/data/db_predictions_2024_2026_tier3_raw_tier_cols.csv`
-- `APP/data/db_predictions_2024_2026_tier3_final_feats_export.csv`
+- `APP/data/db_predictions_2024_2026_tier5_raw_tier_cols.csv`
+- `APP/data/db_predictions_2024_2026_tier5_final_feats_export.csv`
 
 ## Local deployment and path notes
 
